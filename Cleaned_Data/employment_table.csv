@@ -1,0 +1,1921 @@
+applicant_id,employment_id,employment_type,employer_name,duration_of_employment_years,monthly_income_usd,bank_account_number
+Ap221958,Em221958,Hourly,Harris-Jackson Corp.,7.7,17041.0,98441561.0
+Ap771155,Em771155,Salaried,"Davis, Hernandez and Perry Corp.",6.6,18107.0,43092350.0
+Ap231932,Em231932,Salaried,Clark-Martinez Corp.,26.4,26559.0,60210791.0
+Ap465838,Em465838,Self-Employed,Mcconnell LLC LLC,7.6,6863.0,62723558.0
+Ap359178,Em359178,Hourly,Rice-Brown Corp.,9.9,6183.0,22790259.0
+Ap744167,Em744167,Self-Employed,Brown-Lopez LLC,12.0,16883.0,72130843.0
+Ap210268,Em210268,Hourly,"Rodriguez, Richardson and Morris Corp.",28.1,4085.0,25024511.0
+Ap832180,Em832180,Self-Employed,"Jackson, Kelly and Gregory LLC",15.1,18068.0,107879244.0
+Ap154886,Em154886,Salaried,Garrett PLC Corp.,26.8,17970.0,78287091.0
+Ap237337,Em237337,Salaried,Compton Ltd Corp.,5.3,12243.0,32957493.0
+Ap621430,Em621430,Salaried,Ashley-Wilson Corp.,17.9,4642.0,59947541.0
+Ap187498,Em187498,Hourly,"Arroyo, Lindsey and Cox Corp.",24.2,19812.0,29797035.0
+Ap999159,Em999159,Salaried,"Owen, Glass and Wheeler Corp.",28.0,12317.0,21328059.0
+Ap275203,Em275203,Self-Employed,Bush-Brooks LLC,19.1,21459.0,32569593.0
+Ap291335,Em291335,Salaried,Smith Ltd Corp.,20.6,15612.0,69947311.0
+Ap378167,Em378167,Salaried,Harvey-Jennings Corp.,16.6,12016.0,112133807.0
+Ap141090,Em141090,Salaried,Young Group Corp.,26.8,16503.0,78315730.0
+Ap429365,Em429365,Self-Employed,Deleon Inc LLC,4.1,24094.0,95524038.0
+Ap164820,Em164820,Salaried,Peck Ltd Corp.,8.4,20751.0,85512254.0
+Ap887201,Em887201,Self-Employed,"Luna, Trevino and Moon LLC",11.4,8358.0,59236498.0
+Ap421879,Em421879,Salaried,Horton-Cohen Corp.,15.3,10277.0,73100089.0
+Ap818315,Em818315,Hourly,"Munoz, Reyes and Humphrey Corp.",24.6,22838.0,114028253.0
+Ap427069,Em427069,Salaried,Scott-Garrett Corp.,13.0,28001.0,98618433.0
+Ap876997,Em876997,Salaried,Parker Inc Corp.,16.8,10725.0,22429614.0
+Ap299041,Em299041,Salaried,"Hughes, Davis and Ramirez Corp.",25.7,16882.0,92258129.0
+Ap891743,Em891743,Salaried,"Macias, Reese and Pacheco Corp.",16.6,18827.0,96243130.0
+Ap203355,Em203355,Self-Employed,Barnett-Campbell LLC,8.0,12215.0,101875998.0
+Ap335796,Em335796,Self-Employed,"Davidson, Patel and Wilson LLC",10.1,18109.0,40851015.0
+Ap314176,Em314176,Hourly,Lee-Patel Corp.,28.2,21875.0,39487416.0
+Ap284779,Em284779,Hourly,"Walsh, Sullivan and Tucker Corp.",16.3,12880.0,51104997.0
+Ap447449,Em447449,Salaried,Welch-Cox Corp.,3.9,27883.0,124715873.0
+Ap521909,Em521909,Salaried,Taylor-Garcia Corp.,15.4,18489.0,100858000.0
+Ap358795,Em358795,Hourly,Moore-Ferguson Corp.,28.0,19977.0,71984029.0
+Ap586232,Em586232,Salaried,Hoover Group Corp.,16.7,21063.0,14591194.0
+Ap600186,Em600186,Salaried,Parker-Love Corp.,17.1,26775.0,128145834.0
+Ap256730,Em256730,Self-Employed,"Sanchez, Wallace and Warren LLC",10.5,16166.0,36848595.0
+Ap970910,Em970910,Self-Employed,"Green, Anthony and Brown LLC",11.4,23958.0,100120961.0
+Ap484681,Em484681,Salaried,"Hernandez, Payne and Walker Corp.",5.1,16041.0,11614553.0
+Ap249503,Em249503,Salaried,Hendricks LLC Corp.,2.1,19462.0,69488854.0
+Ap754811,Em754811,Salaried,"Pacheco, Grimes and Blake Corp.",6.5,18343.0,60819736.0
+Ap627035,Em627035,Salaried,Gutierrez Ltd Corp.,16.7,4067.0,24513625.0
+Ap748143,Em748143,Self-Employed,Underwood-Cross LLC,8.5,17264.0,128254408.0
+Ap552366,Em552366,Salaried,Ford-Chan Corp.,7.2,5842.0,49498741.0
+Ap165725,Em165725,Salaried,"Cooper, Rios and Smith Corp.",25.4,20589.0,70170096.0
+Ap229981,Em229981,Self-Employed,Gomez Inc LLC,16.8,10764.0,75240617.0
+Ap184654,Em184654,Salaried,Thomas Group Corp.,20.3,25793.0,40743178.0
+Ap691723,Em691723,Self-Employed,Haney and Sons LLC,11.1,10821.0,33062060.0
+Ap419030,Em419030,Salaried,"Robertson, Horne and Simmons Corp.",15.3,11370.0,100112173.0
+Ap428947,Em428947,Salaried,Taylor-Garcia Corp.,1.3,2459.0,26708551.0
+Ap655839,Em655839,Salaried,"Jones, Thomas and Boyle Corp.",22.1,22780.0,64208110.0
+Ap373538,Em373538,Salaried,Meyers-Powell Corp.,23.6,11182.0,77297901.0
+Ap431236,Em431236,Self-Employed,Zimmerman-Franklin LLC,14.6,19886.0,26583527.0
+Ap628178,Em628178,Salaried,Beck and Sons Corp.,12.5,15672.0,17820189.0
+Ap665894,Em665894,Self-Employed,Gonzalez and Sons LLC,15.8,4438.0,19156466.0
+Ap589492,Em589492,Self-Employed,Robertson-Sullivan LLC,1.8,6202.0,19527749.0
+Ap356840,Em356840,Salaried,Atkinson-Spencer Corp.,26.9,13756.0,51327923.0
+Ap573254,Em573254,Salaried,Benitez Group Corp.,29.4,23930.0,39287551.0
+Ap449457,Em449457,Self-Employed,"Pope, White and Wolfe LLC",3.2,11361.0,109853035.0
+Ap765987,Em765987,Salaried,Smith Inc Corp.,9.6,27125.0,45228481.0
+Ap370936,Em370936,Self-Employed,Mahoney and Sons LLC,13.5,9160.0,90977813.0
+Ap339931,Em339931,Salaried,Mueller PLC Corp.,17.2,14158.0,71854269.0
+Ap339629,Em339629,Salaried,Yang-Nielsen Corp.,16.8,28049.0,84892917.0
+Ap305041,Em305041,Self-Employed,Costa-Scott LLC,16.7,10025.0,34788084.0
+Ap798361,Em798361,Salaried,"Romero, Robertson and Mcguire Corp.",27.9,27979.0,104799709.0
+Ap831912,Em831912,Self-Employed,Coleman-Wood LLC,17.9,9242.0,87276734.0
+Ap517113,Em517113,Salaried,"Carter, Bell and Hess Corp.",19.4,23224.0,57504821.0
+Ap168148,Em168148,Salaried,Johnson Group Corp.,6.8,15200.0,28757649.0
+Ap877089,Em877089,Salaried,Foster-Hunter Corp.,4.7,25361.0,44400064.0
+Ap748531,Em748531,Self-Employed,Gordon LLC LLC,18.8,3616.0,98362789.0
+Ap351995,Em351995,Hourly,"Jones, Chen and Barnett Corp.",5.0,18149.0,83563069.0
+Ap778843,Em778843,Salaried,Gray Ltd Corp.,20.6,2471.0,19626718.0
+Ap672843,Em672843,Salaried,Jordan LLC Corp.,20.1,7306.0,118111205.0
+Ap356508,Em356508,Self-Employed,"Peterson, Steele and Wood LLC",12.9,18929.0,78368842.0
+Ap903591,Em903591,Salaried,Wright PLC Corp.,8.1,10356.0,36223576.0
+Ap996942,Em996942,Salaried,Hall-Murray Corp.,29.0,23259.0,62056377.0
+Ap206530,Em206530,Salaried,"Mullins, Wallace and Medina Corp.",17.3,24478.0,90530470.0
+Ap704365,Em704365,Salaried,Gonzalez Inc Corp.,22.0,3619.0,83454149.0
+Ap922352,Em922352,Hourly,"Gibbs, Valentine and Alvarez Corp.",12.7,28987.0,82261142.0
+Ap560337,Em560337,Salaried,"Barton, Hess and Lewis Corp.",10.1,5704.0,13474814.0
+Ap824839,Em824839,Salaried,Swanson-Thompson Corp.,18.0,6468.0,10338953.0
+Ap905889,Em905889,Salaried,Richard Inc Corp.,4.0,15095.0,51017440.0
+Ap559773,Em559773,Hourly,Burns Group Corp.,27.2,28784.0,66112932.0
+Ap308261,Em308261,Salaried,Malone-Howard Corp.,15.9,24716.0,61586644.0
+Ap864469,Em864469,Salaried,Walker Ltd Corp.,1.9,22284.0,24954019.0
+Ap441097,Em441097,Salaried,Blankenship-Melton Corp.,18.9,9441.0,125242565.0
+Ap415139,Em415139,Salaried,"Simon, Benjamin and Woods Corp.",23.3,26706.0,32784705.0
+Ap271829,Em271829,Salaried,"Hawkins, Mcpherson and Johnson Corp.",1.4,3784.0,92027211.0
+Ap371836,Em371836,Salaried,Chang-Chase Corp.,28.0,20528.0,102610877.0
+Ap538974,Em538974,Salaried,"Jimenez, Blanchard and Hernandez Corp.",11.1,9825.0,27946969.0
+Ap302283,Em302283,Salaried,"Chavez, Martinez and Jennings Corp.",24.2,27744.0,50199631.0
+Ap296769,Em296769,Salaried,Fields Inc Corp.,4.4,22300.0,98536340.0
+Ap661353,Em661353,Self-Employed,"Chapman, Tyler and Obrien LLC",6.7,16837.0,126508431.0
+Ap323165,Em323165,Salaried,"Johnson, Larson and Kaiser Corp.",2.5,17512.0,103287513.0
+Ap723587,Em723587,Salaried,"Murray, Walker and Thompson Corp.",25.2,21809.0,65473656.0
+Ap635822,Em635822,Hourly,"Johnson, Mcdonald and Petersen Corp.",28.7,27845.0,35973720.0
+Ap587879,Em587879,Self-Employed,Warren LLC LLC,11.5,16744.0,117229855.0
+Ap664685,Em664685,Salaried,Kane Group Corp.,7.4,24857.0,47902938.0
+Ap882038,Em882038,Salaried,Glover-Rivers Corp.,1.1,17743.0,48775009.0
+Ap453531,Em453531,Salaried,Griffin Group Corp.,6.8,11349.0,112897114.0
+Ap363160,Em363160,Salaried,"Reynolds, Haynes and Miranda Corp.",25.3,21287.0,84291990.0
+Ap679879,Em679879,Salaried,Peters Ltd Corp.,7.0,24858.0,57391694.0
+Ap320884,Em320884,Salaried,Boyer-Reed Corp.,10.3,2658.0,87213658.0
+Ap123247,Em123247,Self-Employed,Cross-Jackson LLC,18.8,21710.0,35776736.0
+Ap124300,Em124300,Salaried,"Bowen, Taylor and Mccarthy Corp.",16.3,26936.0,113175246.0
+Ap567281,Em567281,Salaried,"Brown, Cruz and Davidson Corp.",29.7,19535.0,83686124.0
+Ap707086,Em707086,Salaried,Patel-Sullivan Corp.,18.7,7793.0,44058047.0
+Ap633556,Em633556,Salaried,Smith-Mckay Corp.,28.7,16565.0,60178037.0
+Ap448951,Em448951,Salaried,Cordova Inc Corp.,18.8,20712.0,20370192.0
+Ap374329,Em374329,Self-Employed,Valencia Group LLC,7.8,8155.0,35995313.0
+Ap819064,Em819064,Salaried,Ramirez Inc Corp.,27.9,2493.0,124855775.0
+Ap842139,Em842139,Salaried,English LLC Corp.,9.6,11551.0,49411472.0
+Ap532315,Em532315,Salaried,Foster-Murray Corp.,11.7,28240.0,100315815.0
+Ap616588,Em616588,Salaried,Garcia PLC Corp.,5.1,11658.0,119155707.0
+Ap336584,Em336584,Salaried,"Solis, Walter and Hamilton Corp.",19.4,4534.0,35671828.0
+Ap662332,Em662332,Hourly,Love-Singleton Corp.,23.4,8745.0,102114043.0
+Ap937646,Em937646,Hourly,Padilla PLC Corp.,17.6,3400.0,95031291.0
+Ap476896,Em476896,Salaried,"Farrell, Rodriguez and Burns Corp.",20.9,2775.0,95661881.0
+Ap148984,Em148984,Salaried,"Miller, Vasquez and Carey Corp.",2.0,13992.0,25115679.0
+Ap402918,Em402918,Self-Employed,Stone Group LLC,10.8,19815.0,12543885.0
+Ap364712,Em364712,Hourly,"Gilbert, Morris and Galvan Corp.",3.8,25449.0,39861511.0
+Ap220151,Em220151,Salaried,"Hayes, Ramos and Morgan Corp.",1.7,4073.0,126985821.0
+Ap555808,Em555808,Salaried,"Mitchell, Dennis and Simmons Corp.",5.0,19845.0,41367634.0
+Ap233767,Em233767,Salaried,"Aguirre, Santos and Mcdonald Corp.",26.5,24224.0,18167579.0
+Ap748663,Em748663,Salaried,Smith Inc Corp.,10.4,10612.0,11440468.0
+Ap803550,Em803550,Salaried,Shaw LLC Corp.,13.4,4363.0,89812277.0
+Ap236330,Em236330,Salaried,Williams-Dominguez Corp.,5.2,26354.0,61687349.0
+Ap580754,Em580754,Hourly,Williams PLC Corp.,13.1,8857.0,21566471.0
+Ap401648,Em401648,Salaried,Brown and Sons Corp.,16.7,5142.0,129650315.0
+Ap788519,Em788519,Salaried,Dunn-Benton Corp.,4.7,19767.0,79011703.0
+Ap113986,Em113986,Salaried,"Floyd, Heath and Black Corp.",9.4,16424.0,87364507.0
+Ap686146,Em686146,Salaried,Newton-Williams Corp.,10.6,28122.0,99272616.0
+Ap229312,Em229312,Salaried,White Inc Corp.,11.5,21447.0,25075793.0
+Ap112666,Em112666,Salaried,Randolph and Sons Corp.,1.7,28000.0,63516793.0
+Ap400804,Em400804,Salaried,"Brown, Bates and Nelson Corp.",13.6,16059.0,58106008.0
+Ap234633,Em234633,Salaried,Peterson-Stone Corp.,1.2,14689.0,103365037.0
+Ap388998,Em388998,Self-Employed,Robinson-Norris LLC,11.9,6976.0,83846980.0
+Ap950937,Em950937,Salaried,"Frey, Patterson and Campbell Corp.",25.9,22083.0,89607466.0
+Ap728776,Em728776,Salaried,Jackson Inc Corp.,1.3,8182.0,47437940.0
+Ap807611,Em807611,Salaried,Martin and Sons Corp.,10.1,27943.0,53534811.0
+Ap384806,Em384806,Salaried,Bryant Inc Corp.,12.6,5673.0,32149612.0
+Ap894824,Em894824,Salaried,Thomas-Anthony Corp.,23.1,5505.0,122694886.0
+Ap130535,Em130535,Salaried,"Forbes, Mitchell and Martin Corp.",20.7,4476.0,49031836.0
+Ap475713,Em475713,Salaried,"Wood, Golden and Pacheco Corp.",21.1,16306.0,104637159.0
+Ap938688,Em938688,Salaried,Warren-Turner Corp.,14.7,4172.0,117517389.0
+Ap451279,Em451279,Salaried,Ward Group Corp.,19.0,15210.0,94071906.0
+Ap921654,Em921654,Salaried,Smith Group Corp.,21.8,24406.0,59893200.0
+Ap701661,Em701661,Salaried,Benjamin Inc Corp.,23.5,3742.0,67702448.0
+Ap747972,Em747972,Salaried,Williams-Deleon Corp.,11.8,15845.0,36549713.0
+Ap589570,Em589570,Self-Employed,"Bennett, Gardner and Scott LLC",12.9,20916.0,64818542.0
+Ap556551,Em556551,Salaried,"Chavez, Hurley and Miller Corp.",18.3,17245.0,10613649.0
+Ap373109,Em373109,Self-Employed,"Ramos, Williams and Young LLC",19.0,10148.0,99910583.0
+Ap124538,Em124538,Self-Employed,Lee and Sons LLC,8.2,14739.0,37295590.0
+Ap994498,Em994498,Hourly,Davidson Group Corp.,25.6,21906.0,20359896.0
+Ap301664,Em301664,Self-Employed,Lynn and Sons LLC,7.8,7498.0,62072526.0
+Ap591234,Em591234,Hourly,Weiss-Newman Corp.,25.3,24100.0,114465049.0
+Ap999684,Em999684,Salaried,Lewis and Sons Corp.,18.6,5233.0,68507804.0
+Ap239182,Em239182,Hourly,"Ruiz, Davis and Myers Corp.",22.4,3038.0,96479483.0
+Ap572525,Em572525,Salaried,"Arnold, Bailey and Hernandez Corp.",12.1,15569.0,39251529.0
+Ap258338,Em258338,Salaried,"Bond, Smith and Patton Corp.",23.2,13287.0,13488224.0
+Ap284064,Em284064,Salaried,Rodriguez Ltd Corp.,8.9,27079.0,67420047.0
+Ap314020,Em314020,Hourly,"Hunter, Carroll and Diaz Corp.",14.8,16883.0,64460220.0
+Ap723094,Em723094,Salaried,"Davis, Harris and Logan Corp.",19.7,11344.0,57988722.0
+Ap997421,Em997421,Salaried,"Wright, Jones and Meza Corp.",4.3,12081.0,110325219.0
+Ap715270,Em715270,Self-Employed,Peters PLC LLC,18.8,22630.0,109809364.0
+Ap745914,Em745914,Salaried,Hanson-Johnson Corp.,15.3,6118.0,54780884.0
+Ap219176,Em219176,Salaried,Carter-Perez Corp.,12.8,12091.0,23234840.0
+Ap318126,Em318126,Salaried,Moore and Sons Corp.,7.4,4027.0,90931066.0
+Ap318969,Em318969,Self-Employed,Schmidt Inc LLC,19.8,21913.0,75960395.0
+Ap222409,Em222409,Salaried,"Collier, Wilson and Brown Corp.",10.5,29185.0,54399330.0
+Ap647707,Em647707,Salaried,Gonzalez PLC Corp.,11.4,6760.0,46497994.0
+Ap353618,Em353618,Self-Employed,Rogers Group LLC,13.3,14443.0,103083704.0
+Ap869598,Em869598,Hourly,Martin-Soto Corp.,3.4,16665.0,108080236.0
+Ap150015,Em150015,Salaried,"Hansen, Duffy and Braun Corp.",13.0,28371.0,98966716.0
+Ap872838,Em872838,Salaried,"Thomas, Holland and Olsen Corp.",0.8,13791.0,75103806.0
+Ap222096,Em222096,Salaried,"Moses, Barnes and Page Corp.",2.2,14393.0,49758591.0
+Ap731347,Em731347,Salaried,"Gallagher, Smith and Pena Corp.",14.8,10445.0,129824015.0
+Ap285340,Em285340,Salaried,"Huerta, Sullivan and Rogers Corp.",2.8,18872.0,107337799.0
+Ap210687,Em210687,Salaried,Grant-Vaughn Corp.,1.7,11139.0,65768455.0
+Ap974371,Em974371,Salaried,Page-Washington Corp.,3.2,26535.0,79052733.0
+Ap511357,Em511357,Self-Employed,"Brown, Brady and Elliott LLC",15.2,19131.0,128435984.0
+Ap835716,Em835716,Hourly,"Norton, Leon and Phillips Corp.",28.4,6534.0,59407984.0
+Ap205878,Em205878,Salaried,Howe-Smith Corp.,18.1,6123.0,90550557.0
+Ap827270,Em827270,Salaried,Arnold-Brown Corp.,6.5,27143.0,59355117.0
+Ap298286,Em298286,Salaried,Rodriguez-Doyle Corp.,21.4,19056.0,75887465.0
+Ap873290,Em873290,Salaried,Martinez-Jackson Corp.,28.6,20047.0,60396262.0
+Ap874684,Em874684,Salaried,Phillips-Sandoval Corp.,14.1,8662.0,119797880.0
+Ap264899,Em264899,Salaried,Stephens LLC Corp.,18.9,23911.0,20406710.0
+Ap424767,Em424767,Salaried,Charles-Holt Corp.,3.1,11036.0,66941857.0
+Ap961882,Em961882,Salaried,Perez-Clayton Corp.,17.1,15743.0,71165893.0
+Ap979858,Em979858,Salaried,"Walker, Lynn and Miller Corp.",22.3,19992.0,115061251.0
+Ap479989,Em479989,Salaried,"Cortez, Richardson and Weber Corp.",4.9,25574.0,77405049.0
+Ap515515,Em515515,Hourly,"Casey, Carter and Potter Corp.",23.6,10611.0,18649372.0
+Ap143585,Em143585,Salaried,Mcconnell-Hill Corp.,25.6,28638.0,88520450.0
+Ap471369,Em471369,Hourly,Duncan-Tate Corp.,26.0,20191.0,92360114.0
+Ap164044,Em164044,Self-Employed,Williams-Klein LLC,14.5,18813.0,17172086.0
+Ap542296,Em542296,Self-Employed,Wang-Brown LLC,3.4,5856.0,61637865.0
+Ap209556,Em209556,Salaried,"Gill, Alvarez and Allen Corp.",28.0,26811.0,93317276.0
+Ap626981,Em626981,Salaried,Burke PLC Corp.,21.8,29974.0,63354573.0
+Ap981691,Em981691,Salaried,Hernandez LLC Corp.,14.6,13955.0,88964951.0
+Ap867595,Em867595,Salaried,"Mayo, Smith and Smith Corp.",21.2,7841.0,123523642.0
+Ap300235,Em300235,Self-Employed,Thomas LLC LLC,13.4,9678.0,127818010.0
+Ap125939,Em125939,Self-Employed,Weeks PLC LLC,6.8,13387.0,21746411.0
+Ap252906,Em252906,Self-Employed,"Bauer, Potter and Mayer LLC",17.9,20464.0,40858089.0
+Ap642335,Em642335,Self-Employed,"Wilson, West and Hughes LLC",4.1,16358.0,88091536.0
+Ap388249,Em388249,Salaried,"White, Anderson and Mcmahon Corp.",24.9,17290.0,127557119.0
+Ap175766,Em175766,Salaried,"Crawford, Garner and David Corp.",19.0,19142.0,30314135.0
+Ap508923,Em508923,Hourly,Ramirez-Taylor Corp.,11.3,13918.0,67674110.0
+Ap515192,Em515192,Salaried,"Alvarado, Garcia and Berg Corp.",21.9,20740.0,50424241.0
+Ap668550,Em668550,Salaried,"Maldonado, Sanders and Chan Corp.",10.7,26866.0,88049494.0
+Ap487261,Em487261,Salaried,Reynolds-Wang Corp.,3.3,21517.0,91971339.0
+Ap910208,Em910208,Self-Employed,"Brooks, Elliott and Jackson LLC",14.0,11868.0,41297199.0
+Ap785440,Em785440,Salaried,Moss LLC Corp.,14.9,19912.0,57176615.0
+Ap752664,Em752664,Salaried,Jenkins-Green Corp.,18.0,3272.0,122246603.0
+Ap554589,Em554589,Salaried,"Robertson, Peters and Humphrey Corp.",8.2,25746.0,117668937.0
+Ap237848,Em237848,Salaried,Holmes-Sparks Corp.,26.5,20047.0,44538800.0
+Ap717075,Em717075,Salaried,"Burns, Jones and Johnson Corp.",24.0,21325.0,110448808.0
+Ap227948,Em227948,Salaried,"Mason, Smith and Gray Corp.",27.2,18030.0,103024145.0
+Ap679304,Em679304,Salaried,"Ruiz, Rodgers and Newman Corp.",15.6,20363.0,14190922.0
+Ap502690,Em502690,Salaried,Watson-Wright Corp.,6.7,9886.0,122277193.0
+Ap599046,Em599046,Self-Employed,Waters Group LLC,19.6,12386.0,93276113.0
+Ap551269,Em551269,Salaried,"Johns, Harrison and Church Corp.",0.9,14485.0,27913086.0
+Ap121959,Em121959,Salaried,"Kirk, Brewer and Conley Corp.",24.4,9724.0,21019067.0
+Ap760890,Em760890,Self-Employed,"Vega, Ayala and Macias LLC",11.6,9063.0,63237564.0
+Ap850216,Em850216,Salaried,Montgomery-Scott Corp.,14.2,5676.0,61566224.0
+Ap890180,Em890180,Salaried,Quinn Inc Corp.,13.7,3249.0,86254524.0
+Ap328576,Em328576,Salaried,Nelson and Sons Corp.,19.1,23860.0,61728512.0
+Ap637833,Em637833,Self-Employed,Ramirez Group LLC,17.4,24839.0,92220937.0
+Ap265838,Em265838,Self-Employed,"Rush, Johnson and Miller LLC",7.7,23620.0,105106537.0
+Ap435674,Em435674,Hourly,Deleon Group Corp.,14.5,17652.0,121277699.0
+Ap979989,Em979989,Salaried,Martinez-Richard Corp.,15.9,18332.0,10643402.0
+Ap161087,Em161087,Salaried,Lutz Inc Corp.,3.4,7828.0,74637881.0
+Ap693128,Em693128,Hourly,"Smith, Carr and Mullen Corp.",4.6,9502.0,49009237.0
+Ap218451,Em218451,Self-Employed,Odonnell-Robbins LLC,7.2,5575.0,31404031.0
+Ap547600,Em547600,Hourly,"Lucas, Moses and Graham Corp.",12.4,18496.0,39721237.0
+Ap937437,Em937437,Salaried,Mills-Perez Corp.,13.4,18669.0,10378489.0
+Ap539792,Em539792,Salaried,Bishop-Brown Corp.,26.3,5407.0,128899708.0
+Ap139353,Em139353,Salaried,"Krause, Barnes and Miller Corp.",24.1,26794.0,40366351.0
+Ap293075,Em293075,Salaried,"Jennings, Freeman and Phillips Corp.",6.7,21289.0,95291594.0
+Ap314283,Em314283,Hourly,"Jones, Tucker and Campbell Corp.",24.0,19595.0,107279857.0
+Ap414877,Em414877,Salaried,"Hoffman, Lopez and Schultz Corp.",3.3,18050.0,89693807.0
+Ap165318,Em165318,Salaried,Walker-Sandoval Corp.,18.5,19830.0,66691194.0
+Ap865313,Em865313,Salaried,Moore-Reyes Corp.,2.5,21741.0,23017944.0
+Ap582690,Em582690,Salaried,Hall-Charles Corp.,13.5,14800.0,28107037.0
+Ap516880,Em516880,Salaried,"Oliver, Garrett and Martin Corp.",18.5,14039.0,92976090.0
+Ap691460,Em691460,Salaried,"Jordan, King and Bell Corp.",7.3,22917.0,68042165.0
+Ap840976,Em840976,Salaried,Gilmore-Donaldson Corp.,15.2,23154.0,58824982.0
+Ap881239,Em881239,Salaried,Wells-Medina Corp.,2.7,6825.0,27848067.0
+Ap193264,Em193264,Salaried,Jensen and Sons Corp.,3.6,27101.0,68574691.0
+Ap870746,Em870746,Self-Employed,Dominguez-Sutton LLC,10.0,24919.0,47348961.0
+Ap913168,Em913168,Self-Employed,Baker Group LLC,7.0,12070.0,37431082.0
+Ap325281,Em325281,Salaried,"Perry, Smith and Sanchez Corp.",17.3,3273.0,34472277.0
+Ap737147,Em737147,Self-Employed,Patterson-Jacobson LLC,5.8,18355.0,94126152.0
+Ap998613,Em998613,Salaried,Miller LLC Corp.,23.1,10216.0,68510590.0
+Ap494070,Em494070,Self-Employed,Smith-Ward LLC,15.9,3352.0,83279557.0
+Ap452228,Em452228,Salaried,"White, Sims and Marshall Corp.",22.2,16236.0,107266051.0
+Ap531839,Em531839,Salaried,"Griffin, Mendez and Chang Corp.",6.6,8533.0,37255446.0
+Ap369536,Em369536,Salaried,Wood-May Corp.,22.9,12082.0,64283193.0
+Ap417824,Em417824,Salaried,White-Martin Corp.,16.9,5595.0,71919528.0
+Ap357426,Em357426,Salaried,"Robles, Evans and George Corp.",2.8,15726.0,84867528.0
+Ap277789,Em277789,Salaried,"Jones, Mcmahon and Burgess Corp.",24.4,9875.0,98945740.0
+Ap613153,Em613153,Hourly,Hancock Inc Corp.,13.8,26505.0,118652609.0
+Ap842452,Em842452,Salaried,Smith and Sons Corp.,26.3,24561.0,29212510.0
+Ap937291,Em937291,Salaried,Patterson Inc Corp.,11.7,24079.0,50119530.0
+Ap225657,Em225657,Salaried,Johnston and Sons Corp.,8.3,25698.0,105762793.0
+Ap335167,Em335167,Salaried,Alvarado-Johnson Corp.,10.4,17496.0,17255288.0
+Ap781669,Em781669,Salaried,Parsons-Torres Corp.,19.9,24447.0,36645248.0
+Ap580671,Em580671,Salaried,Taylor LLC Corp.,9.4,18794.0,68894009.0
+Ap819094,Em819094,Salaried,Zimmerman-Anderson Corp.,4.8,17961.0,48517869.0
+Ap170467,Em170467,Self-Employed,Bryant Group LLC,17.9,21507.0,13640428.0
+Ap283734,Em283734,Salaried,"Perez, West and Martin Corp.",21.4,12539.0,32691652.0
+Ap722794,Em722794,Salaried,Hudson Group Corp.,11.9,18214.0,32139936.0
+Ap209751,Em209751,Salaried,"Jones, Cohen and Singh Corp.",22.3,8478.0,45265350.0
+Ap481050,Em481050,Salaried,Sanchez-Smith Corp.,29.9,28628.0,125645489.0
+Ap911774,Em911774,Self-Employed,Park-Smith LLC,3.0,12070.0,81909667.0
+Ap792517,Em792517,Self-Employed,Smith and Sons LLC,12.9,16769.0,69237830.0
+Ap561079,Em561079,Salaried,Macdonald Ltd Corp.,6.2,24907.0,106668155.0
+Ap468452,Em468452,Salaried,"Castaneda, Eaton and Weeks Corp.",7.1,21722.0,96307830.0
+Ap206081,Em206081,Hourly,"Ball, Cervantes and Shaffer Corp.",1.5,13526.0,28868402.0
+Ap713333,Em713333,Salaried,Nguyen LLC Corp.,25.1,7722.0,32546626.0
+Ap658986,Em658986,Salaried,Weaver LLC Corp.,15.8,10498.0,110373290.0
+Ap210078,Em210078,Salaried,Buchanan-Butler Corp.,28.2,10641.0,78469631.0
+Ap967055,Em967055,Salaried,Rogers LLC Corp.,20.3,4681.0,28924838.0
+Ap122671,Em122671,Salaried,King and Sons Corp.,19.6,26533.0,22423843.0
+Ap518400,Em518400,Self-Employed,"Trevino, Gregory and Smith LLC",14.7,17171.0,51070869.0
+Ap455528,Em455528,Hourly,Graham Ltd Corp.,25.7,25806.0,124053357.0
+Ap710490,Em710490,Hourly,Velasquez-Smith Corp.,19.4,28339.0,107690258.0
+Ap151663,Em151663,Salaried,Spencer-Rogers Corp.,15.2,20374.0,116881061.0
+Ap115708,Em115708,Salaried,"Chase, Gordon and Patel Corp.",16.4,9219.0,112306647.0
+Ap978338,Em978338,Hourly,Franco-Peters Corp.,28.2,10397.0,98390764.0
+Ap411955,Em411955,Salaried,"Mullins, Allen and Stone Corp.",12.6,22683.0,109451178.0
+Ap233883,Em233883,Salaried,"Kirby, Perry and Cooper Corp.",1.7,25016.0,49048146.0
+Ap418394,Em418394,Hourly,"Torres, Williams and Mendez Corp.",0.6,3380.0,11536547.0
+Ap212547,Em212547,Salaried,"Humphrey, Baker and Hood Corp.",9.1,16838.0,31430199.0
+Ap659042,Em659042,Salaried,Cardenas-Howell Corp.,2.6,12014.0,55542869.0
+Ap851102,Em851102,Salaried,Wilcox PLC Corp.,19.9,27321.0,71860101.0
+Ap862002,Em862002,Self-Employed,"Hill, Ayers and Case LLC",2.2,12960.0,111926031.0
+Ap242483,Em242483,Hourly,Robinson Ltd Corp.,25.2,12152.0,59361114.0
+Ap758271,Em758271,Self-Employed,"Orozco, Garcia and Morris LLC",10.5,11075.0,38939156.0
+Ap314835,Em314835,Salaried,Beltran Inc Corp.,25.0,8842.0,22491066.0
+Ap501896,Em501896,Salaried,Buchanan-White Corp.,23.7,16830.0,87750412.0
+Ap184896,Em184896,Self-Employed,"Jackson, Garcia and Atkinson LLC",11.6,17242.0,48047737.0
+Ap577095,Em577095,Salaried,"Fitzgerald, Ward and Brown Corp.",8.0,12748.0,91178572.0
+Ap171295,Em171295,Self-Employed,"Cole, Haynes and Khan LLC",1.4,6541.0,40554804.0
+Ap843974,Em843974,Salaried,Boyer Inc Corp.,29.7,11299.0,19149897.0
+Ap987121,Em987121,Salaried,"Martinez, Maynard and Ross Corp.",24.3,29987.0,42190486.0
+Ap373255,Em373255,Self-Employed,"Sharp, Cunningham and Jensen LLC",8.6,18934.0,121459129.0
+Ap399648,Em399648,Salaried,Fry Ltd Corp.,26.6,7158.0,124647200.0
+Ap757162,Em757162,Salaried,Porter Ltd Corp.,1.4,21619.0,126574559.0
+Ap108155,Em108155,Hourly,Strickland-Crane Corp.,24.6,18402.0,43425273.0
+Ap566872,Em566872,Hourly,"Macdonald, Wright and Mcdonald Corp.",25.8,26985.0,20215710.0
+Ap925816,Em925816,Self-Employed,Salinas LLC LLC,9.6,14250.0,57059994.0
+Ap474705,Em474705,Salaried,Holmes Inc Corp.,18.9,26142.0,73868428.0
+Ap671542,Em671542,Salaried,Gonzales LLC Corp.,11.2,17063.0,94659836.0
+Ap908350,Em908350,Salaried,Shepard Ltd Corp.,7.3,5692.0,48654492.0
+Ap710269,Em710269,Salaried,Anderson-Taylor Corp.,4.5,9890.0,76968286.0
+Ap654594,Em654594,Self-Employed,Garcia and Sons LLC,4.4,19460.0,10397185.0
+Ap247718,Em247718,Salaried,Hart and Sons Corp.,15.9,22935.0,72956690.0
+Ap408987,Em408987,Self-Employed,Johnson-Stout LLC,16.5,9794.0,38490860.0
+Ap745263,Em745263,Salaried,Herman-Elliott Corp.,25.5,18573.0,54635832.0
+Ap458745,Em458745,Salaried,"Patrick, Coleman and Daugherty Corp.",22.2,14392.0,124361405.0
+Ap207512,Em207512,Salaried,Walker Group Corp.,27.0,13828.0,18799293.0
+Ap247443,Em247443,Hourly,Smith-Thomas Corp.,21.1,9383.0,86673118.0
+Ap570587,Em570587,Salaried,"Adams, Martin and Shields Corp.",2.2,12785.0,26397988.0
+Ap473616,Em473616,Salaried,Barton Inc Corp.,23.7,8423.0,15351320.0
+Ap757409,Em757409,Self-Employed,Campbell-Nolan LLC,1.5,4127.0,28635428.0
+Ap786976,Em786976,Self-Employed,Lucas-Waters LLC,18.0,24146.0,55402271.0
+Ap465871,Em465871,Salaried,Allen and Sons Corp.,20.4,14340.0,100987243.0
+Ap475037,Em475037,Salaried,Hill-Lopez Corp.,27.0,11457.0,110487429.0
+Ap907364,Em907364,Hourly,Woods-Eaton Corp.,13.3,9808.0,45390597.0
+Ap217796,Em217796,Salaried,Huang-Parker Corp.,10.0,28778.0,40197122.0
+Ap391999,Em391999,Salaried,George-Norton Corp.,4.4,29209.0,98038835.0
+Ap292506,Em292506,Salaried,"Miller, Maddox and Johnson Corp.",11.3,19113.0,11471673.0
+Ap798376,Em798376,Salaried,Garcia Group Corp.,10.7,17408.0,12090684.0
+Ap369544,Em369544,Salaried,"Miller, Willis and Smith Corp.",5.1,6151.0,65346408.0
+Ap480002,Em480002,Salaried,"Steele, Howell and Mullins Corp.",28.8,12167.0,29161506.0
+Ap798002,Em798002,Salaried,"Lewis, Pitts and Gray Corp.",26.3,28400.0,88796200.0
+Ap639439,Em639439,Salaried,Garcia LLC Corp.,29.3,8800.0,18638066.0
+Ap690978,Em690978,Salaried,Brandt Ltd Corp.,7.5,2070.0,128563458.0
+Ap628787,Em628787,Hourly,Moses-Lozano Corp.,9.2,7367.0,20102593.0
+Ap630583,Em630583,Salaried,"Fernandez, Cooper and Murphy Corp.",11.3,6811.0,86891521.0
+Ap488215,Em488215,Self-Employed,Williams Inc LLC,13.8,20324.0,23999059.0
+Ap421184,Em421184,Hourly,Anderson-Wilson Corp.,26.9,21730.0,81668500.0
+Ap898615,Em898615,Self-Employed,"Taylor, Morgan and Chandler LLC",19.3,17214.0,21054404.0
+Ap522515,Em522515,Self-Employed,Pacheco-Peterson LLC,9.5,7907.0,105274511.0
+Ap768234,Em768234,Hourly,Holmes-Campbell Corp.,6.3,8586.0,55801296.0
+Ap478480,Em478480,Salaried,Bailey-Bailey Corp.,2.3,17478.0,92593046.0
+Ap132711,Em132711,Salaried,Lane Ltd Corp.,4.8,13390.0,91082820.0
+Ap891971,Em891971,Salaried,Weaver-Maldonado Corp.,19.1,6717.0,126134494.0
+Ap601157,Em601157,Salaried,"Wade, Keller and Johnson Corp.",18.0,13903.0,86985657.0
+Ap284423,Em284423,Salaried,Wiley LLC Corp.,27.8,13228.0,118852904.0
+Ap616349,Em616349,Self-Employed,Fritz Ltd LLC,13.3,8536.0,104530120.0
+Ap803714,Em803714,Self-Employed,"Padilla, Carrillo and Holmes LLC",9.5,15076.0,58135574.0
+Ap757917,Em757917,Self-Employed,Brown-Singh LLC,11.8,16135.0,82162610.0
+Ap924792,Em924792,Salaried,"Lopez, Mcclure and Meyer Corp.",9.1,19118.0,50832613.0
+Ap837378,Em837378,Hourly,"Reilly, Adams and Barrett Corp.",7.3,13469.0,68558439.0
+Ap233272,Em233272,Self-Employed,"Johnson, Wilson and Shaw LLC",11.8,21983.0,86996248.0
+Ap867836,Em867836,Salaried,Clark-Duncan Corp.,4.7,17600.0,28563477.0
+Ap802335,Em802335,Hourly,Richardson PLC Corp.,7.8,8878.0,11670584.0
+Ap907789,Em907789,Self-Employed,Taylor-Walker LLC,10.1,8036.0,30235463.0
+Ap743409,Em743409,Salaried,"Powell, Solis and Mitchell Corp.",4.7,11129.0,22308078.0
+Ap177505,Em177505,Salaried,"Weber, Osborn and Lopez Corp.",4.1,13131.0,112757335.0
+Ap102869,Em102869,Self-Employed,Roberts-Bowman LLC,10.8,15399.0,41141410.0
+Ap881474,Em881474,Salaried,Shaffer Inc Corp.,16.8,13950.0,41173103.0
+Ap554351,Em554351,Self-Employed,"Jones, Scott and Sullivan LLC",2.6,14817.0,76638422.0
+Ap412252,Em412252,Salaried,Watson-Chandler Corp.,13.3,5621.0,89472060.0
+Ap736584,Em736584,Salaried,"Rogers, Schmidt and Mendoza Corp.",2.4,26255.0,102906439.0
+Ap718467,Em718467,Self-Employed,Wright PLC LLC,6.0,14942.0,110714639.0
+Ap190272,Em190272,Salaried,"Williams, Aguilar and Washington Corp.",16.8,6646.0,14663501.0
+Ap138467,Em138467,Salaried,Harper-Glass Corp.,24.2,4983.0,26676201.0
+Ap909760,Em909760,Salaried,Fitzpatrick-Li Corp.,14.5,8600.0,92788068.0
+Ap977844,Em977844,Salaried,Medina and Sons Corp.,9.3,4956.0,15511021.0
+Ap580047,Em580047,Self-Employed,"Duffy, Nunez and Smith LLC",10.2,20317.0,22280497.0
+Ap759347,Em759347,Salaried,Wright and Sons Corp.,6.9,18443.0,121320685.0
+Ap158871,Em158871,Salaried,"Salas, Brown and Barrett Corp.",5.0,27561.0,101677099.0
+Ap228391,Em228391,Hourly,Pearson PLC Corp.,20.8,4379.0,55729608.0
+Ap539430,Em539430,Self-Employed,Snyder-Daniel LLC,16.6,8813.0,55850001.0
+Ap710704,Em710704,Salaried,Luna and Sons Corp.,4.7,28733.0,43323016.0
+Ap956703,Em956703,Salaried,Erickson LLC Corp.,3.1,5024.0,35488422.0
+Ap930496,Em930496,Salaried,"Johnson, Smith and Lambert Corp.",26.0,29755.0,128258734.0
+Ap356687,Em356687,Salaried,Gonzales Ltd Corp.,27.1,3004.0,26193357.0
+Ap825451,Em825451,Self-Employed,Yang Ltd LLC,14.6,21193.0,46455376.0
+Ap207450,Em207450,Hourly,Luna-Barnes Corp.,11.8,18802.0,18154168.0
+Ap271890,Em271890,Salaried,Brown Inc Corp.,28.6,7747.0,35354831.0
+Ap538741,Em538741,Salaried,Hensley-Christian Corp.,23.3,26007.0,17811761.0
+Ap381974,Em381974,Salaried,"Villanueva, Simmons and Estrada Corp.",3.3,19116.0,121614634.0
+Ap500109,Em500109,Self-Employed,Cook-Baker LLC,7.8,13586.0,59518705.0
+Ap216381,Em216381,Salaried,Berry Group Corp.,3.1,19491.0,121633123.0
+Ap573125,Em573125,Salaried,Miller-Duncan Corp.,7.7,29126.0,76931378.0
+Ap671621,Em671621,Self-Employed,Atkinson Inc LLC,14.3,8630.0,64065874.0
+Ap234508,Em234508,Self-Employed,Reyes-Clarke LLC,16.0,21752.0,117574351.0
+Ap829650,Em829650,Salaried,Carroll-Campbell Corp.,5.2,10288.0,34309447.0
+Ap962645,Em962645,Self-Employed,"Reilly, Dixon and Villa LLC",6.9,24593.0,112640617.0
+Ap499111,Em499111,Salaried,Jackson-Lewis Corp.,15.1,28993.0,57823133.0
+Ap250810,Em250810,Hourly,Ramirez Group Corp.,0.6,2440.0,100523966.0
+Ap392890,Em392890,Salaried,Morgan-Hood Corp.,7.0,20512.0,53988467.0
+Ap673665,Em673665,Salaried,Garcia LLC Corp.,11.7,4588.0,21636152.0
+Ap940477,Em940477,Self-Employed,Adams-Hall LLC,7.8,14771.0,123240624.0
+Ap460032,Em460032,Hourly,Jones LLC Corp.,11.2,3442.0,34955655.0
+Ap469599,Em469599,Salaried,"Wood, Green and Salazar Corp.",14.7,23658.0,64141811.0
+Ap760960,Em760960,Salaried,Hines and Sons Corp.,3.4,8796.0,113056608.0
+Ap850020,Em850020,Salaried,"Sanchez, Bowman and Ray Corp.",6.2,28963.0,61491548.0
+Ap979611,Em979611,Salaried,Garcia-Williams Corp.,4.3,16176.0,37266312.0
+Ap271836,Em271836,Salaried,Perez LLC Corp.,15.1,21291.0,83763267.0
+Ap829903,Em829903,Salaried,Carter Ltd Corp.,15.6,18966.0,44998437.0
+Ap145714,Em145714,Hourly,Nash-Lewis Corp.,11.1,28420.0,77241290.0
+Ap727234,Em727234,Salaried,"Smith, Mitchell and Spencer Corp.",7.3,5155.0,70801640.0
+Ap996048,Em996048,Salaried,"Harvey, Nelson and Meyer Corp.",27.5,13636.0,71463935.0
+Ap730271,Em730271,Salaried,Hunter Inc Corp.,1.9,4134.0,12905931.0
+Ap566960,Em566960,Salaried,"Johnson, Velasquez and Moore Corp.",22.7,26760.0,98733664.0
+Ap811851,Em811851,Salaried,Walker-Obrien Corp.,23.6,4816.0,16247255.0
+Ap224123,Em224123,Salaried,Brown-Blake Corp.,6.0,23353.0,103415796.0
+Ap405628,Em405628,Hourly,Allison-Williams Corp.,11.2,26828.0,123124782.0
+Ap182989,Em182989,Self-Employed,Castillo-Pope LLC,18.2,21819.0,100335727.0
+Ap398356,Em398356,Salaried,Davis-Patterson Corp.,1.4,25234.0,93462587.0
+Ap929957,Em929957,Salaried,"Gallegos, Moore and Bell Corp.",20.3,27422.0,111347238.0
+Ap278274,Em278274,Self-Employed,"Johnson, Banks and Wood LLC",11.2,4500.0,40099301.0
+Ap787995,Em787995,Salaried,Obrien PLC Corp.,10.3,22080.0,53618148.0
+Ap425352,Em425352,Hourly,"Charles, Middleton and Clark Corp.",1.3,9017.0,64449209.0
+Ap920260,Em920260,Salaried,Smith-Robinson Corp.,19.8,18815.0,78078226.0
+Ap511927,Em511927,Salaried,"Ward, Arnold and Lopez Corp.",3.2,19008.0,60393744.0
+Ap889852,Em889852,Hourly,Powers Ltd Corp.,20.3,9056.0,128775495.0
+Ap983184,Em983184,Self-Employed,Fleming Ltd LLC,13.6,11856.0,53756822.0
+Ap231373,Em231373,Salaried,Schmidt-Ibarra Corp.,16.0,14597.0,24223326.0
+Ap538452,Em538452,Salaried,"Villarreal, Thomas and Bullock Corp.",19.7,23408.0,73981826.0
+Ap215294,Em215294,Salaried,Parker-Fuller Corp.,14.5,7955.0,108140927.0
+Ap559451,Em559451,Salaried,Padilla-Hartman Corp.,23.8,11484.0,43616998.0
+Ap748307,Em748307,Salaried,Chan-Valencia Corp.,22.2,10499.0,23423457.0
+Ap165726,Em165726,Self-Employed,Reeves and Sons LLC,5.2,18546.0,15528014.0
+Ap241564,Em241564,Salaried,"Carter, Parker and Schmitt Corp.",19.3,2438.0,57093934.0
+Ap477812,Em477812,Hourly,Boyd-Parker Corp.,21.1,17600.0,66546582.0
+Ap368246,Em368246,Salaried,"Miller, Davis and Roberts Corp.",2.7,13978.0,76751794.0
+Ap805696,Em805696,Salaried,Valencia Ltd Corp.,9.9,19447.0,111301779.0
+Ap218015,Em218015,Hourly,"Young, Sanchez and Lamb Corp.",7.7,2258.0,77592318.0
+Ap840674,Em840674,Salaried,Welch-Nash Corp.,9.4,22020.0,28192505.0
+Ap354079,Em354079,Self-Employed,"Palmer, Flores and Wagner LLC",1.3,14871.0,46276432.0
+Ap650929,Em650929,Self-Employed,Jones and Sons LLC,14.5,8758.0,86060365.0
+Ap789944,Em789944,Self-Employed,"Jackson, Jones and Thomas LLC",13.7,22274.0,93780007.0
+Ap788105,Em788105,Self-Employed,"Horton, Rice and James LLC",10.7,12333.0,79856586.0
+Ap613758,Em613758,Salaried,"Carson, Cunningham and Mitchell Corp.",7.5,19176.0,24440905.0
+Ap465890,Em465890,Salaried,"Taylor, Smith and Lopez Corp.",17.7,24940.0,129259635.0
+Ap545101,Em545101,Salaried,Smith-Woods Corp.,27.2,2591.0,39859484.0
+Ap136631,Em136631,Salaried,Garcia-Young Corp.,27.9,7052.0,121005502.0
+Ap866577,Em866577,Salaried,Esparza and Sons Corp.,8.7,23748.0,122545016.0
+Ap172991,Em172991,Salaried,Dunn Inc Corp.,27.4,2647.0,20169293.0
+Ap104014,Em104014,Salaried,"Fisher, Coleman and Anderson Corp.",20.5,14627.0,123830445.0
+Ap373237,Em373237,Self-Employed,Nichols-Pratt LLC,14.5,23916.0,102848005.0
+Ap118070,Em118070,Salaried,Pierce-Alvarez Corp.,21.3,10628.0,102225974.0
+Ap922209,Em922209,Hourly,Ramirez-Jones Corp.,27.8,4698.0,48940355.0
+Ap156958,Em156958,Self-Employed,Gonzalez LLC LLC,6.3,7167.0,66731889.0
+Ap182074,Em182074,Salaried,"Parrish, Johnson and Bishop Corp.",18.0,23155.0,75147671.0
+Ap635017,Em635017,Salaried,Lee-Cook Corp.,26.8,3971.0,30840450.0
+Ap855073,Em855073,Salaried,"Barry, Woodard and Carlson Corp.",19.4,18445.0,56019359.0
+Ap276089,Em276089,Salaried,"Fuller, Conway and Bennett Corp.",16.9,28935.0,58880379.0
+Ap297392,Em297392,Salaried,Smith Group Corp.,19.0,7936.0,67812299.0
+Ap258823,Em258823,Salaried,"Briggs, Hensley and Roberts Corp.",24.0,8784.0,99971357.0
+Ap730152,Em730152,Salaried,Montgomery-Krueger Corp.,20.6,11604.0,76445835.0
+Ap493002,Em493002,Salaried,"Miller, Henry and Downs Corp.",26.2,20841.0,120333440.0
+Ap833429,Em833429,Salaried,Smith-George Corp.,29.3,6198.0,59081685.0
+Ap598863,Em598863,Salaried,Reed-Hall Corp.,27.5,18381.0,69736111.0
+Ap467654,Em467654,Salaried,Mitchell-Conway Corp.,20.4,2164.0,81406568.0
+Ap679036,Em679036,Salaried,"Williams, Hays and Hernandez Corp.",20.0,25905.0,112000736.0
+Ap630089,Em630089,Salaried,Williams-Williams Corp.,24.6,17438.0,28706959.0
+Ap250262,Em250262,Hourly,"Fisher, Camacho and Fry Corp.",6.2,26746.0,90204269.0
+Ap542905,Em542905,Salaried,White and Sons Corp.,14.0,19177.0,69810079.0
+Ap335362,Em335362,Salaried,Duran Ltd Corp.,16.2,3149.0,27294161.0
+Ap544209,Em544209,Hourly,Weber and Sons Corp.,1.6,26630.0,58199808.0
+Ap653880,Em653880,Salaried,"Malone, Barker and Bell Corp.",15.2,22024.0,111920053.0
+Ap897079,Em897079,Salaried,"Martin, Dillon and Jones Corp.",21.6,2680.0,17282442.0
+Ap764076,Em764076,Salaried,Petty-Powell Corp.,24.3,6083.0,77916693.0
+Ap319963,Em319963,Salaried,"Phillips, Wright and Griffith Corp.",26.9,17683.0,30976353.0
+Ap580761,Em580761,Salaried,"Allen, Willis and Arnold Corp.",18.6,14646.0,95820004.0
+Ap348710,Em348710,Self-Employed,"Mitchell, Trevino and Evans LLC",3.5,18350.0,86096711.0
+Ap320984,Em320984,Salaried,"Clark, Brown and House Corp.",7.6,5907.0,11470975.0
+Ap997059,Em997059,Salaried,Cortez LLC Corp.,25.6,29890.0,36597037.0
+Ap956748,Em956748,Salaried,Patel PLC Corp.,14.7,8453.0,117702372.0
+Ap882355,Em882355,Salaried,Baldwin-Lane Corp.,12.0,11383.0,113980020.0
+Ap364512,Em364512,Self-Employed,"Solis, Mcdaniel and Lewis LLC",11.4,18477.0,23904769.0
+Ap701863,Em701863,Hourly,Mendoza-Booth Corp.,10.5,24496.0,37249805.0
+Ap368799,Em368799,Salaried,Hall-Mcconnell Corp.,3.0,17155.0,119482580.0
+Ap337549,Em337549,Salaried,Vance Inc Corp.,13.3,27534.0,65693931.0
+Ap694319,Em694319,Self-Employed,Smith-Thomas LLC,2.6,22179.0,127830519.0
+Ap584299,Em584299,Salaried,Baker-Lucas Corp.,6.4,6985.0,97584128.0
+Ap712210,Em712210,Salaried,Terry LLC Corp.,7.3,14065.0,107165864.0
+Ap548982,Em548982,Salaried,Davis-Gonzales Corp.,5.6,27438.0,63992964.0
+Ap224046,Em224046,Hourly,Montes Inc Corp.,1.9,8128.0,38539161.0
+Ap506619,Em506619,Salaried,Flores Ltd Corp.,7.2,14857.0,85111493.0
+Ap132097,Em132097,Salaried,Jones Ltd Corp.,25.9,15281.0,71096700.0
+Ap766326,Em766326,Self-Employed,Olsen-Frederick LLC,12.2,8287.0,89917347.0
+Ap749150,Em749150,Self-Employed,Thompson Ltd LLC,1.5,10826.0,72571910.0
+Ap330229,Em330229,Salaried,West Inc Corp.,11.2,5354.0,104320136.0
+Ap218834,Em218834,Salaried,"Moss, Gilmore and Clark Corp.",29.0,2526.0,70838257.0
+Ap193848,Em193848,Salaried,Ashley and Sons Corp.,5.9,26720.0,97119467.0
+Ap152921,Em152921,Self-Employed,Anderson and Sons LLC,6.5,10470.0,84542445.0
+Ap805086,Em805086,Salaried,Thomas and Sons Corp.,13.8,4357.0,28116442.0
+Ap750429,Em750429,Salaried,Blake PLC Corp.,22.3,8238.0,117824991.0
+Ap805660,Em805660,Self-Employed,Jones LLC LLC,13.3,4416.0,44281238.0
+Ap384821,Em384821,Salaried,Mckenzie PLC Corp.,3.7,23028.0,14056613.0
+Ap155609,Em155609,Salaried,"Mcdaniel, French and Rivera Corp.",9.4,24593.0,111381184.0
+Ap327897,Em327897,Salaried,Guerrero PLC Corp.,22.2,8815.0,99800729.0
+Ap131024,Em131024,Salaried,"Garcia, Hutchinson and Savage Corp.",8.3,25883.0,116672160.0
+Ap170313,Em170313,Salaried,Alvarez-Baker Corp.,4.6,12055.0,68273701.0
+Ap489957,Em489957,Hourly,Castillo-Castaneda Corp.,23.2,8952.0,24778237.0
+Ap284078,Em284078,Salaried,Russell Inc Corp.,25.6,23576.0,39615178.0
+Ap457429,Em457429,Salaried,"Lee, Elliott and Meadows Corp.",22.0,19282.0,17057004.0
+Ap561243,Em561243,Self-Employed,Hurley PLC LLC,14.5,3882.0,13028600.0
+Ap213632,Em213632,Salaried,"Fox, Williams and Orozco Corp.",19.6,25250.0,84737690.0
+Ap351451,Em351451,Self-Employed,Walters-Lopez LLC,9.5,4360.0,68116350.0
+Ap103051,Em103051,Salaried,Thompson-Diaz Corp.,21.9,28736.0,115302305.0
+Ap804107,Em804107,Self-Employed,Clark Inc LLC,17.5,20798.0,29698215.0
+Ap476836,Em476836,Salaried,Callahan-Smith Corp.,25.9,19900.0,61269136.0
+Ap711523,Em711523,Salaried,Richmond Group Corp.,14.0,22127.0,12992520.0
+Ap821772,Em821772,Salaried,Michael-Crawford Corp.,26.1,19555.0,18038705.0
+Ap289407,Em289407,Hourly,"Watson, Freeman and Henson Corp.",9.7,24413.0,11810218.0
+Ap549395,Em549395,Salaried,"Parker, Carter and Anderson Corp.",14.3,12487.0,44571508.0
+Ap562894,Em562894,Salaried,"Jones, Herring and Franklin Corp.",20.6,25107.0,96707948.0
+Ap311810,Em311810,Hourly,Williams-Franklin Corp.,8.8,4742.0,19572260.0
+Ap827975,Em827975,Salaried,Gibson-Cook Corp.,1.3,5465.0,18841992.0
+Ap173523,Em173523,Salaried,Bennett Group Corp.,22.6,21180.0,129903114.0
+Ap860463,Em860463,Self-Employed,"Williams, Flores and Phelps LLC",2.6,21095.0,15683373.0
+Ap194476,Em194476,Salaried,Jimenez Group Corp.,15.0,22109.0,88634016.0
+Ap333841,Em333841,Salaried,"Sullivan, Kennedy and Alvarado Corp.",19.8,11821.0,50518568.0
+Ap903451,Em903451,Salaried,Lane-Franklin Corp.,1.2,18423.0,50986433.0
+Ap970045,Em970045,Self-Employed,Hurley and Sons LLC,4.0,15877.0,96981722.0
+Ap322866,Em322866,Salaried,Friedman-Lucas Corp.,17.6,11738.0,43730638.0
+Ap186672,Em186672,Salaried,"Pena, Wright and Hicks Corp.",9.4,11249.0,58188194.0
+Ap698135,Em698135,Self-Employed,Willis Inc LLC,6.9,9028.0,29490785.0
+Ap444894,Em444894,Salaried,Anderson-Thompson Corp.,23.8,8097.0,22335601.0
+Ap834994,Em834994,Salaried,Pratt-Murphy Corp.,6.3,19319.0,96522725.0
+Ap128251,Em128251,Salaried,"Davis, Campbell and Joyce Corp.",16.1,25278.0,71038166.0
+Ap727769,Em727769,Self-Employed,Sutton LLC LLC,2.2,6256.0,18999459.0
+Ap474710,Em474710,Hourly,Hall LLC Corp.,19.5,21286.0,45655533.0
+Ap650233,Em650233,Salaried,Peterson-Todd Corp.,9.9,18651.0,95493570.0
+Ap977284,Em977284,Salaried,Webster-Brown Corp.,17.6,13249.0,25656332.0
+Ap132217,Em132217,Self-Employed,Gutierrez-Crawford LLC,3.2,11897.0,118941129.0
+Ap108308,Em108308,Salaried,Sims and Sons Corp.,10.0,4256.0,119939431.0
+Ap368093,Em368093,Salaried,Duarte LLC Corp.,21.4,4238.0,84135140.0
+Ap283062,Em283062,Hourly,"Alexander, Spears and Booker Corp.",14.8,14262.0,58289394.0
+Ap494366,Em494366,Salaried,Gibson Inc Corp.,16.5,19383.0,94891144.0
+Ap844840,Em844840,Salaried,"Wagner, Willis and Bird Corp.",18.7,26417.0,34734834.0
+Ap200235,Em200235,Salaried,"Moore, May and James Corp.",15.1,10758.0,90068023.0
+Ap174740,Em174740,Salaried,Nelson-Cowan Corp.,9.1,16975.0,89263033.0
+Ap478496,Em478496,Self-Employed,Hart PLC LLC,7.9,15525.0,111330300.0
+Ap953049,Em953049,Hourly,Hughes Ltd Corp.,20.2,29469.0,118064624.0
+Ap850201,Em850201,Salaried,"Hancock, Shields and Holt Corp.",21.5,14345.0,24804619.0
+Ap903328,Em903328,Salaried,Ellis-Harris Corp.,1.1,6532.0,80346098.0
+Ap277247,Em277247,Salaried,Salinas and Sons Corp.,1.5,22524.0,30574849.0
+Ap763165,Em763165,Self-Employed,Murray-Bullock LLC,19.9,21873.0,73841254.0
+Ap629525,Em629525,Salaried,White Ltd Corp.,18.4,19538.0,12156599.0
+Ap120056,Em120056,Hourly,Sharp and Sons Corp.,26.2,13574.0,83759572.0
+Ap276615,Em276615,Salaried,Davis Ltd Corp.,6.3,25395.0,72653618.0
+Ap287628,Em287628,Salaried,"Weber, Boyer and Key Corp.",4.9,12669.0,125028747.0
+Ap738836,Em738836,Salaried,Leblanc and Sons Corp.,6.3,2175.0,72261327.0
+Ap473632,Em473632,Hourly,"Melton, Shepherd and Peters Corp.",27.7,25402.0,118695323.0
+Ap234415,Em234415,Salaried,"Brown, Sloan and Ramos Corp.",26.8,22346.0,59856975.0
+Ap506716,Em506716,Hourly,Robinson-Smith Corp.,23.8,3305.0,42714312.0
+Ap546438,Em546438,Salaried,Bailey Group Corp.,9.8,29185.0,115093452.0
+Ap653663,Em653663,Salaried,"Combs, Rice and Ramos Corp.",6.6,11018.0,72626797.0
+Ap765022,Em765022,Salaried,Arroyo-Cook Corp.,23.1,11998.0,51499233.0
+Ap641252,Em641252,Salaried,Gonzalez PLC Corp.,22.0,14792.0,63502642.0
+Ap737717,Em737717,Salaried,Hart-Andrews Corp.,6.3,17503.0,67901032.0
+Ap352764,Em352764,Salaried,Moss-Oconnor Corp.,14.7,17331.0,33155414.0
+Ap814998,Em814998,Salaried,Carter LLC Corp.,7.9,14316.0,46475110.0
+Ap566882,Em566882,Salaried,Moran and Sons Corp.,8.1,12029.0,67054523.0
+Ap840427,Em840427,Salaried,"Brown, Myers and Rowland Corp.",19.6,6994.0,66541998.0
+Ap612153,Em612153,Salaried,Adams-Anderson Corp.,15.6,10485.0,35272609.0
+Ap167215,Em167215,Self-Employed,Burgess LLC LLC,15.8,24676.0,10702958.0
+Ap955474,Em955474,Self-Employed,"Mcdonald, Stokes and Thornton LLC",7.9,14788.0,55100159.0
+Ap244356,Em244356,Salaried,"Lopez, Baker and Ware Corp.",3.1,14990.0,102020328.0
+Ap303861,Em303861,Self-Employed,Everett-Miller LLC,14.3,6180.0,83341566.0
+Ap455612,Em455612,Salaried,Martinez-Roy Corp.,16.9,13484.0,20034111.0
+Ap554605,Em554605,Salaried,Wilson-Turner Corp.,14.4,2215.0,13525284.0
+Ap109435,Em109435,Self-Employed,"Reed, Dickson and Ramos LLC",19.7,12552.0,39268282.0
+Ap547556,Em547556,Salaried,Snyder Inc Corp.,22.5,26335.0,83665792.0
+Ap799438,Em799438,Salaried,Rodriguez-Perry Corp.,12.0,3229.0,121926513.0
+Ap965264,Em965264,Salaried,"King, Santos and French Corp.",5.3,25208.0,41600414.0
+Ap675581,Em675581,Salaried,"Morris, Lozano and Elliott Corp.",5.4,4837.0,50702604.0
+Ap178781,Em178781,Self-Employed,Smith-Barnes LLC,5.7,14258.0,65502624.0
+Ap291475,Em291475,Hourly,"Payne, Dudley and Jenkins Corp.",27.7,14531.0,69131680.0
+Ap260196,Em260196,Salaried,Brown-Compton Corp.,24.5,27431.0,97049236.0
+Ap326507,Em326507,Hourly,Holland-Lane Corp.,7.6,15775.0,88223812.0
+Ap406063,Em406063,Salaried,Castillo-Mccall Corp.,8.2,25953.0,13459240.0
+Ap864121,Em864121,Salaried,Walker-Richardson Corp.,20.4,25279.0,53927473.0
+Ap876665,Em876665,Salaried,Rodriguez and Sons Corp.,21.6,3892.0,47282962.0
+Ap790607,Em790607,Salaried,Arnold Group Corp.,14.4,10005.0,70262205.0
+Ap221172,Em221172,Salaried,"Stanley, Woods and Nguyen Corp.",21.7,17338.0,116337515.0
+Ap456902,Em456902,Salaried,Rose-Collins Corp.,26.2,3515.0,86934132.0
+Ap584963,Em584963,Salaried,Acosta-Mitchell Corp.,8.3,3927.0,25254624.0
+Ap555968,Em555968,Self-Employed,Smith-Diaz LLC,6.8,20753.0,50172519.0
+Ap418717,Em418717,Salaried,Roberts Ltd Corp.,25.2,3258.0,95347273.0
+Ap159101,Em159101,Salaried,"Rogers, Alvarez and Mitchell Corp.",6.1,22577.0,23570407.0
+Ap595972,Em595972,Salaried,"Simmons, Brown and Figueroa Corp.",14.0,22661.0,122634804.0
+Ap388790,Em388790,Salaried,Velazquez Ltd Corp.,6.6,4084.0,104710720.0
+Ap990617,Em990617,Salaried,"Warren, Patel and Woodard Corp.",29.4,4027.0,39023508.0
+Ap647337,Em647337,Self-Employed,"Anderson, Morris and Scott LLC",2.5,20193.0,87457362.0
+Ap834965,Em834965,Self-Employed,Delgado Inc LLC,12.4,6663.0,64909930.0
+Ap460260,Em460260,Self-Employed,Hays Ltd LLC,4.3,13464.0,21848788.0
+Ap983811,Em983811,Salaried,"Kim, Greene and Mendoza Corp.",14.7,19887.0,118449993.0
+Ap692673,Em692673,Self-Employed,"Scott, Acevedo and Ellis LLC",8.8,11071.0,129377368.0
+Ap750419,Em750419,Self-Employed,"Phillips, Martinez and Chapman LLC",8.6,23907.0,64072090.0
+Ap533374,Em533374,Salaried,"Carter, Barnes and Levy Corp.",13.0,5424.0,27407039.0
+Ap820777,Em820777,Salaried,"King, Snyder and Jones Corp.",22.4,21499.0,129159285.0
+Ap647577,Em647577,Self-Employed,Galvan Inc LLC,18.2,13759.0,91996576.0
+Ap472370,Em472370,Self-Employed,Santiago Group LLC,10.1,3425.0,129294674.0
+Ap987225,Em987225,Self-Employed,"Gregory, Sanchez and Hays LLC",1.1,8988.0,80693602.0
+Ap371967,Em371967,Hourly,Chen-Hart Corp.,2.7,12969.0,68944836.0
+Ap291232,Em291232,Hourly,Nixon and Sons Corp.,4.2,18599.0,49405271.0
+Ap404119,Em404119,Hourly,Hoffman-Johnson Corp.,12.0,17576.0,25802102.0
+Ap109540,Em109540,Salaried,Nunez-Garcia Corp.,8.5,15079.0,34672611.0
+Ap640652,Em640652,Hourly,Wheeler LLC Corp.,24.6,5377.0,11972033.0
+Ap497827,Em497827,Salaried,Sims Group Corp.,15.0,7096.0,24256636.0
+Ap651951,Em651951,Salaried,Myers PLC Corp.,20.2,6542.0,115674729.0
+Ap151991,Em151991,Salaried,Thomas-Terry Corp.,6.9,6640.0,10430013.0
+Ap288751,Em288751,Self-Employed,Petersen Inc LLC,7.7,18899.0,26154299.0
+Ap466326,Em466326,Salaried,"Contreras, Mosley and Hayes Corp.",15.8,26141.0,118722775.0
+Ap786337,Em786337,Salaried,Lamb-Brewer Corp.,22.6,9847.0,37044356.0
+Ap718992,Em718992,Salaried,Johnson-Cole Corp.,10.9,5343.0,69797024.0
+Ap149115,Em149115,Self-Employed,Norman PLC LLC,13.1,16156.0,74058936.0
+Ap453151,Em453151,Hourly,"Macdonald, Lee and Andrews Corp.",4.6,14043.0,91196622.0
+Ap843583,Em843583,Self-Employed,"Williams, Harris and Jensen LLC",3.9,24051.0,52299940.0
+Ap291962,Em291962,Salaried,Spencer-Hamilton Corp.,5.2,7490.0,99493152.0
+Ap821747,Em821747,Self-Employed,Cisneros and Sons LLC,12.8,4534.0,46933380.0
+Ap249143,Em249143,Salaried,"Weiss, Crawford and Hill Corp.",27.9,20978.0,48867548.0
+Ap814635,Em814635,Salaried,Marks-Macias Corp.,29.7,15120.0,118452595.0
+Ap636226,Em636226,Salaried,"Fisher, Cruz and Lewis Corp.",12.1,13027.0,53406499.0
+Ap453824,Em453824,Self-Employed,Miller-Lewis LLC,3.3,12543.0,100413144.0
+Ap104000,Em104000,Salaried,Garcia-Johnson Corp.,25.3,16679.0,73674382.0
+Ap825948,Em825948,Salaried,"Allen, Mathis and Neal Corp.",13.7,23917.0,94557365.0
+Ap987474,Em987474,Salaried,Costa Ltd Corp.,24.1,6808.0,81088122.0
+Ap455754,Em455754,Self-Employed,"Sherman, Jones and Aguilar LLC",13.2,19983.0,30971617.0
+Ap351492,Em351492,Salaried,"Christensen, Cardenas and Brown Corp.",27.0,19821.0,78032783.0
+Ap990123,Em990123,Salaried,Graves-Huber Corp.,16.7,13786.0,62484402.0
+Ap599522,Em599522,Salaried,Frye-Nixon Corp.,29.9,29398.0,76766132.0
+Ap591072,Em591072,Salaried,Dickson-Shaw Corp.,6.2,3127.0,30487237.0
+Ap138304,Em138304,Salaried,"Johnson, Hernandez and Martin Corp.",10.5,5364.0,112769022.0
+Ap604999,Em604999,Self-Employed,"Gibson, Johnson and Perez LLC",18.7,6596.0,19308285.0
+Ap431593,Em431593,Self-Employed,Christensen-Elliott LLC,9.3,13994.0,112101897.0
+Ap707274,Em707274,Hourly,Stewart-Parker Corp.,22.6,26153.0,92167294.0
+Ap251836,Em251836,Salaried,"Hall, Schmidt and Perry Corp.",3.8,6927.0,66701385.0
+Ap208940,Em208940,Self-Employed,Chan LLC LLC,3.8,8337.0,86675750.0
+Ap924926,Em924926,Self-Employed,Holland-Beck LLC,17.6,13747.0,61396847.0
+Ap365517,Em365517,Salaried,"Myers, Brown and Hill Corp.",10.9,5755.0,68294133.0
+Ap767521,Em767521,Salaried,"Johnson, Smith and Miller Corp.",0.5,15875.0,68870890.0
+Ap721820,Em721820,Salaried,"Erickson, Fisher and Lee Corp.",8.1,19215.0,112752178.0
+Ap979090,Em979090,Salaried,"Thomas, Johnson and Golden Corp.",13.6,27196.0,71142269.0
+Ap485777,Em485777,Self-Employed,"Kelly, Howard and Stewart LLC",9.5,8815.0,45027077.0
+Ap724674,Em724674,Self-Employed,Collins-Dixon LLC,4.5,10754.0,62956150.0
+Ap651638,Em651638,Salaried,Silva Inc Corp.,29.4,22918.0,85985836.0
+Ap717296,Em717296,Salaried,Garcia and Sons Corp.,28.9,11434.0,39480659.0
+Ap980729,Em980729,Hourly,Thompson-Boyle Corp.,17.0,5593.0,103533869.0
+Ap649639,Em649639,Hourly,"Adkins, Harris and Edwards Corp.",20.1,24780.0,113566790.0
+Ap712956,Em712956,Salaried,"Vaughn, Ramirez and Brown Corp.",7.7,2185.0,90189119.0
+Ap738873,Em738873,Salaried,"Martinez, Robertson and Barker Corp.",10.4,9233.0,112136781.0
+Ap437497,Em437497,Salaried,"Bishop, Bond and Wood Corp.",23.9,4640.0,33543987.0
+Ap307869,Em307869,Self-Employed,"Mcclure, Lutz and White LLC",9.9,15585.0,83742314.0
+Ap165953,Em165953,Self-Employed,King PLC LLC,2.2,5096.0,84184861.0
+Ap943890,Em943890,Salaried,Rodriguez-Morales Corp.,6.0,28603.0,109282444.0
+Ap600328,Em600328,Salaried,Edwards PLC Corp.,21.7,14622.0,12435731.0
+Ap906790,Em906790,Self-Employed,"Walker, Berry and Lewis LLC",12.8,23709.0,16212769.0
+Ap103267,Em103267,Salaried,"Shaw, Dean and Harris Corp.",23.3,20546.0,102254466.0
+Ap182745,Em182745,Self-Employed,Vargas-Freeman LLC,18.0,8393.0,81236893.0
+Ap976020,Em976020,Self-Employed,"Hanson, Burgess and Medina LLC",7.4,12288.0,79467739.0
+Ap924945,Em924945,Hourly,Montoya-Allen Corp.,6.2,19451.0,67619366.0
+Ap257164,Em257164,Salaried,"Brown, Hawkins and Nguyen Corp.",2.2,14179.0,55955016.0
+Ap635626,Em635626,Self-Employed,Stephenson-Dixon LLC,6.8,4199.0,43778564.0
+Ap231484,Em231484,Hourly,"Lopez, Stephens and Morgan Corp.",21.2,29204.0,54855984.0
+Ap631831,Em631831,Self-Employed,"Weaver, Duncan and Clark LLC",13.6,14153.0,83761531.0
+Ap992323,Em992323,Self-Employed,Cole-Jensen LLC,18.5,15459.0,43641170.0
+Ap160692,Em160692,Salaried,Wilson-Horton Corp.,6.8,4211.0,76695795.0
+Ap320156,Em320156,Self-Employed,Rodriguez Inc LLC,15.8,6578.0,96232222.0
+Ap323992,Em323992,Self-Employed,Miller-Medina LLC,6.7,11711.0,63947922.0
+Ap616771,Em616771,Self-Employed,Reid-Barron LLC,14.4,8739.0,49318407.0
+Ap930857,Em930857,Salaried,Wilson-Freeman Corp.,6.0,29575.0,50578906.0
+Ap663044,Em663044,Hourly,Medina-Riddle Corp.,1.9,21992.0,100691212.0
+Ap643176,Em643176,Self-Employed,Daugherty Ltd LLC,13.7,23773.0,42393335.0
+Ap791095,Em791095,Salaried,Bentley PLC Corp.,13.0,11348.0,15180944.0
+Ap933727,Em933727,Self-Employed,Miller LLC LLC,6.9,20677.0,17957984.0
+Ap214352,Em214352,Hourly,Watson-Obrien Corp.,11.8,18933.0,15922995.0
+Ap969474,Em969474,Salaried,Franco Inc Corp.,1.1,4598.0,16016295.0
+Ap185999,Em185999,Salaried,"Garcia, Gross and Mercado Corp.",13.8,20326.0,52875306.0
+Ap117955,Em117955,Salaried,"Smith, Quinn and Escobar Corp.",0.9,28279.0,33584771.0
+Ap924273,Em924273,Self-Employed,"Rios, Garcia and Small LLC",17.9,18586.0,108663970.0
+Ap170640,Em170640,Salaried,Wiley Ltd Corp.,15.0,24988.0,33430692.0
+Ap296582,Em296582,Salaried,Garcia Group Corp.,9.6,16224.0,45205378.0
+Ap844086,Em844086,Salaried,Herring PLC Corp.,11.2,29464.0,19202556.0
+Ap500573,Em500573,Salaried,Lucas and Sons Corp.,8.4,16728.0,120673692.0
+Ap525695,Em525695,Salaried,"Collier, Rice and Coleman Corp.",12.4,19700.0,10486342.0
+Ap161476,Em161476,Salaried,"Brooks, Hanson and James Corp.",16.9,3542.0,120910041.0
+Ap406955,Em406955,Salaried,Acevedo-Berry Corp.,1.5,12487.0,117762370.0
+Ap267280,Em267280,Self-Employed,Hughes-Mercado LLC,11.8,4186.0,46055925.0
+Ap775510,Em775510,Salaried,"Johnston, Rodriguez and Rodriguez Corp.",3.8,26401.0,24552291.0
+Ap695468,Em695468,Salaried,Martin LLC Corp.,12.9,24676.0,26551287.0
+Ap798646,Em798646,Salaried,Davis and Sons Corp.,20.5,15254.0,60595872.0
+Ap737144,Em737144,Salaried,"Benton, Bowers and Knight Corp.",16.1,8960.0,47873753.0
+Ap954882,Em954882,Salaried,Clark Group Corp.,0.8,15678.0,92173084.0
+Ap514568,Em514568,Salaried,Knapp-Howard Corp.,10.7,16661.0,80412401.0
+Ap286141,Em286141,Salaried,Trujillo PLC Corp.,16.7,29551.0,10986143.0
+Ap998320,Em998320,Salaried,Shepard Ltd Corp.,24.2,18363.0,62577801.0
+Ap734736,Em734736,Salaried,"Taylor, Doyle and Castaneda Corp.",2.0,13067.0,52550579.0
+Ap638685,Em638685,Salaried,Shea-Mitchell Corp.,5.2,12111.0,39930963.0
+Ap278031,Em278031,Salaried,Taylor Group Corp.,15.7,20694.0,55869542.0
+Ap219180,Em219180,Salaried,Burns LLC Corp.,5.4,15591.0,25715736.0
+Ap166234,Em166234,Hourly,Williamson PLC Corp.,7.9,23425.0,118123604.0
+Ap664242,Em664242,Self-Employed,"Reyes, Torres and Shaw LLC",16.7,5068.0,87195420.0
+Ap278352,Em278352,Salaried,"Carter, Erickson and Kim Corp.",10.5,22413.0,22913366.0
+Ap179459,Em179459,Salaried,Ward and Sons Corp.,5.5,28454.0,62631048.0
+Ap509995,Em509995,Salaried,"Foster, Robles and Brown Corp.",27.6,11903.0,55915344.0
+Ap295004,Em295004,Self-Employed,Carey LLC LLC,8.0,9719.0,71959591.0
+Ap566152,Em566152,Salaried,Guerrero Ltd Corp.,28.1,29393.0,29657476.0
+Ap825256,Em825256,Salaried,Rivera-Luna Corp.,6.0,21188.0,65672101.0
+Ap159163,Em159163,Hourly,Hawkins-Keller Corp.,27.9,8387.0,114076629.0
+Ap575853,Em575853,Salaried,"Hill, Bowman and Turner Corp.",5.8,26482.0,91036410.0
+Ap151934,Em151934,Salaried,Brown-Zamora Corp.,5.0,15256.0,86915782.0
+Ap820255,Em820255,Hourly,"Perry, Fry and Knox Corp.",22.5,12122.0,129751214.0
+Ap525523,Em525523,Salaried,Powell Group Corp.,21.0,29673.0,77247786.0
+Ap940530,Em940530,Salaried,Gibbs Inc Corp.,15.8,8878.0,53430740.0
+Ap554137,Em554137,Salaried,"Riley, Simpson and Jones Corp.",5.2,28825.0,52394696.0
+Ap105486,Em105486,Self-Employed,Gibson PLC LLC,4.5,9575.0,95471932.0
+Ap239407,Em239407,Salaried,Buckley and Sons Corp.,12.9,14685.0,14577561.0
+Ap973332,Em973332,Salaried,"Fox, Rios and Garner Corp.",3.2,24696.0,49222357.0
+Ap750308,Em750308,Salaried,"Price, Wilkins and Schneider Corp.",11.3,14645.0,59990873.0
+Ap727083,Em727083,Self-Employed,Jones-Hill LLC,6.8,11271.0,123552228.0
+Ap320184,Em320184,Salaried,White LLC Corp.,12.0,27954.0,55992859.0
+Ap766490,Em766490,Self-Employed,"Mcdonald, Gallegos and Vincent LLC",11.0,10209.0,19217350.0
+Ap449652,Em449652,Hourly,Jones-Lester Corp.,26.9,21996.0,110479424.0
+Ap861315,Em861315,Salaried,Hill-Gonzalez Corp.,23.8,10819.0,13040206.0
+Ap742612,Em742612,Salaried,"Jones, Jackson and Crosby Corp.",6.0,14422.0,22459406.0
+Ap422710,Em422710,Self-Employed,"Mahoney, Lee and Meyer LLC",10.1,19908.0,81554863.0
+Ap297775,Em297775,Salaried,Wolf and Sons Corp.,18.7,24788.0,74791170.0
+Ap389336,Em389336,Salaried,Miller-Smith Corp.,26.7,12654.0,78736966.0
+Ap887494,Em887494,Salaried,"Miller, Jones and Patel Corp.",7.7,20114.0,93133780.0
+Ap708364,Em708364,Hourly,"Mendoza, Mcdonald and Oconnor Corp.",3.7,23155.0,104158191.0
+Ap189780,Em189780,Self-Employed,Haynes Group LLC,12.5,13713.0,119606887.0
+Ap252617,Em252617,Salaried,"Jones, Day and Brewer Corp.",16.3,11213.0,76855179.0
+Ap645977,Em645977,Salaried,Floyd-Rivera Corp.,24.9,14104.0,77597627.0
+Ap897606,Em897606,Salaried,Snyder Ltd Corp.,10.4,25611.0,60886523.0
+Ap450605,Em450605,Self-Employed,Briggs-Jones LLC,2.4,12980.0,36893579.0
+Ap989465,Em989465,Salaried,"Silva, Craig and Hammond Corp.",12.8,27166.0,98450950.0
+Ap633636,Em633636,Salaried,Butler and Sons Corp.,6.5,8030.0,20309503.0
+Ap138102,Em138102,Hourly,Osborne-Kane Corp.,8.1,7113.0,53611336.0
+Ap174460,Em174460,Salaried,Johnson and Sons Corp.,26.0,21752.0,113470307.0
+Ap464778,Em464778,Salaried,Carson-Ross Corp.,8.1,9106.0,72684519.0
+Ap189930,Em189930,Salaried,Parker-Gutierrez Corp.,21.6,11633.0,86993306.0
+Ap631089,Em631089,Hourly,Higgins-Barton Corp.,11.2,10268.0,69645794.0
+Ap727438,Em727438,Salaried,Edwards LLC Corp.,6.2,5776.0,62804943.0
+Ap827627,Em827627,Salaried,"Gordon, Gillespie and Rhodes Corp.",26.5,26746.0,119318230.0
+Ap279208,Em279208,Self-Employed,Moses PLC LLC,15.9,17876.0,21071843.0
+Ap254697,Em254697,Salaried,Morris-Wells Corp.,7.5,24397.0,90273436.0
+Ap313945,Em313945,Hourly,Nunez PLC Corp.,1.2,16474.0,32760952.0
+Ap331915,Em331915,Hourly,Robinson Group Corp.,19.0,18351.0,28209663.0
+Ap827952,Em827952,Self-Employed,"Knight, Jones and Bauer LLC",5.8,14521.0,90592816.0
+Ap308124,Em308124,Self-Employed,"Bennett, Alvarez and Brown LLC",5.9,20790.0,13823957.0
+Ap537477,Em537477,Salaried,Sandoval Inc Corp.,13.6,27614.0,110993379.0
+Ap625830,Em625830,Salaried,Garcia-Huynh Corp.,9.2,12448.0,129153032.0
+Ap383821,Em383821,Salaried,Pennington and Sons Corp.,4.2,16151.0,28873277.0
+Ap277804,Em277804,Salaried,"Henderson, Fowler and Garcia Corp.",24.2,22604.0,38800890.0
+Ap805703,Em805703,Hourly,Flores-Anderson Corp.,15.4,18772.0,19553108.0
+Ap139081,Em139081,Salaried,Sharp-Aguirre Corp.,1.2,11974.0,14658419.0
+Ap818216,Em818216,Salaried,George-Norman Corp.,6.9,8623.0,100284412.0
+Ap455249,Em455249,Hourly,"Long, Ellis and Lee Corp.",19.4,11616.0,73265429.0
+Ap319930,Em319930,Salaried,Watson-Garrison Corp.,19.7,23743.0,95534549.0
+Ap905497,Em905497,Salaried,"Dean, Parker and Holland Corp.",11.9,3323.0,117145913.0
+Ap617313,Em617313,Hourly,Austin-Foster Corp.,21.7,17302.0,30280379.0
+Ap314532,Em314532,Salaried,Dyer Inc Corp.,12.1,6443.0,24482879.0
+Ap712380,Em712380,Salaried,"Murphy, Diaz and Rodriguez Corp.",26.2,5876.0,107771795.0
+Ap619332,Em619332,Salaried,Holmes-Anderson Corp.,13.3,28833.0,108980556.0
+Ap416837,Em416837,Salaried,"Dawson, Walters and Oconnor Corp.",15.9,4194.0,49177758.0
+Ap389106,Em389106,Salaried,Young-Hartman Corp.,5.3,3742.0,129753089.0
+Ap128295,Em128295,Self-Employed,Weiss-Carson LLC,12.3,3590.0,17314116.0
+Ap113807,Em113807,Hourly,Ross-Ramirez Corp.,19.3,13956.0,84388395.0
+Ap535564,Em535564,Salaried,Hurst Inc Corp.,0.6,14318.0,49330618.0
+Ap257504,Em257504,Self-Employed,Boyd Group LLC,13.3,11326.0,31358352.0
+Ap338067,Em338067,Hourly,Pearson-Johnson Corp.,3.3,6418.0,116026295.0
+Ap585008,Em585008,Salaried,"Sullivan, Hall and Harmon Corp.",8.3,5748.0,108029116.0
+Ap792440,Em792440,Salaried,Mccoy-Ruiz Corp.,1.2,5324.0,109073611.0
+Ap494540,Em494540,Self-Employed,"Shelton, Bradley and Marquez LLC",19.9,24784.0,92631212.0
+Ap977699,Em977699,Salaried,Martin Ltd Corp.,19.2,6667.0,73955988.0
+Ap617923,Em617923,Salaried,Martin-Campbell Corp.,29.4,23078.0,44254249.0
+Ap266981,Em266981,Salaried,"Richardson, Brown and Simmons Corp.",25.1,27321.0,10180295.0
+Ap844699,Em844699,Salaried,Wilson Inc Corp.,21.6,24760.0,15273084.0
+Ap119870,Em119870,Salaried,"Gregory, Smith and Kramer Corp.",27.8,28987.0,19540836.0
+Ap303196,Em303196,Salaried,Silva-Whitehead Corp.,9.4,16349.0,57858014.0
+Ap348683,Em348683,Salaried,Reese Inc Corp.,18.7,16424.0,122616220.0
+Ap334677,Em334677,Salaried,Dunn-Martinez Corp.,20.3,20463.0,74400416.0
+Ap126790,Em126790,Salaried,Meadows-Jackson Corp.,1.5,24525.0,95331441.0
+Ap743162,Em743162,Salaried,Campbell Inc Corp.,13.6,20154.0,63621565.0
+Ap911721,Em911721,Self-Employed,"Rhodes, Johnston and Johnson LLC",7.8,11975.0,16796751.0
+Ap548345,Em548345,Salaried,Conway PLC Corp.,28.3,20662.0,71357902.0
+Ap849074,Em849074,Salaried,Parker-Sutton Corp.,3.3,17677.0,38586839.0
+Ap587462,Em587462,Salaried,"Khan, Harper and Randolph Corp.",8.4,4690.0,81951107.0
+Ap639773,Em639773,Salaried,"Palmer, Williams and Harmon Corp.",12.9,17139.0,108972904.0
+Ap930914,Em930914,Salaried,Adams-Marquez Corp.,24.5,10136.0,67522220.0
+Ap186188,Em186188,Salaried,"Hansen, Henderson and Mcbride Corp.",10.4,5691.0,65940147.0
+Ap629036,Em629036,Hourly,Brown Group Corp.,8.0,2144.0,59657899.0
+Ap842129,Em842129,Salaried,"Richardson, Anderson and Moore Corp.",22.3,22678.0,86401429.0
+Ap764795,Em764795,Salaried,"Oconnor, Anthony and Henderson Corp.",13.0,15526.0,125438515.0
+Ap890141,Em890141,Self-Employed,Garcia-Jackson LLC,8.6,16285.0,68894449.0
+Ap748249,Em748249,Salaried,Quinn-Jones Corp.,26.2,26465.0,68741097.0
+Ap130355,Em130355,Salaried,Ellison-Rivers Corp.,22.2,21752.0,54576137.0
+Ap811131,Em811131,Hourly,Brown Inc Corp.,27.0,17898.0,118008347.0
+Ap551015,Em551015,Self-Employed,Potts LLC LLC,11.7,6642.0,46556107.0
+Ap506332,Em506332,Salaried,Clark-Palmer Corp.,11.3,29367.0,108015780.0
+Ap256542,Em256542,Self-Employed,"Floyd, Moreno and Castro LLC",2.2,12871.0,111841611.0
+Ap273416,Em273416,Salaried,Hicks-Garcia Corp.,5.7,12563.0,88264389.0
+Ap405062,Em405062,Hourly,"Stevens, Matthews and Garcia Corp.",8.9,13536.0,67725056.0
+Ap938656,Em938656,Self-Employed,"Browning, Cruz and Johnson LLC",14.4,16098.0,63729098.0
+Ap663586,Em663586,Hourly,Kim-Banks Corp.,0.5,17154.0,106873953.0
+Ap601708,Em601708,Self-Employed,"Howard, Ortiz and Malone LLC",5.7,9526.0,74022865.0
+Ap966651,Em966651,Salaried,Fletcher PLC Corp.,29.4,27480.0,28206019.0
+Ap161629,Em161629,Salaried,Munoz-Harmon Corp.,11.5,5055.0,21941067.0
+Ap428184,Em428184,Self-Employed,Lyons-Nunez LLC,19.1,4117.0,126817054.0
+Ap592734,Em592734,Salaried,Colon LLC Corp.,15.7,4760.0,74268328.0
+Ap855195,Em855195,Self-Employed,"Garza, Robbins and Stevens LLC",11.1,9505.0,109431680.0
+Ap390160,Em390160,Salaried,Clark Ltd Corp.,14.9,8405.0,70067510.0
+Ap648248,Em648248,Self-Employed,Lam-Henderson LLC,2.5,5755.0,30152216.0
+Ap920023,Em920023,Salaried,Nicholson Ltd Corp.,10.0,25243.0,123346052.0
+Ap313920,Em313920,Salaried,Pugh-Rojas Corp.,2.1,22196.0,112700272.0
+Ap989765,Em989765,Self-Employed,Brady Group LLC,16.1,10169.0,20104685.0
+Ap342804,Em342804,Salaried,Jordan-Duran Corp.,16.7,14966.0,123639714.0
+Ap476965,Em476965,Self-Employed,Johnston Inc LLC,7.6,3645.0,32828357.0
+Ap560857,Em560857,Hourly,"Flynn, Vaughn and Mills Corp.",0.8,6804.0,30654565.0
+Ap922827,Em922827,Self-Employed,Schmidt-Garza LLC,19.4,18518.0,11748461.0
+Ap604492,Em604492,Salaried,Cervantes Ltd Corp.,7.4,2807.0,126619825.0
+Ap753983,Em753983,Salaried,Dominguez Inc Corp.,5.5,19504.0,105315713.0
+Ap515916,Em515916,Salaried,Levine-Young Corp.,13.6,3483.0,17509073.0
+Ap921052,Em921052,Salaried,Davis LLC Corp.,5.8,16265.0,100030006.0
+Ap858574,Em858574,Self-Employed,"Murphy, Martinez and Oneill LLC",12.9,17414.0,46862833.0
+Ap228148,Em228148,Hourly,Jones Group Corp.,25.1,20199.0,10766486.0
+Ap906991,Em906991,Self-Employed,Bailey-Williams LLC,18.2,20919.0,55805687.0
+Ap586261,Em586261,Self-Employed,"Gamble, Bryant and Koch LLC",1.3,23492.0,79970255.0
+Ap455540,Em455540,Salaried,Cabrera-Payne Corp.,11.7,9835.0,46433275.0
+Ap292714,Em292714,Self-Employed,"Cunningham, Jones and Robinson LLC",2.8,13024.0,95861759.0
+Ap831899,Em831899,Salaried,Garcia-Ritter Corp.,4.4,9291.0,57924854.0
+Ap383876,Em383876,Salaried,Eaton Inc Corp.,20.7,28768.0,65222315.0
+Ap359747,Em359747,Self-Employed,Graham-Johnson LLC,4.4,17400.0,27751222.0
+Ap715650,Em715650,Salaried,Williams Ltd Corp.,10.0,11399.0,93836430.0
+Ap523570,Em523570,Self-Employed,Summers Ltd LLC,12.2,8927.0,80032276.0
+Ap375987,Em375987,Hourly,Perez-Davis Corp.,9.4,14030.0,15813017.0
+Ap738353,Em738353,Salaried,"Hunt, Atkinson and Roberts Corp.",24.1,16624.0,115202612.0
+Ap958158,Em958158,Salaried,Price-Lopez Corp.,4.8,14853.0,20034768.0
+Ap117640,Em117640,Salaried,Barnes Group Corp.,4.9,28298.0,59891642.0
+Ap152528,Em152528,Salaried,"Meyer, Henderson and Lee Corp.",16.8,29409.0,81580879.0
+Ap924845,Em924845,Salaried,Cannon Group Corp.,18.6,5490.0,85405633.0
+Ap359214,Em359214,Self-Employed,Brown Group LLC,2.3,15506.0,90835175.0
+Ap939070,Em939070,Salaried,Nelson-Callahan Corp.,8.4,12941.0,24029724.0
+Ap601108,Em601108,Salaried,Reyes Ltd Corp.,23.2,15299.0,83200092.0
+Ap734421,Em734421,Self-Employed,Hansen Ltd LLC,16.4,7832.0,30563326.0
+Ap468501,Em468501,Salaried,"Brown, Hill and Medina Corp.",22.7,23413.0,38864085.0
+Ap824226,Em824226,Salaried,"Buchanan, Jones and Short Corp.",20.1,29503.0,30288384.0
+Ap250159,Em250159,Self-Employed,Mitchell-Morse LLC,2.6,22785.0,93876597.0
+Ap272502,Em272502,Salaried,"Roberts, Hamilton and Watson Corp.",7.1,5343.0,69227099.0
+Ap255576,Em255576,Self-Employed,Atkins-Salas LLC,14.4,21714.0,80549390.0
+Ap965291,Em965291,Salaried,Pittman-Ayers Corp.,9.0,17410.0,46886987.0
+Ap986089,Em986089,Salaried,"Mcneil, Miller and Smith Corp.",28.2,14753.0,108710331.0
+Ap111023,Em111023,Hourly,Higgins and Sons Corp.,23.0,25214.0,11459129.0
+Ap645735,Em645735,Salaried,Moore-Hunter Corp.,29.3,28793.0,46664277.0
+Ap488043,Em488043,Salaried,"Lewis, Lee and Rogers Corp.",20.3,10885.0,69940651.0
+Ap386103,Em386103,Salaried,"Perez, Knight and Hughes Corp.",7.6,19534.0,41583065.0
+Ap166203,Em166203,Hourly,Horton-Walker Corp.,14.9,11762.0,24152853.0
+Ap260775,Em260775,Salaried,White Inc Corp.,7.3,3047.0,86970332.0
+Ap109337,Em109337,Hourly,Arroyo Inc Corp.,20.4,6412.0,31565653.0
+Ap670715,Em670715,Salaried,"Peterson, Holt and Long Corp.",10.5,7011.0,105310475.0
+Ap614723,Em614723,Self-Employed,Barrett and Sons LLC,18.2,21044.0,41594591.0
+Ap423673,Em423673,Self-Employed,Acosta-Lee LLC,14.5,24896.0,40670607.0
+Ap464167,Em464167,Salaried,"Avery, Hays and Wall Corp.",5.9,14239.0,106005035.0
+Ap446809,Em446809,Salaried,"Spencer, Thomas and Miller Corp.",16.8,10263.0,99904117.0
+Ap730075,Em730075,Hourly,"Walker, Hayes and Dorsey Corp.",9.1,20583.0,24569378.0
+Ap787281,Em787281,Salaried,Gutierrez Ltd Corp.,25.6,6754.0,115284986.0
+Ap395451,Em395451,Salaried,Romero-Gordon Corp.,3.0,29248.0,120727425.0
+Ap520571,Em520571,Salaried,Erickson PLC Corp.,9.3,17974.0,66816649.0
+Ap227016,Em227016,Salaried,White-Byrd Corp.,24.7,9924.0,101985040.0
+Ap891267,Em891267,Hourly,Wood and Sons Corp.,3.0,23954.0,12591170.0
+Ap644447,Em644447,Salaried,"Lambert, Mullins and Richardson Corp.",11.5,9528.0,50320390.0
+Ap597562,Em597562,Salaried,"Stewart, Pierce and Harris Corp.",12.4,18463.0,85161430.0
+Ap802965,Em802965,Salaried,"Ramirez, Arias and Calhoun Corp.",26.1,6526.0,30513538.0
+Ap483934,Em483934,Salaried,Maxwell Inc Corp.,20.8,25210.0,107079701.0
+Ap992048,Em992048,Self-Employed,Hess-Buchanan LLC,12.3,20389.0,120529076.0
+Ap965184,Em965184,Self-Employed,Hill Group LLC,14.5,19070.0,36773547.0
+Ap417428,Em417428,Salaried,"Wells, Adkins and Perez Corp.",8.2,28959.0,64351494.0
+Ap419187,Em419187,Salaried,"Hernandez, Clark and Butler Corp.",16.6,16146.0,18627556.0
+Ap790907,Em790907,Salaried,Davis Group Corp.,17.3,3976.0,19606990.0
+Ap983439,Em983439,Salaried,Casey LLC Corp.,5.9,22335.0,97130569.0
+Ap182844,Em182844,Salaried,"Collins, Franklin and Dillon Corp.",20.0,27872.0,16334689.0
+Ap651820,Em651820,Salaried,Garcia Ltd Corp.,11.7,13985.0,51150022.0
+Ap265421,Em265421,Salaried,Gilbert Group Corp.,16.4,10286.0,75309150.0
+Ap222402,Em222402,Salaried,Reeves Inc Corp.,6.3,10890.0,116830070.0
+Ap218012,Em218012,Salaried,Turner-Nixon Corp.,21.1,13298.0,58486333.0
+Ap538661,Em538661,Salaried,"Johnson, Freeman and Ortiz Corp.",22.4,17204.0,14231140.0
+Ap498929,Em498929,Salaried,"Smith, Clark and Davidson Corp.",20.8,23437.0,35379104.0
+Ap680466,Em680466,Salaried,Rodriguez Group Corp.,27.4,16198.0,117395491.0
+Ap673695,Em673695,Hourly,"Diaz, Wu and Smith Corp.",17.7,2159.0,117853580.0
+Ap563556,Em563556,Salaried,Clark-Adams Corp.,16.0,28881.0,45715185.0
+Ap675278,Em675278,Self-Employed,"Mitchell, Scott and Thompson LLC",3.3,5890.0,65780268.0
+Ap229473,Em229473,Hourly,"Delgado, Lucas and Walker Corp.",26.0,12898.0,34531804.0
+Ap578007,Em578007,Hourly,Johnson-Wilson Corp.,23.8,20815.0,33434902.0
+Ap944573,Em944573,Salaried,"Robertson, King and Wong Corp.",26.3,20494.0,120372456.0
+Ap517009,Em517009,Self-Employed,Sanchez-Rivas LLC,11.7,10447.0,71674902.0
+Ap418714,Em418714,Salaried,Wood-Woods Corp.,7.8,28924.0,60959159.0
+Ap326156,Em326156,Salaried,Anderson-Herrera Corp.,3.8,13103.0,59868086.0
+Ap268964,Em268964,Salaried,Barr-Valenzuela Corp.,17.6,13260.0,107940432.0
+Ap625303,Em625303,Salaried,Jackson-Cole Corp.,7.3,17613.0,70734717.0
+Ap161813,Em161813,Salaried,Gonzalez LLC Corp.,17.5,5181.0,65747890.0
+Ap127712,Em127712,Salaried,Baker-Adkins Corp.,9.6,11710.0,73103484.0
+Ap724785,Em724785,Salaried,Cochran-Watkins Corp.,9.4,7171.0,47070776.0
+Ap867214,Em867214,Salaried,"Kirk, Howard and Farmer Corp.",20.0,8729.0,92336096.0
+Ap212816,Em212816,Self-Employed,Mclaughlin and Sons LLC,12.6,13795.0,88962429.0
+Ap228778,Em228778,Salaried,Kane-Miles Corp.,9.6,15166.0,102217791.0
+Ap686580,Em686580,Self-Employed,Larsen-Santana LLC,3.4,3865.0,127159795.0
+Ap385977,Em385977,Salaried,Fields Group Corp.,13.4,19968.0,37421225.0
+Ap235230,Em235230,Salaried,"Carter, Palmer and Martinez Corp.",3.4,25579.0,13968993.0
+Ap818040,Em818040,Self-Employed,Adams Ltd LLC,17.1,16823.0,115026885.0
+Ap906741,Em906741,Salaried,"Smith, Brewer and Hendrix Corp.",18.7,23704.0,10092040.0
+Ap369114,Em369114,Salaried,Davis-Wade Corp.,28.6,28639.0,93051189.0
+Ap434618,Em434618,Self-Employed,Ross Group LLC,10.1,12598.0,78891461.0
+Ap932972,Em932972,Salaried,"Johnson, Jennings and Perkins Corp.",8.3,23975.0,72056176.0
+Ap251456,Em251456,Salaried,"Gray, Sandoval and Garrett Corp.",0.7,13127.0,113627008.0
+Ap904449,Em904449,Salaried,"Nunez, Jones and Fox Corp.",18.0,5957.0,125650186.0
+Ap962312,Em962312,Salaried,"Thompson, Underwood and Bush Corp.",1.9,25246.0,118509639.0
+Ap205570,Em205570,Salaried,Douglas PLC Corp.,6.0,10366.0,80005575.0
+Ap370846,Em370846,Salaried,Baldwin-Jones Corp.,25.1,20301.0,70501885.0
+Ap100404,Em100404,Hourly,Andrews Ltd Corp.,17.3,10960.0,125134796.0
+Ap803286,Em803286,Salaried,Hines-Roberts Corp.,3.6,14006.0,68511816.0
+Ap374907,Em374907,Salaried,Rodgers Group Corp.,12.8,25580.0,62699462.0
+Ap773744,Em773744,Salaried,Weber and Sons Corp.,2.6,13194.0,82014535.0
+Ap815460,Em815460,Hourly,Norton Group Corp.,22.6,14870.0,56463358.0
+Ap984574,Em984574,Salaried,Gonzalez Group Corp.,5.0,15783.0,32245176.0
+Ap765220,Em765220,Salaried,Miller-Barton Corp.,15.3,19990.0,41257566.0
+Ap335365,Em335365,Salaried,Fry Ltd Corp.,19.0,2399.0,75970000.0
+Ap442786,Em442786,Salaried,"Mann, Dunlap and Mcneil Corp.",16.9,18588.0,80564252.0
+Ap150612,Em150612,Salaried,Garcia-Mccullough Corp.,4.7,22634.0,75215163.0
+Ap910006,Em910006,Salaried,"Butler, Butler and Rivera Corp.",17.6,21939.0,76621167.0
+Ap909956,Em909956,Self-Employed,"Hayden, Brown and Atkinson LLC",2.2,22684.0,28164070.0
+Ap300244,Em300244,Salaried,Waters-Marshall Corp.,16.5,24053.0,57983866.0
+Ap897348,Em897348,Salaried,Williams-Mitchell Corp.,9.0,14047.0,21282218.0
+Ap104809,Em104809,Salaried,Martinez-Horne Corp.,13.7,3760.0,10156371.0
+Ap263273,Em263273,Salaried,"Cameron, Sims and Adams Corp.",4.8,20548.0,117857638.0
+Ap808690,Em808690,Hourly,"King, Sims and Luna Corp.",7.8,6683.0,88137568.0
+Ap244528,Em244528,Self-Employed,"Moore, Haynes and Holmes LLC",10.8,13986.0,121651901.0
+Ap606964,Em606964,Self-Employed,Jordan Inc LLC,6.4,12367.0,74227165.0
+Ap549613,Em549613,Salaried,"Stuart, Mcpherson and Carpenter Corp.",5.0,16018.0,47608423.0
+Ap138765,Em138765,Salaried,Cortez Group Corp.,26.4,11347.0,98553682.0
+Ap931538,Em931538,Salaried,Henry LLC Corp.,12.7,14030.0,99743543.0
+Ap416076,Em416076,Self-Employed,"Lewis, Garcia and Parker LLC",6.5,9478.0,27301656.0
+Ap943523,Em943523,Salaried,Price Ltd Corp.,1.8,2170.0,42487526.0
+Ap646237,Em646237,Salaried,Gray-Callahan Corp.,28.3,15364.0,51299679.0
+Ap301152,Em301152,Salaried,"Hall, Soto and Pierce Corp.",27.0,21694.0,11893099.0
+Ap399888,Em399888,Salaried,"Waters, Sims and Miller Corp.",22.7,12150.0,96730821.0
+Ap800903,Em800903,Salaried,Bentley-Chavez Corp.,8.0,22234.0,18392894.0
+Ap994751,Em994751,Self-Employed,"Baird, Jimenez and Jackson LLC",13.0,14935.0,36449910.0
+Ap192193,Em192193,Hourly,Glass Ltd Corp.,30.0,29279.0,36408663.0
+Ap136187,Em136187,Salaried,Horne-Lamb Corp.,17.6,14298.0,87376595.0
+Ap605950,Em605950,Salaried,"Green, Simpson and Burton Corp.",25.1,7846.0,32544592.0
+Ap238311,Em238311,Self-Employed,Campbell-Hughes LLC,11.5,23262.0,86072913.0
+Ap900921,Em900921,Salaried,Collins Group Corp.,20.8,2560.0,29272194.0
+Ap608153,Em608153,Self-Employed,Simmons Ltd LLC,6.4,16198.0,45014802.0
+Ap289089,Em289089,Salaried,Bird-Smith Corp.,20.4,10565.0,82632603.0
+Ap686165,Em686165,Salaried,"Nguyen, Walker and Green Corp.",16.6,26454.0,39216522.0
+Ap536341,Em536341,Salaried,Owens LLC Corp.,16.6,19696.0,121479167.0
+Ap412066,Em412066,Salaried,"Potter, Robinson and Wilson Corp.",1.3,8565.0,128950537.0
+Ap718362,Em718362,Salaried,Rollins-Robinson Corp.,13.8,20991.0,23856972.0
+Ap787409,Em787409,Self-Employed,Gilmore LLC LLC,4.8,18211.0,86003241.0
+Ap661419,Em661419,Hourly,Gillespie Inc Corp.,29.5,12443.0,65895331.0
+Ap740053,Em740053,Hourly,Lee PLC Corp.,15.4,19291.0,110628000.0
+Ap960395,Em960395,Self-Employed,Garner Inc LLC,2.8,20344.0,103716725.0
+Ap731172,Em731172,Self-Employed,"Austin, Duncan and Garcia LLC",2.1,11894.0,93476117.0
+Ap225917,Em225917,Salaried,"Hernandez, Crane and Cuevas Corp.",1.5,6512.0,10012389.0
+Ap910717,Em910717,Salaried,Whitaker Group Corp.,22.3,18943.0,100253618.0
+Ap399770,Em399770,Salaried,Scott LLC Corp.,4.3,14099.0,37298827.0
+Ap798168,Em798168,Salaried,"Burns, Fisher and Thornton Corp.",2.1,26717.0,118447681.0
+Ap581680,Em581680,Hourly,"Santos, Dodson and Allison Corp.",5.4,9649.0,55466314.0
+Ap381342,Em381342,Salaried,Hughes-Bowers Corp.,14.7,19602.0,34828915.0
+Ap639542,Em639542,Salaried,Mcpherson LLC Corp.,28.2,21620.0,72380114.0
+Ap144238,Em144238,Salaried,"Herrera, Smith and Mcdonald Corp.",0.9,21897.0,110610542.0
+Ap101252,Em101252,Salaried,Jones-Perkins Corp.,29.5,21952.0,95011619.0
+Ap926196,Em926196,Hourly,Wright-Yang Corp.,21.3,8250.0,18938724.0
+Ap964141,Em964141,Salaried,"Rowland, Smith and Mendez Corp.",10.6,19743.0,77785552.0
+Ap585450,Em585450,Salaried,Clark PLC Corp.,13.8,5771.0,31411626.0
+Ap415826,Em415826,Hourly,"Foster, Green and Harris Corp.",0.9,17880.0,112499185.0
+Ap421638,Em421638,Salaried,Hicks Group Corp.,26.8,9722.0,101307288.0
+Ap705605,Em705605,Salaried,May-Wood Corp.,22.9,22646.0,12186255.0
+Ap427359,Em427359,Salaried,"Turner, Martinez and Russell Corp.",20.7,3758.0,19252784.0
+Ap702875,Em702875,Salaried,Butler-Rosales Corp.,23.6,5833.0,94866001.0
+Ap106949,Em106949,Hourly,"Rubio, Sanchez and Rodriguez Corp.",10.4,29512.0,84755724.0
+Ap863185,Em863185,Salaried,Oconnor-Payne Corp.,15.9,8726.0,103300445.0
+Ap417537,Em417537,Self-Employed,Hardin PLC LLC,1.9,20855.0,75673310.0
+Ap828913,Em828913,Salaried,"Parks, Henry and Holloway Corp.",9.2,8471.0,14094099.0
+Ap762301,Em762301,Hourly,Ashley PLC Corp.,13.6,10868.0,23643295.0
+Ap650222,Em650222,Salaried,"Hernandez, Madden and Murray Corp.",6.7,26575.0,108965924.0
+Ap880722,Em880722,Salaried,"Ball, Palmer and Johnson Corp.",4.3,28507.0,95605892.0
+Ap555102,Em555102,Salaried,Smith-Holt Corp.,25.9,14332.0,18993109.0
+Ap437889,Em437889,Salaried,"Oneal, Schmidt and Patrick Corp.",7.7,26564.0,50863077.0
+Ap576467,Em576467,Salaried,"Weber, Wood and Manning Corp.",12.1,21705.0,65773372.0
+Ap456600,Em456600,Salaried,White-Allen Corp.,22.4,29473.0,76333882.0
+Ap415557,Em415557,Hourly,Weaver LLC Corp.,13.8,2937.0,96999727.0
+Ap983671,Em983671,Salaried,Pugh-Holt Corp.,1.7,29559.0,98979774.0
+Ap404462,Em404462,Self-Employed,Tapia-Williams LLC,14.9,5612.0,127600448.0
+Ap350875,Em350875,Hourly,Ramirez-Herrera Corp.,13.1,6658.0,80789558.0
+Ap563389,Em563389,Hourly,"Brown, Dominguez and Sanchez Corp.",0.8,10026.0,44378109.0
+Ap170390,Em170390,Salaried,Garcia and Sons Corp.,23.9,2651.0,79584531.0
+Ap807689,Em807689,Salaried,"Williams, Kane and Thomas Corp.",20.8,8628.0,43182448.0
+Ap353490,Em353490,Salaried,Graham-Collier Corp.,21.0,27961.0,12882025.0
+Ap667376,Em667376,Self-Employed,Garcia-Molina LLC,1.5,20748.0,52093557.0
+Ap347940,Em347940,Self-Employed,Martin Group LLC,8.1,19827.0,86013192.0
+Ap465340,Em465340,Self-Employed,Parker Inc LLC,11.7,12122.0,112107697.0
+Ap533027,Em533027,Salaried,Delacruz-Adams Corp.,4.1,4709.0,88055695.0
+Ap608041,Em608041,Salaried,Mitchell Group Corp.,9.4,25380.0,113922428.0
+Ap417623,Em417623,Salaried,Liu and Sons Corp.,11.5,18139.0,100444333.0
+Ap316464,Em316464,Salaried,Curtis-Christensen Corp.,10.2,18137.0,47554043.0
+Ap842729,Em842729,Salaried,"Henry, Torres and Brooks Corp.",25.6,29835.0,101822828.0
+Ap610736,Em610736,Salaried,"Davis, Jones and Lewis Corp.",5.7,24454.0,129035655.0
+Ap906395,Em906395,Salaried,Perez LLC Corp.,25.3,8955.0,48744810.0
+Ap417267,Em417267,Hourly,Andrade-Bennett Corp.,14.5,28551.0,102102372.0
+Ap750199,Em750199,Salaried,Scott PLC Corp.,10.6,8410.0,18824650.0
+Ap988900,Em988900,Hourly,Evans-Gomez Corp.,22.2,15956.0,111053182.0
+Ap323777,Em323777,Self-Employed,Trujillo Ltd LLC,6.3,13476.0,24711472.0
+Ap959909,Em959909,Salaried,"Blankenship, Hoover and Crawford Corp.",21.8,8576.0,100148040.0
+Ap900820,Em900820,Salaried,Johnson-Spencer Corp.,14.2,15770.0,72122534.0
+Ap105569,Em105569,Salaried,"James, Hernandez and Flowers Corp.",5.1,7746.0,106019296.0
+Ap694124,Em694124,Salaried,Jackson Ltd Corp.,18.7,13195.0,75202697.0
+Ap728861,Em728861,Salaried,Daugherty-Gonzalez Corp.,23.9,8205.0,51709431.0
+Ap529802,Em529802,Salaried,Greene and Sons Corp.,17.4,2648.0,46595964.0
+Ap358090,Em358090,Self-Employed,"Norton, Carey and Singh LLC",7.5,16233.0,28309372.0
+Ap767375,Em767375,Salaried,Valdez-Mendoza Corp.,16.1,24056.0,50951947.0
+Ap145002,Em145002,Salaried,Guzman PLC Corp.,16.9,12177.0,93625447.0
+Ap871954,Em871954,Hourly,Walton LLC Corp.,11.8,19923.0,17682233.0
+Ap761614,Em761614,Hourly,Lee-Hughes Corp.,16.8,17850.0,17441474.0
+Ap779574,Em779574,Salaried,Jackson Ltd Corp.,29.0,15151.0,20255783.0
+Ap598870,Em598870,Salaried,Campos PLC Corp.,25.3,21282.0,118169493.0
+Ap311791,Em311791,Salaried,"Nicholson, Padilla and Summers Corp.",2.5,25242.0,15861137.0
+Ap302846,Em302846,Salaried,Patterson Group Corp.,9.7,25577.0,50028281.0
+Ap761450,Em761450,Self-Employed,Stone-Ramos LLC,15.0,19615.0,118910189.0
+Ap766997,Em766997,Salaried,"Yates, Yoder and Reed Corp.",28.1,28231.0,83563519.0
+Ap777775,Em777775,Salaried,Clarke PLC Corp.,14.4,23938.0,24322560.0
+Ap124071,Em124071,Hourly,Goodman-Aguilar Corp.,25.0,21080.0,128208140.0
+Ap682531,Em682531,Hourly,Kemp and Sons Corp.,19.9,5395.0,82025362.0
+Ap994647,Em994647,Salaried,Smith-Marsh Corp.,5.0,28987.0,36632594.0
+Ap272312,Em272312,Salaried,Solis-Shelton Corp.,5.9,24205.0,109952936.0
+Ap357218,Em357218,Salaried,Perez-Rodriguez Corp.,0.6,17632.0,85514333.0
+Ap314879,Em314879,Self-Employed,Lewis Group LLC,15.4,9742.0,71646066.0
+Ap463714,Em463714,Hourly,"Simmons, Rodriguez and Brandt Corp.",0.8,5952.0,45941920.0
+Ap526650,Em526650,Self-Employed,Bowman Group LLC,14.7,6060.0,125035329.0
+Ap431868,Em431868,Salaried,Nelson Group Corp.,19.4,10377.0,97485078.0
+Ap962129,Em962129,Hourly,Brown PLC Corp.,13.8,25345.0,80960076.0
+Ap653020,Em653020,Salaried,"White, Lee and Thompson Corp.",10.4,26512.0,15728128.0
+Ap745753,Em745753,Salaried,Harper-Ford Corp.,22.5,29245.0,30771244.0
+Ap517170,Em517170,Salaried,Holt-Williams Corp.,25.0,5968.0,98727094.0
+Ap157108,Em157108,Salaried,Hughes-Howard Corp.,13.5,24083.0,119483754.0
+Ap580721,Em580721,Salaried,Banks-Hamilton Corp.,29.9,12221.0,90996098.0
+Ap211195,Em211195,Self-Employed,Freeman-Norris LLC,4.2,20391.0,20097491.0
+Ap989513,Em989513,Salaried,"Martinez, Rogers and Warner Corp.",28.8,22308.0,46850256.0
+Ap136668,Em136668,Salaried,Trevino and Sons Corp.,27.4,20229.0,70680023.0
+Ap385205,Em385205,Self-Employed,"Pugh, Norris and Page LLC",17.8,23690.0,13106739.0
+Ap441396,Em441396,Hourly,"Hicks, Kim and Brown Corp.",25.6,13769.0,64092779.0
+Ap664037,Em664037,Salaried,Cantrell-Sawyer Corp.,12.2,13545.0,14815320.0
+Ap230560,Em230560,Salaried,"Mason, Arnold and Hamilton Corp.",23.2,21369.0,115318629.0
+Ap466824,Em466824,Hourly,Hendricks Ltd Corp.,7.4,27098.0,100083338.0
+Ap247979,Em247979,Salaried,"Lee, Greene and Blackburn Corp.",12.8,11917.0,49745261.0
+Ap249849,Em249849,Salaried,"Duke, Johnston and Nguyen Corp.",27.3,3495.0,103172835.0
+Ap848589,Em848589,Self-Employed,Lewis Inc LLC,13.2,12492.0,79667393.0
+Ap151745,Em151745,Salaried,White-Hanson Corp.,0.9,13166.0,72698990.0
+Ap470608,Em470608,Salaried,Vasquez-Haas Corp.,12.2,3660.0,127897840.0
+Ap191865,Em191865,Salaried,"Terry, Thomas and Fisher Corp.",21.4,3644.0,53114338.0
+Ap998860,Em998860,Salaried,Carey Ltd Corp.,29.4,20669.0,118439453.0
+Ap312890,Em312890,Self-Employed,"Freeman, Wilson and Chambers LLC",11.1,3482.0,66954831.0
+Ap123624,Em123624,Self-Employed,Burke-Hayes LLC,14.6,5923.0,89299007.0
+Ap123321,Em123321,Salaried,Graves-Riley Corp.,7.4,25092.0,54849437.0
+Ap503704,Em503704,Hourly,Hogan-Barajas Corp.,24.8,27026.0,104417146.0
+Ap909006,Em909006,Self-Employed,Bauer-Barnes LLC,12.2,14951.0,40097837.0
+Ap274293,Em274293,Salaried,Harris PLC Corp.,11.5,20403.0,116685940.0
+Ap883415,Em883415,Salaried,Smith Group Corp.,10.8,9107.0,68579890.0
+Ap286717,Em286717,Self-Employed,Oconnor Group LLC,3.8,19605.0,35716330.0
+Ap480975,Em480975,Self-Employed,"Hays, Parks and Williams LLC",7.1,10437.0,123542144.0
+Ap283868,Em283868,Salaried,Johnson-West Corp.,6.6,13425.0,69649923.0
+Ap759792,Em759792,Salaried,Smith-Haynes Corp.,17.2,10515.0,109923240.0
+Ap195257,Em195257,Self-Employed,"Moore, Fowler and Acevedo LLC",13.6,23004.0,123685344.0
+Ap688579,Em688579,Salaried,Lin-Miller Corp.,21.8,2186.0,62583138.0
+Ap310176,Em310176,Self-Employed,"Mcgrath, Gill and Ortiz LLC",5.2,21125.0,100040698.0
+Ap290471,Em290471,Salaried,Rodriguez-Hale Corp.,20.3,11489.0,19094324.0
+Ap572930,Em572930,Salaried,Burgess-Rodriguez Corp.,18.8,19445.0,65857463.0
+Ap936860,Em936860,Hourly,Peterson-Jackson Corp.,6.0,12620.0,101238904.0
+Ap843091,Em843091,Salaried,Costa-Powell Corp.,9.4,12940.0,100874754.0
+Ap618862,Em618862,Salaried,Erickson Group Corp.,18.1,21768.0,66778554.0
+Ap575774,Em575774,Salaried,"Black, James and Hart Corp.",2.6,27980.0,17788263.0
+Ap735605,Em735605,Salaried,Russell and Sons Corp.,13.6,28924.0,76975392.0
+Ap239789,Em239789,Self-Employed,"Williams, Zuniga and Allen LLC",13.7,16914.0,35341721.0
+Ap489593,Em489593,Self-Employed,Jones-Humphrey LLC,19.1,20455.0,59516215.0
+Ap915131,Em915131,Salaried,Sawyer and Sons Corp.,27.9,13408.0,51499217.0
+Ap173686,Em173686,Self-Employed,Phillips-Robles LLC,9.7,8322.0,117038635.0
+Ap167661,Em167661,Salaried,Washington-Riggs Corp.,16.7,6719.0,70158500.0
+Ap668535,Em668535,Hourly,"Johnson, Harrison and Knight Corp.",14.4,10699.0,47185771.0
+Ap345121,Em345121,Salaried,"Williams, Jones and Nguyen Corp.",15.8,5355.0,62977168.0
+Ap772108,Em772108,Self-Employed,Johnston-Mullen LLC,6.0,16769.0,53459459.0
+Ap467257,Em467257,Salaried,Malone-Harris Corp.,4.4,24358.0,117749717.0
+Ap366765,Em366765,Salaried,Lynch LLC Corp.,3.6,15814.0,76139895.0
+Ap246106,Em246106,Self-Employed,"Diaz, Hill and Duke LLC",8.4,10068.0,23928703.0
+Ap358930,Em358930,Hourly,Rodriguez-Baker Corp.,29.4,13398.0,12164549.0
+Ap760482,Em760482,Salaried,Hall Inc Corp.,9.6,28889.0,50255193.0
+Ap904462,Em904462,Self-Employed,"Caldwell, Lara and Delacruz LLC",5.5,15178.0,21420300.0
+Ap969270,Em969270,Salaried,"Bowman, Morris and Bradley Corp.",8.9,11386.0,75622578.0
+Ap971149,Em971149,Self-Employed,"Collier, Gonzalez and Juarez LLC",2.2,21386.0,41843721.0
+Ap548874,Em548874,Hourly,"Robinson, Murray and Brown Corp.",16.2,21966.0,10105539.0
+Ap662926,Em662926,Salaried,Camacho-Humphrey Corp.,22.5,14738.0,59171375.0
+Ap953499,Em953499,Salaried,"Williams, Griffith and Torres Corp.",23.1,20789.0,122868997.0
+Ap218033,Em218033,Salaried,"Ortiz, Obrien and Hall Corp.",4.5,9936.0,80327680.0
+Ap730265,Em730265,Salaried,Bender LLC Corp.,14.4,22156.0,109579607.0
+Ap713157,Em713157,Salaried,Miller Ltd Corp.,14.2,24013.0,123646095.0
+Ap729474,Em729474,Self-Employed,Sexton Inc LLC,3.7,20488.0,122141177.0
+Ap921106,Em921106,Salaried,Garcia-Jones Corp.,29.6,25126.0,49247280.0
+Ap266926,Em266926,Self-Employed,"Johnson, Jones and Mckinney LLC",14.0,16929.0,37549806.0
+Ap670559,Em670559,Salaried,Coleman Group Corp.,29.9,12917.0,39145635.0
+Ap960120,Em960120,Salaried,Stewart and Sons Corp.,6.8,11789.0,30163894.0
+Ap531734,Em531734,Hourly,Farmer-Mills Corp.,23.1,29377.0,20570895.0
+Ap473220,Em473220,Hourly,"Anderson, Giles and Castillo Corp.",25.3,3639.0,63972609.0
+Ap765627,Em765627,Hourly,Shepherd Ltd Corp.,26.2,17781.0,81834729.0
+Ap321897,Em321897,Salaried,Keller-Carpenter Corp.,11.0,13911.0,36031386.0
+Ap101062,Em101062,Salaried,Coleman Group Corp.,28.8,25087.0,125674049.0
+Ap347736,Em347736,Self-Employed,Allen-Norman LLC,5.1,20097.0,12653296.0
+Ap674736,Em674736,Self-Employed,"Adams, Morris and Hart LLC",17.3,14805.0,127975212.0
+Ap195462,Em195462,Salaried,Burns Ltd Corp.,28.6,25244.0,54039098.0
+Ap499445,Em499445,Salaried,Smith-Rice Corp.,16.3,10358.0,53967682.0
+Ap550009,Em550009,Salaried,Freeman-Andrade Corp.,13.2,20902.0,63011735.0
+Ap870173,Em870173,Salaried,Roberts-Ferguson Corp.,10.2,26835.0,60506573.0
+Ap672203,Em672203,Salaried,Smith-Martinez Corp.,20.9,2318.0,49368787.0
+Ap366776,Em366776,Self-Employed,"Clark, Meyer and Lopez LLC",3.6,8790.0,29568167.0
+Ap728880,Em728880,Salaried,Henry-Davis Corp.,20.9,6806.0,109151025.0
+Ap758956,Em758956,Salaried,Baker-Weber Corp.,1.0,2309.0,125171416.0
+Ap471923,Em471923,Hourly,Barnett Group Corp.,29.5,6199.0,17320359.0
+Ap499384,Em499384,Salaried,Edwards-Montoya Corp.,6.3,7979.0,10824108.0
+Ap732387,Em732387,Salaried,Forbes-Mccarthy Corp.,3.1,18726.0,123280448.0
+Ap631849,Em631849,Salaried,Howard Group Corp.,2.3,20616.0,31531823.0
+Ap567010,Em567010,Salaried,Davis-Smith Corp.,6.0,26752.0,70218165.0
+Ap706440,Em706440,Self-Employed,Cook-Ruiz LLC,18.8,15210.0,116189938.0
+Ap749324,Em749324,Self-Employed,Johnson-Hunter LLC,3.3,13376.0,34635797.0
+Ap486193,Em486193,Self-Employed,Olson-Randolph LLC,4.0,13844.0,84626895.0
+Ap126734,Em126734,Self-Employed,Dennis-Nguyen LLC,1.1,18312.0,15319883.0
+Ap126069,Em126069,Salaried,"Martinez, Fritz and Wyatt Corp.",4.6,23156.0,11446239.0
+Ap835265,Em835265,Salaried,Schneider Ltd Corp.,26.8,15729.0,17666987.0
+Ap637198,Em637198,Salaried,Johnson LLC Corp.,8.8,9968.0,88319661.0
+Ap435623,Em435623,Self-Employed,"Hernandez, Nicholson and Bean LLC",16.4,19192.0,109745790.0
+Ap570951,Em570951,Salaried,Diaz-Davis Corp.,28.0,24861.0,59037655.0
+Ap181264,Em181264,Salaried,Perry-Erickson Corp.,4.8,10639.0,18347865.0
+Ap123275,Em123275,Hourly,"Williams, Shaw and Arnold Corp.",26.2,10864.0,44944009.0
+Ap696562,Em696562,Self-Employed,"Mcbride, Lynn and Chandler LLC",19.9,20415.0,11382461.0
+Ap574665,Em574665,Salaried,Ross LLC Corp.,20.2,2745.0,36732973.0
+Ap462920,Em462920,Salaried,"Weaver, Floyd and Mcdaniel Corp.",12.7,21862.0,111372148.0
+Ap291076,Em291076,Self-Employed,"Campbell, Warren and Cox LLC",8.5,14725.0,38631849.0
+Ap294053,Em294053,Salaried,Jackson-Malone Corp.,17.2,21825.0,43696426.0
+Ap809913,Em809913,Salaried,Dillon-Randall Corp.,13.8,28021.0,64233981.0
+Ap672735,Em672735,Self-Employed,Everett PLC LLC,13.2,18154.0,105035048.0
+Ap699991,Em699991,Self-Employed,Horn Group LLC,4.5,16434.0,90815360.0
+Ap962522,Em962522,Salaried,Anderson Group Corp.,29.3,7871.0,27350678.0
+Ap903692,Em903692,Salaried,"Alvarado, Barnes and Meyer Corp.",27.7,13215.0,15685119.0
+Ap212581,Em212581,Salaried,"Madden, Rose and Avila Corp.",3.7,27584.0,77610384.0
+Ap365956,Em365956,Hourly,"Hall, Perez and Bryant Corp.",12.4,24068.0,120840700.0
+Ap521240,Em521240,Salaried,Schneider PLC Corp.,22.6,12819.0,126591891.0
+Ap814016,Em814016,Salaried,"Patel, Jordan and Matthews Corp.",9.4,25885.0,112946890.0
+Ap216421,Em216421,Salaried,Jackson Inc Corp.,10.9,16812.0,71298964.0
+Ap625893,Em625893,Hourly,Thompson-Porter Corp.,8.3,11281.0,115110568.0
+Ap564374,Em564374,Self-Employed,Brown Group LLC,5.1,14002.0,107535698.0
+Ap172303,Em172303,Hourly,Mata and Sons Corp.,9.4,28619.0,33389031.0
+Ap258211,Em258211,Self-Employed,"Garrett, Stephens and Baker LLC",17.4,18140.0,107331672.0
+Ap287210,Em287210,Self-Employed,"Reed, Conley and Petersen LLC",14.7,18861.0,35080053.0
+Ap886237,Em886237,Self-Employed,"Henry, Mccullough and Pacheco LLC",15.5,7699.0,75514466.0
+Ap962557,Em962557,Self-Employed,Colon-Jones LLC,13.3,18692.0,64315825.0
+Ap244990,Em244990,Salaried,Lee-Schneider Corp.,18.4,3776.0,24298872.0
+Ap258518,Em258518,Self-Employed,Ashley Group LLC,11.4,11778.0,44082110.0
+Ap224040,Em224040,Hourly,Patterson and Sons Corp.,9.4,2325.0,124140079.0
+Ap768406,Em768406,Salaried,Barnes PLC Corp.,22.8,17856.0,57520559.0
+Ap623138,Em623138,Salaried,Garcia LLC Corp.,20.1,8912.0,17218186.0
+Ap518034,Em518034,Salaried,"Johnson, Robles and Leon Corp.",21.3,3159.0,55730891.0
+Ap856254,Em856254,Salaried,Nelson Inc Corp.,20.7,17112.0,85873346.0
+Ap890756,Em890756,Salaried,Andrews-Moon Corp.,26.6,15806.0,91853020.0
+Ap962755,Em962755,Salaried,Lane-Stout Corp.,25.2,5945.0,63303906.0
+Ap895543,Em895543,Self-Employed,"Wilson, Cook and Young LLC",10.2,13086.0,59083955.0
+Ap640677,Em640677,Salaried,"Romero, Hamilton and Peterson Corp.",12.9,11247.0,45314696.0
+Ap746465,Em746465,Hourly,Jackson-Frederick Corp.,26.3,29078.0,42914743.0
+Ap403571,Em403571,Salaried,Gomez PLC Corp.,11.5,26334.0,19020437.0
+Ap784106,Em784106,Self-Employed,"Phillips, Gonzales and Guerrero LLC",9.7,13703.0,87655355.0
+Ap222883,Em222883,Salaried,Silva-Rogers Corp.,3.7,29906.0,106612460.0
+Ap843246,Em843246,Self-Employed,Willis-Taylor LLC,11.7,12975.0,102949357.0
+Ap862501,Em862501,Salaried,Hatfield Inc Corp.,9.6,13456.0,103379780.0
+Ap487952,Em487952,Self-Employed,"Warren, Edwards and Davis LLC",12.4,20002.0,69412202.0
+Ap212221,Em212221,Hourly,Wilson Ltd Corp.,29.0,29749.0,50311846.0
+Ap899666,Em899666,Salaried,Clark Group Corp.,5.1,3886.0,110940445.0
+Ap360669,Em360669,Salaried,Branch-Barnett Corp.,4.1,18827.0,39766959.0
+Ap859224,Em859224,Self-Employed,Morgan Inc LLC,1.4,6521.0,28580175.0
+Ap939873,Em939873,Salaried,Dillon Group Corp.,9.6,13612.0,104161489.0
+Ap625134,Em625134,Self-Employed,Walker LLC LLC,11.9,7341.0,125026655.0
+Ap635242,Em635242,Hourly,"Hess, Smith and Fitzpatrick Corp.",23.5,6144.0,92306149.0
+Ap441383,Em441383,Hourly,Williams and Sons Corp.,21.6,24476.0,128438790.0
+Ap344761,Em344761,Self-Employed,Moore-Chang LLC,10.6,19575.0,55985549.0
+Ap932946,Em932946,Self-Employed,Gonzales-Perkins LLC,19.1,23253.0,36780381.0
+Ap974668,Em974668,Salaried,Martinez LLC Corp.,4.9,11554.0,97963626.0
+Ap984011,Em984011,Salaried,Price-Duncan Corp.,16.1,15542.0,78963548.0
+Ap237541,Em237541,Hourly,Robles-Hanna Corp.,22.3,20026.0,57196611.0
+Ap928533,Em928533,Salaried,Proctor PLC Corp.,15.2,13662.0,80858405.0
+Ap164323,Em164323,Salaried,Williams-Hines Corp.,17.5,23775.0,108684742.0
+Ap716210,Em716210,Salaried,Moreno-Medina Corp.,13.7,10287.0,42122548.0
+Ap289139,Em289139,Salaried,Lopez PLC Corp.,18.6,11600.0,21715950.0
+Ap280448,Em280448,Salaried,Anderson-Simmons Corp.,25.5,15456.0,62539580.0
+Ap800947,Em800947,Salaried,"Pitts, Powell and Chambers Corp.",16.1,14670.0,80512783.0
+Ap335659,Em335659,Salaried,Moon-Butler Corp.,28.1,8840.0,122942143.0
+Ap489678,Em489678,Salaried,"Avery, Douglas and Tucker Corp.",29.6,25373.0,87724231.0
+Ap954016,Em954016,Hourly,"Walker, Washington and Vega Corp.",25.7,24733.0,34679562.0
+Ap204537,Em204537,Self-Employed,Murphy PLC LLC,16.5,16834.0,29081372.0
+Ap964909,Em964909,Salaried,Thompson-Phillips Corp.,20.6,4123.0,60880833.0
+Ap341983,Em341983,Salaried,Howard-Lowery Corp.,17.5,20310.0,98429729.0
+Ap666821,Em666821,Salaried,Roberts PLC Corp.,2.9,2362.0,82812656.0
+Ap888260,Em888260,Salaried,"Wilson, Gray and Anderson Corp.",27.5,5640.0,61309041.0
+Ap101917,Em101917,Salaried,"Reid, Trevino and King Corp.",6.7,7538.0,72514870.0
+Ap382762,Em382762,Salaried,Fernandez-Strong Corp.,13.3,16661.0,90901229.0
+Ap656542,Em656542,Salaried,"Wong, Villarreal and Esparza Corp.",3.0,17632.0,86153065.0
+Ap886275,Em886275,Self-Employed,Ramos-Knight LLC,8.3,22233.0,119979323.0
+Ap467436,Em467436,Self-Employed,"Simmons, Clark and Ramirez LLC",3.5,6958.0,111505928.0
+Ap609930,Em609930,Salaried,"Clark, Riley and Sanchez Corp.",1.4,15560.0,84184007.0
+Ap671650,Em671650,Salaried,"Kline, Gonzalez and Sutton Corp.",22.8,4972.0,25296080.0
+Ap382272,Em382272,Hourly,Chen Inc Corp.,14.7,25337.0,122397248.0
+Ap485925,Em485925,Salaried,Wilson Ltd Corp.,7.2,20035.0,34181490.0
+Ap866641,Em866641,Salaried,Taylor Group Corp.,1.1,6166.0,123737140.0
+Ap814743,Em814743,Hourly,Snow-Wyatt Corp.,8.8,25637.0,102973381.0
+Ap689833,Em689833,Self-Employed,Clark Inc LLC,15.9,11574.0,90227822.0
+Ap182180,Em182180,Salaried,Oconnor-Morales Corp.,13.5,28401.0,121490544.0
+Ap712246,Em712246,Salaried,"Wood, May and Watson Corp.",18.6,18732.0,114592132.0
+Ap503081,Em503081,Salaried,"Shaw, Peterson and Diaz Corp.",11.3,17142.0,20022851.0
+Ap401953,Em401953,Self-Employed,"Gutierrez, Calderon and Rivera LLC",10.2,19527.0,112537173.0
+Ap478892,Em478892,Hourly,"Villa, Horn and Webster Corp.",19.2,15868.0,34801725.0
+Ap105287,Em105287,Self-Employed,"Harrison, Young and Hale LLC",13.6,5858.0,84528867.0
+Ap357665,Em357665,Salaried,Bridges and Sons Corp.,22.3,19307.0,101970314.0
+Ap108512,Em108512,Salaried,"Berry, Miller and Harris Corp.",18.9,9828.0,12140686.0
+Ap756702,Em756702,Salaried,Williams LLC Corp.,22.0,20375.0,90888847.0
+Ap556292,Em556292,Salaried,Dean-Moore Corp.,7.3,21602.0,22023803.0
+Ap208872,Em208872,Salaried,Cohen and Sons Corp.,17.9,13744.0,114708803.0
+Ap872042,Em872042,Salaried,Martin Inc Corp.,20.1,26242.0,117247659.0
+Ap193070,Em193070,Salaried,"Rodriguez, Cochran and Montoya Corp.",27.3,7399.0,56000889.0
+Ap704055,Em704055,Salaried,Bowers-Ball Corp.,13.5,4997.0,24463584.0
+Ap722117,Em722117,Self-Employed,Walter-Wright LLC,10.6,15630.0,97775283.0
+Ap529474,Em529474,Salaried,Vaughan-Knight Corp.,18.0,26148.0,110452085.0
+Ap142078,Em142078,Salaried,Patton Group Corp.,6.9,10572.0,85905764.0
+Ap468432,Em468432,Salaried,Norman Inc Corp.,4.0,10342.0,77906373.0
+Ap707812,Em707812,Salaried,Bennett-Thomas Corp.,6.4,29978.0,88342418.0
+Ap327645,Em327645,Salaried,Escobar-Jensen Corp.,29.0,25158.0,117072905.0
+Ap636507,Em636507,Salaried,Montoya-Smith Corp.,14.9,12927.0,56240623.0
+Ap886667,Em886667,Salaried,Henson-Mccall Corp.,27.2,18962.0,117375987.0
+Ap405073,Em405073,Self-Employed,"Gray, Phillips and Conrad LLC",6.9,12768.0,35261856.0
+Ap227309,Em227309,Salaried,Quinn-Moore Corp.,14.6,17847.0,53027218.0
+Ap429588,Em429588,Salaried,Hicks and Sons Corp.,15.8,24959.0,88232751.0
+Ap763927,Em763927,Salaried,Hayes-Ellis Corp.,24.6,15068.0,125149082.0
+Ap988266,Em988266,Salaried,"Ray, Austin and Blackburn Corp.",24.1,10541.0,96674550.0
+Ap564008,Em564008,Salaried,"Mitchell, Hobbs and Davis Corp.",17.3,3409.0,98179163.0
+Ap820801,Em820801,Salaried,Wallace and Sons Corp.,18.3,25905.0,42401625.0
+Ap446699,Em446699,Salaried,Carney-Graham Corp.,16.5,16898.0,18576500.0
+Ap435842,Em435842,Salaried,Davis Ltd Corp.,9.1,16750.0,99320270.0
+Ap486594,Em486594,Salaried,"Hernandez, Brooks and Rodriguez Corp.",21.7,15636.0,12519796.0
+Ap872608,Em872608,Self-Employed,"Thomas, Ramirez and Lester LLC",12.7,13099.0,99381950.0
+Ap760775,Em760775,Self-Employed,"Montgomery, Hicks and Larson LLC",12.8,3359.0,52725265.0
+Ap791519,Em791519,Hourly,"Martinez, Thompson and Stone Corp.",16.7,16979.0,48140540.0
+Ap143925,Em143925,Salaried,Medina-Lee Corp.,7.8,9002.0,58136230.0
+Ap237023,Em237023,Salaried,Golden-Maldonado Corp.,3.1,28502.0,108505672.0
+Ap187388,Em187388,Salaried,Bowers-Johnson Corp.,16.2,2711.0,11880099.0
+Ap632295,Em632295,Hourly,Young-Young Corp.,23.0,3390.0,111896899.0
+Ap357802,Em357802,Salaried,"Henson, Smith and Brown Corp.",17.4,7331.0,77377876.0
+Ap535048,Em535048,Salaried,"Evans, Wilson and Harris Corp.",11.5,19599.0,89067116.0
+Ap158596,Em158596,Self-Employed,Hernandez-Williams LLC,9.2,18263.0,57156266.0
+Ap451005,Em451005,Salaried,Gardner-Turner Corp.,7.3,2666.0,46565253.0
+Ap879554,Em879554,Salaried,Walters PLC Corp.,14.4,22074.0,33203311.0
+Ap973172,Em973172,Salaried,"Clark, Watson and King Corp.",21.0,4757.0,116216319.0
+Ap639812,Em639812,Self-Employed,Mejia Group LLC,5.9,7743.0,73713955.0
+Ap622244,Em622244,Salaried,"Guerra, Wilson and Davis Corp.",10.3,28324.0,114994332.0
+Ap512498,Em512498,Salaried,Johnson Group Corp.,12.2,11581.0,115059250.0
+Ap779290,Em779290,Salaried,Simmons-Bishop Corp.,4.6,10043.0,41448427.0
+Ap599097,Em599097,Salaried,Perez Inc Corp.,16.4,19997.0,78573828.0
+Ap749789,Em749789,Hourly,Kerr and Sons Corp.,29.7,7386.0,12529728.0
+Ap907043,Em907043,Salaried,"Mccormick, Bruce and Cooper Corp.",26.3,22674.0,54340020.0
+Ap248056,Em248056,Salaried,Waters Ltd Corp.,12.9,12434.0,38349377.0
+Ap114060,Em114060,Salaried,Peters-Hoover Corp.,19.4,29705.0,98090158.0
+Ap838345,Em838345,Salaried,"Smith, Boyle and Raymond Corp.",7.1,29886.0,37859305.0
+Ap577272,Em577272,Self-Employed,"Lang, Huff and Hernandez LLC",16.7,5442.0,24735872.0
+Ap618545,Em618545,Salaried,"Bell, Morris and Sexton Corp.",21.7,17150.0,20625481.0
+Ap929735,Em929735,Salaried,Bentley-Rose Corp.,28.1,12160.0,59469524.0
+Ap290279,Em290279,Hourly,"Franklin, King and Campbell Corp.",2.3,8763.0,127881351.0
+Ap830406,Em830406,Salaried,"Aguilar, Knight and Stafford Corp.",13.4,2783.0,58158522.0
+Ap784647,Em784647,Salaried,"Henderson, Bennett and Jacobs Corp.",17.0,25298.0,39529549.0
+Ap139711,Em139711,Salaried,"Wilcox, Schmidt and Mccarty Corp.",22.4,3064.0,103179210.0
+Ap243026,Em243026,Salaried,"Garcia, Thompson and Mora Corp.",20.1,16507.0,83773723.0
+Ap435484,Em435484,Salaried,Rivera-Nash Corp.,4.3,26325.0,75437967.0
+Ap565317,Em565317,Salaried,Bryan LLC Corp.,14.8,8873.0,121735704.0
+Ap318134,Em318134,Salaried,"Mcneil, Hendricks and Oliver Corp.",22.5,26776.0,36915143.0
+Ap202974,Em202974,Salaried,"Sampson, Mathews and Moss Corp.",6.1,15340.0,120802829.0
+Ap249646,Em249646,Self-Employed,Jimenez-Hayes LLC,11.1,17025.0,99033677.0
+Ap502400,Em502400,Salaried,Joyce Inc Corp.,24.1,10407.0,129514134.0
+Ap250168,Em250168,Salaried,"Hall, Smith and Stark Corp.",7.9,6044.0,40367156.0
+Ap692016,Em692016,Salaried,Lopez-Patterson Corp.,8.8,18745.0,67284474.0
+Ap789376,Em789376,Salaried,Gonzalez LLC Corp.,6.3,5321.0,16524402.0
+Ap635534,Em635534,Hourly,Rosario Ltd Corp.,20.4,18526.0,37597489.0
+Ap538774,Em538774,Salaried,Wilson-Olsen Corp.,26.9,8582.0,20612177.0
+Ap611937,Em611937,Salaried,Smith Ltd Corp.,27.2,10147.0,91590011.0
+Ap511597,Em511597,Salaried,Cervantes Group Corp.,28.0,6934.0,61097146.0
+Ap192263,Em192263,Hourly,Garner Inc Corp.,2.5,15069.0,63508374.0
+Ap635590,Em635590,Salaried,Baker Ltd Corp.,27.3,11114.0,120070800.0
+Ap953938,Em953938,Salaried,Hall-Short Corp.,5.4,6937.0,61641615.0
+Ap665445,Em665445,Salaried,"Reed, Graves and King Corp.",29.8,4433.0,14244111.0
+Ap679205,Em679205,Salaried,Reese Inc Corp.,29.9,29961.0,74714982.0
+Ap323810,Em323810,Self-Employed,"Johnson, Howard and Gilbert LLC",5.6,24706.0,105476995.0
+Ap196646,Em196646,Hourly,"Oconnell, Burton and Peterson Corp.",27.1,19986.0,54174623.0
+Ap445266,Em445266,Salaried,"Smith, Sanchez and Diaz Corp.",1.9,9967.0,39625854.0
+Ap910951,Em910951,Self-Employed,Hunt Inc LLC,1.7,9758.0,33255932.0
+Ap590025,Em590025,Salaried,Olson-Clay Corp.,29.1,16835.0,33893682.0
+Ap580703,Em580703,Self-Employed,"Cox, Andrews and Turner LLC",9.9,23985.0,122108835.0
+Ap443054,Em443054,Salaried,"Mcneil, Diaz and Miller Corp.",23.3,9657.0,40080637.0
+Ap957756,Em957756,Salaried,Anthony PLC Corp.,14.0,26238.0,14314876.0
+Ap367552,Em367552,Self-Employed,"Brown, Davis and Jimenez LLC",14.0,17668.0,54020201.0
+Ap159379,Em159379,Salaried,Morgan Inc Corp.,26.9,19537.0,82997513.0
+Ap125053,Em125053,Salaried,Kelly-Figueroa Corp.,2.0,5951.0,84504373.0
+Ap502662,Em502662,Hourly,Martin-Ward Corp.,1.3,28816.0,115385746.0
+Ap756282,Em756282,Salaried,Huerta-Jarvis Corp.,4.7,10442.0,120945278.0
+Ap198723,Em198723,Self-Employed,"Dorsey, Berger and Moore LLC",19.9,19648.0,55181631.0
+Ap675644,Em675644,Salaried,Evans and Sons Corp.,21.1,17342.0,92390582.0
+Ap372933,Em372933,Self-Employed,"Goodwin, Gamble and Gordon LLC",4.9,4554.0,34047806.0
+Ap984152,Em984152,Salaried,Patel LLC Corp.,4.3,13464.0,34675485.0
+Ap953088,Em953088,Salaried,"Johnson, Ross and Thomas Corp.",8.5,6055.0,100712191.0
+Ap930460,Em930460,Salaried,Fox-Pacheco Corp.,7.9,29291.0,71763907.0
+Ap950916,Em950916,Salaried,Fisher-Walker Corp.,24.1,7181.0,123390202.0
+Ap132154,Em132154,Salaried,"Carson, Lozano and Bates Corp.",1.0,24499.0,72790814.0
+Ap313942,Em313942,Hourly,Perez-Arnold Corp.,1.1,23351.0,22681012.0
+Ap364480,Em364480,Self-Employed,Singleton-Parker LLC,17.1,10584.0,105159238.0
+Ap465821,Em465821,Salaried,"King, Daniels and Walters Corp.",0.6,9116.0,122890499.0
+Ap954211,Em954211,Self-Employed,Caldwell-Duarte LLC,5.7,12662.0,23207437.0
+Ap381173,Em381173,Salaried,Benson-Arellano Corp.,13.2,25411.0,96546840.0
+Ap945633,Em945633,Salaried,Hughes-Serrano Corp.,19.3,2204.0,118403502.0
+Ap132265,Em132265,Salaried,Nguyen Group Corp.,11.5,4649.0,72629082.0
+Ap465060,Em465060,Self-Employed,Bolton-Lynch LLC,16.1,3697.0,28223717.0
+Ap343322,Em343322,Hourly,Harvey and Sons Corp.,22.4,27521.0,78247015.0
+Ap274944,Em274944,Salaried,Hunter-Griffin Corp.,3.9,13847.0,20789288.0
+Ap670485,Em670485,Salaried,"Glass, Keller and Jones Corp.",12.3,29781.0,117911367.0
+Ap548396,Em548396,Salaried,"Molina, Mooney and Callahan Corp.",9.3,20144.0,114196033.0
+Ap254782,Em254782,Self-Employed,Watkins-Jones LLC,17.7,3427.0,34128806.0
+Ap784846,Em784846,Salaried,Watts-Fitzgerald Corp.,4.7,6341.0,12949256.0
+Ap171907,Em171907,Salaried,Phillips-Mckinney Corp.,21.2,2836.0,126001527.0
+Ap302967,Em302967,Salaried,Lindsey-Oneill Corp.,0.8,12510.0,67175525.0
+Ap950867,Em950867,Salaried,Leon Group Corp.,11.5,11233.0,94818839.0
+Ap402775,Em402775,Salaried,"Allen, Reyes and Garza Corp.",7.0,17257.0,64501082.0
+Ap491182,Em491182,Self-Employed,"George, Wade and Thompson LLC",8.6,11474.0,16685859.0
+Ap856892,Em856892,Salaried,"Spencer, Casey and Frye Corp.",17.4,8353.0,105132909.0
+Ap382247,Em382247,Salaried,Moore-Gibson Corp.,4.4,9745.0,42710785.0
+Ap164772,Em164772,Salaried,"Wall, Mcneil and Bowen Corp.",24.9,28996.0,97111180.0
+Ap226108,Em226108,Salaried,"Woods, Levy and Sanchez Corp.",21.8,14649.0,16748194.0
+Ap114382,Em114382,Salaried,"Silva, Smith and Harris Corp.",0.9,12171.0,70512269.0
+Ap184291,Em184291,Self-Employed,"Berry, Hale and Clark LLC",5.3,10761.0,103133599.0
+Ap463339,Em463339,Salaried,"Cobb, Ortega and Clark Corp.",20.2,27548.0,62853839.0
+Ap759116,Em759116,Salaried,"Payne, Rogers and Ray Corp.",6.9,7655.0,28512538.0
+Ap382753,Em382753,Self-Employed,"Walker, Turner and Burke LLC",7.4,5380.0,42623979.0
+Ap247550,Em247550,Hourly,Hamilton-Rodriguez Corp.,10.8,17802.0,102835762.0
+Ap332050,Em332050,Salaried,Hughes-Jordan Corp.,12.2,26944.0,37228392.0
+Ap532882,Em532882,Salaried,Bennett and Sons Corp.,15.1,14652.0,105377214.0
+Ap437827,Em437827,Self-Employed,Ramirez Inc LLC,2.1,14286.0,49522785.0
+Ap592313,Em592313,Self-Employed,"White, Lutz and Schmidt LLC",17.6,5076.0,47892158.0
+Ap486858,Em486858,Salaried,Tran Ltd Corp.,14.1,18028.0,101816041.0
+Ap754618,Em754618,Salaried,"Kennedy, Delgado and Miller Corp.",18.8,18807.0,38828076.0
+Ap695603,Em695603,Salaried,Mejia and Sons Corp.,16.3,4688.0,119035474.0
+Ap964266,Em964266,Salaried,"Barnett, Hernandez and Douglas Corp.",9.1,29158.0,69562288.0
+Ap488349,Em488349,Salaried,Riggs-Bennett Corp.,18.0,3284.0,117188598.0
+Ap114153,Em114153,Self-Employed,"Aguilar, Contreras and Flynn LLC",15.2,11609.0,53931524.0
+Ap700613,Em700613,Salaried,"Roberts, Baldwin and Owens Corp.",4.9,22998.0,55262136.0
+Ap340773,Em340773,Salaried,Glover Group Corp.,20.1,20653.0,114517971.0
+Ap155318,Em155318,Self-Employed,"White, Valencia and Neal LLC",14.5,19305.0,56986165.0
+Ap494030,Em494030,Hourly,Miller LLC Corp.,2.5,3631.0,20883689.0
+Ap477177,Em477177,Salaried,"Fitzgerald, Logan and Abbott Corp.",6.5,26398.0,75667944.0
+Ap176077,Em176077,Self-Employed,"Bridges, Scott and Fisher LLC",13.5,5609.0,55856319.0
+Ap976906,Em976906,Hourly,"Williams, Boyd and Mahoney Corp.",2.7,29999.0,11600965.0
+Ap233515,Em233515,Self-Employed,Hill-Meyers LLC,15.9,12106.0,129432973.0
+Ap306988,Em306988,Self-Employed,"Smith, Owen and Baker LLC",16.6,9242.0,80386333.0
+Ap959751,Em959751,Salaried,"Hernandez, Thornton and Smith Corp.",18.5,9556.0,63102628.0
+Ap225885,Em225885,Self-Employed,"Hoover, Hanna and Woods LLC",11.9,19697.0,109944452.0
+Ap996209,Em996209,Salaried,Sims-Bryan Corp.,15.0,5275.0,26390875.0
+Ap641656,Em641656,Salaried,"Martin, Goodwin and Ellis Corp.",17.1,11985.0,85864038.0
+Ap770688,Em770688,Salaried,Ross-Pierce Corp.,4.9,22330.0,55745527.0
+Ap288014,Em288014,Salaried,Harris-Gonzalez Corp.,29.5,9262.0,16216561.0
+Ap191751,Em191751,Salaried,"Cain, Butler and Wilson Corp.",23.0,29762.0,70101887.0
+Ap330203,Em330203,Hourly,"Mitchell, Anderson and Allen Corp.",7.2,28698.0,93468167.0
+Ap913738,Em913738,Salaried,"Hansen, Warner and Gross Corp.",19.3,5537.0,76438473.0
+Ap795275,Em795275,Salaried,Caldwell Inc Corp.,11.4,26818.0,123765361.0
+Ap923651,Em923651,Self-Employed,Stone-Gonzales LLC,15.7,18432.0,104829145.0
+Ap311951,Em311951,Self-Employed,Fletcher Group LLC,3.0,16145.0,28808200.0
+Ap605155,Em605155,Salaried,Pearson-Peterson Corp.,4.6,10983.0,109859770.0
+Ap295716,Em295716,Salaried,Clarke-Morris Corp.,11.7,29513.0,51049968.0
+Ap684567,Em684567,Salaried,Lucas Inc Corp.,3.4,13626.0,12255490.0
+Ap415172,Em415172,Salaried,Anderson-Young Corp.,25.2,27212.0,92969997.0
+Ap990695,Em990695,Hourly,Tucker Ltd Corp.,23.1,22770.0,67499926.0
+Ap100126,Em100126,Self-Employed,Dorsey Inc LLC,14.9,10498.0,59072885.0
+Ap938761,Em938761,Self-Employed,"Smith, Sherman and Holloway LLC",18.9,11546.0,35406307.0
+Ap127632,Em127632,Salaried,"Reid, Reed and Hall Corp.",2.9,17584.0,64277989.0
+Ap600315,Em600315,Salaried,Fry-Armstrong Corp.,25.7,21388.0,82257622.0
+Ap820670,Em820670,Salaried,"Day, Gallegos and Tucker Corp.",30.0,16880.0,57443542.0
+Ap209945,Em209945,Salaried,Cruz Ltd Corp.,27.0,28612.0,60772307.0
+Ap417320,Em417320,Hourly,"Adkins, Melendez and Morrison Corp.",2.6,2436.0,40912271.0
+Ap350869,Em350869,Salaried,Pearson Ltd Corp.,3.2,3770.0,71687805.0
+Ap841426,Em841426,Salaried,Kirby-Hartman Corp.,27.2,17585.0,34360460.0
+Ap598716,Em598716,Hourly,Moore-Bishop Corp.,11.8,17382.0,81288281.0
+Ap275399,Em275399,Salaried,Holland-Saunders Corp.,21.3,29204.0,85830790.0
+Ap562120,Em562120,Salaried,Johnson-Delgado Corp.,11.1,18917.0,11701518.0
+Ap234869,Em234869,Salaried,"Strickland, Vega and Crawford Corp.",22.6,6941.0,107233178.0
+Ap278954,Em278954,Salaried,"Wagner, Jenkins and Edwards Corp.",5.2,26502.0,68415514.0
+Ap769078,Em769078,Hourly,"Barnes, Marsh and Johnson Corp.",7.2,21822.0,109789358.0
+Ap134560,Em134560,Self-Employed,Lawson-Davis LLC,5.3,16927.0,85879984.0
+Ap963021,Em963021,Self-Employed,"Warren, Diaz and Clark LLC",16.3,21147.0,34530737.0
+Ap384260,Em384260,Self-Employed,Walker-Young LLC,18.0,14728.0,90282993.0
+Ap232717,Em232717,Salaried,Leon PLC Corp.,11.2,23772.0,50363894.0
+Ap278595,Em278595,Self-Employed,"Fox, Day and Watson LLC",10.0,10411.0,126404409.0
+Ap748373,Em748373,Salaried,"Norton, Beltran and Perry Corp.",13.0,11028.0,36077735.0
+Ap479862,Em479862,Self-Employed,Williams LLC LLC,1.9,16542.0,82680150.0
+Ap905688,Em905688,Salaried,"Peterson, Wells and Mccarthy Corp.",9.8,29111.0,44600864.0
+Ap594592,Em594592,Salaried,"Bradley, Woods and Bowers Corp.",25.8,11279.0,20626451.0
+Ap200158,Em200158,Salaried,Hawkins Inc Corp.,14.2,4370.0,67957031.0
+Ap808533,Em808533,Self-Employed,Kirk-Carlson LLC,9.5,18558.0,51317700.0
+Ap268502,Em268502,Salaried,"Howard, Fisher and Fernandez Corp.",10.5,22323.0,58034866.0
+Ap532498,Em532498,Salaried,Nguyen Inc Corp.,11.2,24570.0,14618598.0
+Ap430388,Em430388,Self-Employed,Cuevas Group LLC,9.6,8048.0,115002032.0
+Ap767054,Em767054,Salaried,Jones Group Corp.,6.9,17194.0,16980716.0
+Ap418408,Em418408,Self-Employed,"Huffman, Vazquez and Williams LLC",6.4,3349.0,103164584.0
+Ap568276,Em568276,Salaried,Parker-Brown Corp.,20.9,27891.0,11965419.0
+Ap157545,Em157545,Salaried,Tyler-Rivera Corp.,13.8,9726.0,107672153.0
+Ap611411,Em611411,Salaried,"Walton, Hall and Doyle Corp.",16.7,22233.0,79361246.0
+Ap925656,Em925656,Salaried,Clay-Ward Corp.,23.8,12281.0,45163614.0
+Ap984377,Em984377,Salaried,Miller LLC Corp.,1.9,23999.0,83702888.0
+Ap113224,Em113224,Salaried,Gallagher-Brown Corp.,14.0,15856.0,127621142.0
+Ap140738,Em140738,Self-Employed,Gonzales and Sons LLC,10.4,10073.0,18557503.0
+Ap950163,Em950163,Salaried,Hays Ltd Corp.,1.9,13756.0,124983207.0
+Ap280760,Em280760,Self-Employed,"Frank, Sanford and Pineda LLC",5.2,21651.0,68693394.0
+Ap863978,Em863978,Salaried,"Patterson, Garcia and Smith Corp.",28.8,16665.0,59272355.0
+Ap566725,Em566725,Salaried,Nolan and Sons Corp.,1.2,27241.0,85592591.0
+Ap763937,Em763937,Salaried,"Gallegos, Macdonald and Rodriguez Corp.",3.3,27856.0,13575412.0
+Ap632358,Em632358,Hourly,Pollard-Dougherty Corp.,12.8,25437.0,47476529.0
+Ap226161,Em226161,Salaried,Edwards-Gomez Corp.,29.3,13191.0,39374024.0
+Ap632954,Em632954,Self-Employed,Medina-Barnett LLC,14.3,14541.0,127245308.0
+Ap944193,Em944193,Salaried,Lee Ltd Corp.,9.5,20906.0,53070867.0
+Ap398512,Em398512,Self-Employed,Clark Ltd LLC,6.5,10872.0,33897222.0
+Ap762143,Em762143,Hourly,Stephens-Hawkins Corp.,13.6,6982.0,119968486.0
+Ap666202,Em666202,Salaried,Clark-Barton Corp.,0.9,12022.0,78483811.0
+Ap301579,Em301579,Salaried,"Turner, Ward and Miller Corp.",14.1,19830.0,127132217.0
+Ap752026,Em752026,Salaried,Sullivan-Kennedy Corp.,24.1,25015.0,63999394.0
+Ap871253,Em871253,Hourly,Thomas Ltd Corp.,25.1,7469.0,81906071.0
+Ap604471,Em604471,Salaried,Hunt PLC Corp.,9.6,6946.0,68324867.0
+Ap429670,Em429670,Salaried,Anderson-Simpson Corp.,6.7,6489.0,86357829.0
+Ap906388,Em906388,Salaried,Hernandez PLC Corp.,2.8,8562.0,129241863.0
+Ap318967,Em318967,Self-Employed,Walker Inc LLC,5.2,14086.0,13105141.0
+Ap932672,Em932672,Salaried,"Barrett, Mathis and Adams Corp.",19.1,13231.0,102801071.0
+Ap483152,Em483152,Hourly,"Young, Knight and Ford Corp.",25.5,22893.0,90151419.0
+Ap194270,Em194270,Self-Employed,"Baker, Green and Adams LLC",14.3,20389.0,120175268.0
+Ap891189,Em891189,Salaried,Cisneros LLC Corp.,25.5,13874.0,33748151.0
+Ap643385,Em643385,Salaried,Garrett-Hampton Corp.,12.0,10455.0,112271895.0
+Ap765755,Em765755,Salaried,Levy-Smith Corp.,11.9,13387.0,100891520.0
+Ap247313,Em247313,Salaried,Mitchell-Ford Corp.,28.3,12177.0,75215888.0
+Ap990324,Em990324,Salaried,Ford-Brooks Corp.,7.0,23229.0,108582446.0
+Ap258768,Em258768,Salaried,Stevens Inc Corp.,19.2,3087.0,114230009.0
+Ap346726,Em346726,Self-Employed,"Dominguez, Bryan and Kim LLC",2.4,11291.0,51455293.0
+Ap956912,Em956912,Self-Employed,Sloan Inc LLC,6.2,24725.0,114403687.0
+Ap670451,Em670451,Salaried,Holt and Sons Corp.,17.1,23217.0,105291125.0
+Ap119816,Em119816,Salaried,Simmons-Conley Corp.,10.4,7807.0,88207061.0
+Ap857907,Em857907,Self-Employed,Downs and Sons LLC,1.4,15689.0,31962874.0
+Ap414997,Em414997,Salaried,"Mueller, Wilson and Ibarra Corp.",3.4,12312.0,36240290.0
+Ap255989,Em255989,Salaried,Lawrence-Farrell Corp.,10.1,10096.0,120588130.0
+Ap721019,Em721019,Salaried,"Matthews, Montoya and Johnson Corp.",9.6,7118.0,36796896.0
+Ap776926,Em776926,Self-Employed,Richardson-Pham LLC,3.6,11819.0,122923955.0
+Ap306524,Em306524,Self-Employed,Paul and Sons LLC,15.1,17417.0,78895124.0
+Ap687111,Em687111,Salaried,Stewart and Sons Corp.,25.4,18283.0,88596413.0
+Ap251878,Em251878,Self-Employed,Carter-Olson LLC,6.3,12013.0,107377704.0
+Ap830880,Em830880,Salaried,Torres PLC Corp.,25.0,3119.0,52855229.0
+Ap626047,Em626047,Salaried,"Tran, Walton and Taylor Corp.",2.1,20901.0,25391312.0
+Ap881452,Em881452,Salaried,Ruiz-Walker Corp.,4.8,19158.0,120702644.0
+Ap535165,Em535165,Self-Employed,Jackson PLC LLC,17.8,8262.0,69615643.0
+Ap978806,Em978806,Salaried,Krause Group Corp.,14.8,20772.0,13918817.0
+Ap233554,Em233554,Self-Employed,Hall LLC LLC,2.0,16131.0,30958135.0
+Ap910874,Em910874,Salaried,"Graves, Hess and Lewis Corp.",19.8,4085.0,16725007.0
+Ap551282,Em551282,Salaried,"Love, Jenkins and Thornton Corp.",17.7,6191.0,33236838.0
+Ap193501,Em193501,Salaried,Garcia PLC Corp.,25.2,15652.0,74829754.0
+Ap364223,Em364223,Salaried,Marquez Inc Corp.,12.2,4411.0,101679411.0
+Ap159676,Em159676,Hourly,Woodard-Carroll Corp.,11.0,22426.0,27050172.0
+Ap841804,Em841804,Salaried,Miller-Wu Corp.,9.9,21356.0,124137927.0
+Ap273532,Em273532,Self-Employed,Johnson-Miller LLC,10.1,16435.0,30955471.0
+Ap714685,Em714685,Salaried,Williams-Robinson Corp.,2.7,23114.0,80710035.0
+Ap697135,Em697135,Salaried,"Daugherty, Smith and Lee Corp.",7.5,2414.0,65032990.0
+Ap717895,Em717895,Salaried,"Allen, Ashley and Rodriguez Corp.",14.6,13733.0,43594890.0
+Ap320178,Em320178,Self-Employed,Hernandez-White LLC,18.7,14118.0,56314575.0
+Ap249521,Em249521,Salaried,"Nguyen, Jacobs and Bailey Corp.",10.7,14460.0,111503726.0
+Ap526752,Em526752,Self-Employed,"Green, Wilson and Hicks LLC",18.0,16515.0,79033516.0
+Ap688365,Em688365,Salaried,Atkins-Brooks Corp.,29.5,19296.0,86200947.0
+Ap924690,Em924690,Self-Employed,"Lopez, Hart and Newman LLC",3.9,20285.0,61665280.0
+Ap803662,Em803662,Salaried,Mckinney Inc Corp.,24.3,4964.0,23893333.0
+Ap357009,Em357009,Self-Employed,Guerra-Jenkins LLC,3.8,20200.0,114559489.0
+Ap237717,Em237717,Self-Employed,Garcia and Sons LLC,16.9,24433.0,86041258.0
+Ap481915,Em481915,Salaried,Barrett-Jones Corp.,19.0,18696.0,116524807.0
+Ap662288,Em662288,Hourly,"Freeman, Peterson and Chapman Corp.",11.0,5328.0,104505809.0
+Ap651025,Em651025,Self-Employed,"Anderson, Miller and Vargas LLC",3.5,21421.0,117989519.0
+Ap897917,Em897917,Salaried,Simmons Inc Corp.,9.4,19497.0,117040047.0
+Ap400709,Em400709,Self-Employed,"Carroll, Martin and Murphy LLC",19.9,14114.0,129800754.0
+Ap951587,Em951587,Salaried,Snyder-Brooks Corp.,8.4,20841.0,107522559.0
+Ap286240,Em286240,Salaried,Weaver Inc Corp.,27.6,22244.0,60976750.0
+Ap676775,Em676775,Self-Employed,"Marsh, Middleton and Warner LLC",10.0,23611.0,74771365.0
+Ap374486,Em374486,Salaried,Chavez-Alvarado Corp.,12.1,20218.0,85464548.0
+Ap402950,Em402950,Salaried,"Fernandez, Lee and Hunter Corp.",13.0,24092.0,125020460.0
+Ap410914,Em410914,Salaried,Wagner-Lewis Corp.,18.4,6982.0,36079953.0
+Ap178623,Em178623,Salaried,Deleon PLC Corp.,21.4,5758.0,111261408.0
+Ap465321,Em465321,Salaried,"Lewis, Wallace and Floyd Corp.",6.2,12619.0,125697246.0
+Ap962061,Em962061,Salaried,Conway LLC Corp.,29.6,19362.0,67645767.0
+Ap283675,Em283675,Salaried,"Smith, Rodriguez and Brown Corp.",18.1,25335.0,78873120.0
+Ap837334,Em837334,Salaried,King-Miller Corp.,5.7,13081.0,112848299.0
+Ap730235,Em730235,Salaried,"Jenkins, Weiss and Larson Corp.",18.0,28236.0,67359736.0
+Ap912831,Em912831,Salaried,Edwards Inc Corp.,25.1,28697.0,101636247.0
+Ap752465,Em752465,Salaried,"Pollard, Molina and Anderson Corp.",6.2,5591.0,62440514.0
+Ap316454,Em316454,Salaried,Alvarado and Sons Corp.,15.2,7688.0,94955336.0
+Ap209575,Em209575,Salaried,"Payne, Conner and Booker Corp.",17.1,15916.0,55136657.0
+Ap997336,Em997336,Salaried,"Anderson, Chandler and Williams Corp.",8.6,7755.0,120460708.0
+Ap307606,Em307606,Salaried,White Group Corp.,11.7,21353.0,68254843.0
+Ap605815,Em605815,Salaried,Mercado Ltd Corp.,29.7,26389.0,16462072.0
+Ap392822,Em392822,Salaried,"Hill, Gutierrez and Flores Corp.",2.8,19388.0,35700715.0
+Ap176218,Em176218,Salaried,Hall Group Corp.,0.9,11152.0,71271994.0
+Ap687518,Em687518,Salaried,Koch-Drake Corp.,6.7,13883.0,88291996.0
+Ap870044,Em870044,Self-Employed,Nguyen-Brown LLC,12.2,6604.0,89477719.0
+Ap436199,Em436199,Hourly,"Stewart, Reid and Thompson Corp.",6.7,23538.0,78592443.0
+Ap549589,Em549589,Salaried,Gray Ltd Corp.,21.6,12670.0,111316968.0
+Ap786840,Em786840,Self-Employed,Wang-Rose LLC,13.4,8420.0,122415081.0
+Ap578446,Em578446,Salaried,"Gray, Weiss and Nixon Corp.",24.3,3127.0,27622089.0
+Ap562052,Em562052,Salaried,Schwartz Group Corp.,5.5,26171.0,107910585.0
+Ap434402,Em434402,Salaried,"Owens, Brown and Castro Corp.",14.0,2662.0,76513084.0
+Ap139986,Em139986,Hourly,"Thomas, Fitzpatrick and Clark Corp.",25.3,11164.0,98279076.0
+Ap779520,Em779520,Self-Employed,Lowery PLC LLC,9.7,21268.0,73989255.0
+Ap447739,Em447739,Hourly,Butler-Mcdowell Corp.,22.7,7975.0,127702757.0
+Ap725646,Em725646,Salaried,Davis-Alexander Corp.,2.0,14516.0,102613256.0
+Ap572327,Em572327,Salaried,Herman Group Corp.,16.0,13957.0,59531740.0
+Ap427073,Em427073,Salaried,Hernandez Group Corp.,28.4,29006.0,39228808.0
+Ap697794,Em697794,Salaried,Stone LLC Corp.,26.8,5380.0,25950119.0
+Ap134911,Em134911,Salaried,Anderson Ltd Corp.,22.7,28272.0,95969994.0
+Ap973559,Em973559,Hourly,"Willis, Kelly and Norris Corp.",9.7,27092.0,60554716.0
+Ap525037,Em525037,Hourly,Fitzgerald and Sons Corp.,26.2,15240.0,60968137.0
+Ap830399,Em830399,Self-Employed,Jones-Williams LLC,9.1,15725.0,17195979.0
+Ap999885,Em999885,Salaried,"Bennett, Pineda and Barnes Corp.",24.2,3641.0,90336001.0
+Ap708746,Em708746,Salaried,Carson and Sons Corp.,15.9,12611.0,29080179.0
+Ap112175,Em112175,Self-Employed,Snyder LLC LLC,5.2,18791.0,116464695.0
+Ap416915,Em416915,Salaried,"Kent, Watkins and Cooper Corp.",29.5,5317.0,61559671.0
+Ap599876,Em599876,Salaried,Garcia-Hayes Corp.,12.3,3921.0,91948744.0
+Ap745588,Em745588,Salaried,Lewis Group Corp.,14.1,27639.0,25651599.0
+Ap711213,Em711213,Salaried,"Rogers, Moyer and Smith Corp.",13.4,24954.0,61333525.0
+Ap868734,Em868734,Salaried,Herrera-Jimenez Corp.,29.3,16695.0,45913851.0
+Ap166358,Em166358,Self-Employed,Martin-Gray LLC,4.8,5520.0,33118147.0
+Ap510543,Em510543,Salaried,"Burns, Bauer and Rivera Corp.",23.0,7805.0,106791954.0
+Ap147057,Em147057,Salaried,Taylor-Franco Corp.,8.2,12308.0,75648248.0
+Ap368294,Em368294,Salaried,"Baker, Porter and Nelson Corp.",15.6,6695.0,91152721.0
+Ap890857,Em890857,Salaried,Wood LLC Corp.,20.7,16911.0,79775434.0
+Ap354726,Em354726,Hourly,Bailey-Stokes Corp.,13.0,6980.0,19065887.0
+Ap378176,Em378176,Salaried,"Huber, Evans and Reyes Corp.",6.3,12830.0,44211088.0
+Ap626486,Em626486,Salaried,"Singh, Gillespie and Hall Corp.",1.3,22750.0,18867455.0
+Ap808754,Em808754,Salaried,"Oliver, Coleman and Thomas Corp.",11.8,15932.0,112717618.0
+Ap267292,Em267292,Salaried,"Reed, Mathis and Phillips Corp.",25.3,8038.0,70152014.0
+Ap244931,Em244931,Salaried,Erickson-Smith Corp.,29.5,2832.0,37338444.0
+Ap543676,Em543676,Hourly,"Smith, Hamilton and Dennis Corp.",9.1,20369.0,39009137.0
+Ap262491,Em262491,Hourly,"Jones, Strong and Thompson Corp.",13.2,15361.0,21781159.0
+Ap481009,Em481009,Salaried,"Pittman, Simpson and Chen Corp.",7.1,2182.0,106259030.0
+Ap501921,Em501921,Self-Employed,Dunn-Castro LLC,19.8,12859.0,78863318.0
+Ap360910,Em360910,Salaried,Lopez-Jackson Corp.,13.6,7642.0,70173491.0
+Ap123236,Em123236,Salaried,"Sanders, White and Garcia Corp.",9.7,9153.0,78573925.0
+Ap187955,Em187955,Self-Employed,Harris and Sons LLC,16.0,24505.0,114087744.0
+Ap840874,Em840874,Self-Employed,Mendez-Humphrey LLC,16.8,11870.0,23671704.0
+Ap727433,Em727433,Salaried,Gonzalez Ltd Corp.,8.3,15782.0,28495118.0
+Ap770718,Em770718,Self-Employed,Wong-Hurst LLC,3.9,8293.0,111374515.0
+Ap330785,Em330785,Self-Employed,Mccann-Smith LLC,9.7,10340.0,19915380.0
+Ap194914,Em194914,Salaried,"Ortiz, Miller and Hunt Corp.",1.1,3843.0,99185062.0
+Ap989302,Em989302,Salaried,"Bush, Hughes and Allen Corp.",13.9,6757.0,84063241.0
+Ap307990,Em307990,Salaried,"Sweeney, Alvarez and Santos Corp.",16.3,3415.0,122428476.0
+Ap478387,Em478387,Salaried,Navarro-Griffin Corp.,18.0,2275.0,110934972.0
+Ap638884,Em638884,Salaried,Brown Group Corp.,23.3,21639.0,125875929.0
+Ap756639,Em756639,Salaried,Mack-Ayers Corp.,6.9,24990.0,71723280.0
+Ap294269,Em294269,Salaried,Henderson Ltd Corp.,20.5,9589.0,84015956.0
+Ap997928,Em997928,Self-Employed,Williamson Inc LLC,16.8,10460.0,35798073.0
+Ap492417,Em492417,Self-Employed,Dudley and Sons LLC,11.5,14491.0,91355065.0
+Ap238155,Em238155,Self-Employed,Jackson LLC LLC,3.4,5184.0,51136143.0
+Ap220674,Em220674,Self-Employed,"Wiley, Perry and Doyle LLC",9.7,17339.0,35693288.0
+Ap881817,Em881817,Salaried,"Rose, Abbott and York Corp.",13.4,14170.0,90182284.0
+Ap864757,Em864757,Self-Employed,Hodges Ltd LLC,1.7,23267.0,74164529.0
+Ap356713,Em356713,Self-Employed,Sims-Bass LLC,15.6,17336.0,17995001.0
+Ap541501,Em541501,Hourly,"Brock, Smith and Villa Corp.",20.7,20432.0,13827063.0
+Ap643351,Em643351,Hourly,Bowers-Pena Corp.,19.0,24474.0,73673312.0
+Ap167642,Em167642,Self-Employed,Sullivan-Ramirez LLC,2.6,10754.0,63885644.0
+Ap190093,Em190093,Salaried,"Alvarado, Harrington and Ward Corp.",25.3,29500.0,95261223.0
+Ap607606,Em607606,Salaried,Ramos-Knight Corp.,26.7,22422.0,100049356.0
+Ap317215,Em317215,Self-Employed,Hanson-Daugherty LLC,9.5,4344.0,24457383.0
+Ap807280,Em807280,Hourly,Zimmerman-Mathews Corp.,14.2,24557.0,40447157.0
+Ap783889,Em783889,Salaried,"Jones, Williams and Dudley Corp.",29.0,18866.0,38346095.0
+Ap135954,Em135954,Salaried,"Hansen, Bryan and Mclaughlin Corp.",8.2,28141.0,34217380.0
+Ap127856,Em127856,Self-Employed,"Harris, Garza and Wolf LLC",13.1,4948.0,35243492.0
+Ap626861,Em626861,Salaried,Pham-Smith Corp.,12.9,3056.0,118255488.0
+Ap659655,Em659655,Hourly,"Ferrell, Smith and Sanford Corp.",8.9,21216.0,65947014.0
+Ap595553,Em595553,Self-Employed,"Lewis, Preston and Mcgee LLC",6.6,3336.0,19588801.0
+Ap862092,Em862092,Self-Employed,Allison Inc LLC,5.0,8158.0,101791991.0
+Ap986040,Em986040,Salaried,Stanley-Camacho Corp.,23.1,28370.0,73030078.0
+Ap422918,Em422918,Salaried,Palmer Ltd Corp.,25.8,7747.0,47832642.0
+Ap123752,Em123752,Salaried,Diaz-Hudson Corp.,10.1,19054.0,48060400.0
+Ap941461,Em941461,Salaried,Oneill-Brown Corp.,16.1,6365.0,125416304.0
+Ap248757,Em248757,Self-Employed,King Ltd LLC,15.9,14421.0,26397399.0
+Ap413837,Em413837,Self-Employed,Johnson-Hurley LLC,15.2,17503.0,106999743.0
+Ap216739,Em216739,Salaried,"Galloway, Morris and Moore Corp.",7.0,13565.0,92054064.0
+Ap942393,Em942393,Salaried,Aguilar-Williams Corp.,25.0,17838.0,40954569.0
+Ap338009,Em338009,Salaried,"Berry, Wang and Moore Corp.",8.2,16545.0,98693429.0
+Ap880316,Em880316,Salaried,Martin Inc Corp.,11.7,17285.0,124077472.0
+Ap307980,Em307980,Self-Employed,Berg-Williams LLC,6.5,17836.0,12457955.0
+Ap356609,Em356609,Salaried,"Carrillo, King and Wilson Corp.",4.1,3368.0,16710902.0
+Ap488822,Em488822,Salaried,"Spencer, Anthony and Welch Corp.",14.0,12268.0,90822874.0
+Ap436676,Em436676,Salaried,"Lozano, Craig and Williams Corp.",15.8,8974.0,13845029.0
+Ap444138,Em444138,Salaried,Kelley PLC Corp.,5.9,6277.0,117330618.0
+Ap418277,Em418277,Self-Employed,Gamble Group LLC,11.1,19522.0,77150336.0
+Ap618271,Em618271,Salaried,"Ward, Hardin and Rodgers Corp.",25.5,13546.0,55164865.0
+Ap423412,Em423412,Self-Employed,"Stephenson, Turner and Simpson LLC",17.6,14278.0,43086405.0
+Ap585417,Em585417,Salaried,Wilson-Rogers Corp.,11.5,2194.0,128097649.0
+Ap531459,Em531459,Salaried,Rodriguez Ltd Corp.,14.8,4015.0,75044868.0
+Ap288456,Em288456,Self-Employed,"Hines, Haas and Rodriguez LLC",1.2,7776.0,46064576.0
+Ap655941,Em655941,Salaried,"Mccullough, Smith and Brown Corp.",19.3,15178.0,19854519.0
+Ap257729,Em257729,Self-Employed,Barnes LLC LLC,5.7,9214.0,27262517.0
+Ap328504,Em328504,Hourly,Flores PLC Corp.,17.5,29095.0,76708747.0
+Ap746117,Em746117,Salaried,Turner PLC Corp.,16.1,9384.0,10049828.0
+Ap752665,Em752665,Salaried,Curry LLC Corp.,24.7,19082.0,58467226.0
+Ap625910,Em625910,Salaried,Sloan-Mercer Corp.,19.1,21311.0,11516677.0
+Ap673044,Em673044,Salaried,Osborne PLC Corp.,25.0,23917.0,69816594.0
+Ap140809,Em140809,Salaried,"Mccoy, Clarke and James Corp.",13.9,6297.0,117799864.0
+Ap641013,Em641013,Self-Employed,"Allen, Underwood and Hernandez LLC",12.1,23657.0,46581936.0
+Ap816756,Em816756,Self-Employed,"Tucker, Benson and Lynch LLC",8.5,22489.0,77603809.0
+Ap151226,Em151226,Salaried,Montgomery LLC Corp.,14.0,7419.0,24923260.0
+Ap599512,Em599512,Salaried,"Bryant, Diaz and Vargas Corp.",22.5,4841.0,129001126.0
+Ap705470,Em705470,Salaried,Cox and Sons Corp.,14.4,15231.0,78325856.0
+Ap575781,Em575781,Salaried,"Morgan, Harris and Williams Corp.",14.5,24642.0,32885358.0
+Ap129402,Em129402,Self-Employed,Horton-Carlson LLC,13.3,6174.0,84533234.0
+Ap104263,Em104263,Hourly,Berg and Sons Corp.,28.8,18850.0,17503671.0
+Ap851883,Em851883,Salaried,"Perez, Brown and Aguirre Corp.",4.8,15057.0,82955380.0
+Ap277900,Em277900,Salaried,Kelly and Sons Corp.,26.3,23404.0,115131592.0
+Ap672212,Em672212,Salaried,Knox-Fowler Corp.,12.9,16454.0,60381769.0
+Ap436326,Em436326,Salaried,"Roberson, Wheeler and Taylor Corp.",6.4,21323.0,20583329.0
+Ap324137,Em324137,Hourly,Anderson PLC Corp.,6.4,22675.0,50367874.0
+Ap552268,Em552268,Salaried,Robbins LLC Corp.,5.2,12481.0,54148413.0
+Ap397881,Em397881,Self-Employed,Fuentes Ltd LLC,14.5,13594.0,61589175.0
+Ap463476,Em463476,Salaried,"James, Molina and Glenn Corp.",7.6,26847.0,88011105.0
+Ap451707,Em451707,Self-Employed,Evans-Johnson LLC,9.4,24250.0,20806310.0
+Ap784733,Em784733,Salaried,Solomon-Kennedy Corp.,17.1,7903.0,42085216.0
+Ap610585,Em610585,Self-Employed,Rowe Ltd LLC,19.8,17078.0,88024710.0
+Ap791757,Em791757,Salaried,Santiago-Benson Corp.,11.4,17334.0,37973304.0
+Ap490719,Em490719,Salaried,"Moore, Hooper and Nelson Corp.",27.5,5092.0,85222133.0
+Ap579361,Em579361,Self-Employed,Jones-Booker LLC,7.2,9241.0,109853297.0
+Ap201371,Em201371,Hourly,Williams-Goodwin Corp.,9.4,6517.0,64639048.0
+Ap662997,Em662997,Salaried,Mason-Atkins Corp.,25.2,19222.0,23325348.0
+Ap292192,Em292192,Salaried,Velazquez-Casey Corp.,28.3,15207.0,57160265.0
+Ap250322,Em250322,Self-Employed,"Gillespie, Lopez and Bernard LLC",14.8,11805.0,114573876.0
+Ap121172,Em121172,Salaried,"Rogers, Bryant and Hahn Corp.",14.4,10976.0,122212543.0
+Ap635843,Em635843,Salaried,Smith-Flores Corp.,25.5,6986.0,81175297.0
+Ap677564,Em677564,Self-Employed,"Thompson, Taylor and Lynch LLC",3.1,10401.0,124954838.0
+Ap681780,Em681780,Salaried,"Wright, Hayes and Dean Corp.",21.6,19690.0,17576666.0
+Ap808362,Em808362,Salaried,"Walton, Wells and Franco Corp.",11.2,8486.0,70993121.0
+Ap613319,Em613319,Self-Employed,"Kim, Alexander and Farmer LLC",2.5,24656.0,120938308.0
+Ap880298,Em880298,Salaried,Williams-Cook Corp.,14.2,7604.0,114238797.0
+Ap976031,Em976031,Salaried,Dean-Baker Corp.,9.0,8971.0,100911947.0
+Ap322320,Em322320,Salaried,Garrett Group Corp.,29.5,25229.0,41338090.0
+Ap517978,Em517978,Salaried,Wilson-Berry Corp.,17.2,21083.0,41951930.0
+Ap111046,Em111046,Salaried,Hill Inc Corp.,7.0,19195.0,45126855.0
+Ap328071,Em328071,Hourly,"Jones, Santos and Carter Corp.",24.9,24175.0,102081422.0
+Ap478165,Em478165,Salaried,"Benson, Best and Bowman Corp.",7.6,6182.0,104244542.0
+Ap808662,Em808662,Salaried,May PLC Corp.,19.6,25298.0,111147506.0
+Ap516366,Em516366,Salaried,Robertson Inc Corp.,25.2,8041.0,57190691.0
+Ap366997,Em366997,Salaried,Tate Group Corp.,4.9,19228.0,45998834.0
+Ap745188,Em745188,Hourly,"Le, Smith and Glenn Corp.",18.0,26329.0,32678756.0
+Ap582615,Em582615,Hourly,"Wilkins, Anderson and Lewis Corp.",24.0,18651.0,35624053.0
+Ap515008,Em515008,Salaried,"Rice, Ali and Vega Corp.",2.1,18626.0,106383511.0
+Ap683417,Em683417,Self-Employed,Parker-Watts LLC,2.1,11092.0,36110702.0
+Ap861379,Em861379,Salaried,Harris Inc Corp.,4.0,6519.0,101194417.0
+Ap305550,Em305550,Self-Employed,"Munoz, Robinson and Wilson LLC",2.9,14682.0,115868195.0
+Ap344883,Em344883,Salaried,Smith and Sons Corp.,20.2,9753.0,127626901.0
+Ap738418,Em738418,Salaried,White and Sons Corp.,15.8,5848.0,33701622.0
+Ap560514,Em560514,Self-Employed,Smith-Doyle LLC,14.3,10382.0,102644267.0
+Ap771210,Em771210,Hourly,"Fuller, Ortiz and Kaufman Corp.",6.8,4944.0,75521682.0
+Ap221789,Em221789,Self-Employed,Perez-Gutierrez LLC,17.6,5669.0,50615649.0
+Ap779418,Em779418,Salaried,"Duran, Ellis and Reed Corp.",5.6,27119.0,125057682.0
+Ap800780,Em800780,Salaried,Smith-Montgomery Corp.,17.8,25495.0,92168730.0
+Ap663178,Em663178,Self-Employed,Watson and Sons LLC,10.4,16249.0,88026970.0
+Ap166017,Em166017,Salaried,Stephens-Cook Corp.,9.3,15871.0,99752343.0
+Ap278376,Em278376,Self-Employed,"Harris, George and Fisher LLC",17.0,21127.0,119588594.0
+Ap788281,Em788281,Hourly,Woods-Alvarez Corp.,24.1,22316.0,16877450.0
+Ap599137,Em599137,Salaried,"Medina, Branch and Perkins Corp.",15.5,10428.0,17298834.0
+Ap756884,Em756884,Salaried,"Fields, Watson and Beck Corp.",27.6,5375.0,92772731.0
+Ap724712,Em724712,Salaried,"Crane, White and Holmes Corp.",16.0,19707.0,116577236.0
+Ap901480,Em901480,Salaried,"Callahan, Ramirez and Kirk Corp.",16.8,6386.0,21924660.0
+Ap793264,Em793264,Self-Employed,"Campbell, Lopez and Conrad LLC",3.4,24495.0,54920424.0
+Ap941344,Em941344,Salaried,"Hill, Rodriguez and Patterson Corp.",6.9,3479.0,54770470.0
+Ap658296,Em658296,Salaried,Smith-Cooper Corp.,2.6,7356.0,120326376.0
+Ap493276,Em493276,Hourly,"Wright, Powers and Brown Corp.",6.7,19400.0,48332772.0
+Ap830026,Em830026,Salaried,"Moore, Baker and Coleman Corp.",1.6,13182.0,112176178.0
+Ap707847,Em707847,Self-Employed,Schmidt and Sons LLC,7.0,10126.0,54786493.0
+Ap155337,Em155337,Salaried,"Hicks, Evans and Burke Corp.",6.4,10107.0,114031017.0
+Ap997048,Em997048,Self-Employed,"Sherman, Horne and Buchanan LLC",4.2,21930.0,117517444.0
+Ap375494,Em375494,Self-Employed,Johnson Inc LLC,6.4,13270.0,91785570.0
+Ap124354,Em124354,Salaried,Vance LLC Corp.,4.9,15207.0,129962935.0
+Ap145186,Em145186,Salaried,Carr Inc Corp.,17.5,18345.0,107501774.0
+Ap652433,Em652433,Salaried,"Bennett, Johnson and Hardy Corp.",0.6,7421.0,124572443.0
+Ap527236,Em527236,Salaried,Davis-Oneill Corp.,28.6,14796.0,83932658.0
+Ap710411,Em710411,Salaried,"Cisneros, Moore and Nelson Corp.",7.5,19106.0,42081427.0
+Ap599883,Em599883,Self-Employed,Montoya-Greene LLC,8.3,19455.0,108050211.0
+Ap830546,Em830546,Salaried,"Walsh, Moore and White Corp.",19.1,16185.0,29601312.0
+Ap840829,Em840829,Salaried,Copeland-Liu Corp.,17.9,25434.0,11335913.0
+Ap644869,Em644869,Salaried,Melendez PLC Corp.,5.2,18148.0,118477509.0
+Ap713217,Em713217,Salaried,"Johnson, Bautista and Rodriguez Corp.",27.9,7061.0,94604069.0
+Ap385195,Em385195,Self-Employed,"Francis, Walker and Berry LLC",6.7,20104.0,53739111.0
+Ap675762,Em675762,Self-Employed,Skinner Group LLC,11.9,9136.0,45120440.0
+Ap716036,Em716036,Salaried,"Lane, Robinson and Byrd Corp.",24.5,12969.0,17647812.0
+Ap225995,Em225995,Salaried,Lee-Sullivan Corp.,29.6,11094.0,52485165.0
+Ap345690,Em345690,Salaried,Newton-Peters Corp.,1.8,15063.0,86272991.0
+Ap431770,Em431770,Salaried,Dunn-Robertson Corp.,6.0,3906.0,53910972.0
+Ap893392,Em893392,Salaried,"Willis, Baker and James Corp.",21.7,25475.0,115153981.0
+Ap528988,Em528988,Salaried,"White, Bishop and Hoffman Corp.",9.1,9342.0,66407919.0
+Ap280553,Em280553,Salaried,Pope-Lopez Corp.,16.4,17328.0,125156693.0
+Ap660696,Em660696,Salaried,"Taylor, Ochoa and Mcbride Corp.",8.2,24691.0,15432317.0
+Ap980438,Em980438,Hourly,Morris PLC Corp.,11.4,9156.0,129071266.0
+Ap359568,Em359568,Salaried,"Flynn, Ross and Miller Corp.",12.3,29244.0,128489192.0
+Ap419278,Em419278,Salaried,Weeks and Sons Corp.,19.0,14999.0,16585726.0
+Ap251563,Em251563,Self-Employed,Hart Ltd LLC,17.2,20610.0,114650566.0
+Ap756701,Em756701,Self-Employed,Mullins Inc LLC,12.2,4995.0,98256604.0
+Ap799983,Em799983,Salaried,"Mcconnell, Stevens and Boyer Corp.",15.2,27412.0,73899895.0
+Ap714615,Em714615,Salaried,Murphy PLC Corp.,17.8,27787.0,48455536.0
+Ap493554,Em493554,Salaried,"Barnett, Wright and Christian Corp.",23.1,4399.0,120517318.0
+Ap302503,Em302503,Self-Employed,Morris and Sons LLC,10.5,6756.0,14655593.0
+Ap243326,Em243326,Self-Employed,"Morrison, Burgess and Tate LLC",5.0,24561.0,85012518.0
+Ap807220,Em807220,Self-Employed,Davis and Sons LLC,7.9,5824.0,121656799.0
+Ap111344,Em111344,Self-Employed,"King, Jenkins and Austin LLC",19.2,22725.0,40038456.0
+Ap494966,Em494966,Self-Employed,Lloyd-Warner LLC,11.3,8325.0,48337052.0
+Ap692245,Em692245,Salaried,Campbell Inc Corp.,12.7,22718.0,41566095.0
+Ap205423,Em205423,Hourly,Hubbard LLC Corp.,27.3,17461.0,104785027.0
+Ap420197,Em420197,Salaried,"Johnson, Mckee and Dixon Corp.",29.2,6546.0,94193677.0
+Ap564071,Em564071,Salaried,Harris and Sons Corp.,29.3,17938.0,29298767.0
+Ap771256,Em771256,Salaried,"Davis, Gutierrez and Nguyen Corp.",14.3,28199.0,126360750.0
+Ap286833,Em286833,Self-Employed,Silva-Gill LLC,13.8,21998.0,103893651.0
+Ap817912,Em817912,Self-Employed,"Washington, Patel and Castillo LLC",6.3,5477.0,93504283.0
+Ap875435,Em875435,Hourly,White and Sons Corp.,19.8,13629.0,47434066.0
+Ap177454,Em177454,Salaried,"Manning, Spears and Walker Corp.",10.5,2813.0,88695644.0
+Ap357594,Em357594,Salaried,Williams-Reese Corp.,25.5,21525.0,49417667.0
+Ap611897,Em611897,Hourly,"Bowen, Bentley and Ware Corp.",7.3,19576.0,114671037.0
+Ap452744,Em452744,Hourly,"Cooley, Smith and Burke Corp.",9.8,14938.0,77912053.0
+Ap616142,Em616142,Self-Employed,"Tanner, Weber and Smith LLC",16.0,7684.0,23743807.0
+Ap137641,Em137641,Salaried,Lopez-Patel Corp.,8.0,2400.0,101221076.0
+Ap653999,Em653999,Self-Employed,"White, Banks and Cannon LLC",12.7,9062.0,126046469.0
+Ap956774,Em956774,Salaried,Bowman-Jones Corp.,17.6,12882.0,125298292.0
+Ap469040,Em469040,Salaried,"Wheeler, Miller and Ashley Corp.",8.6,6241.0,82141783.0
+Ap767542,Em767542,Self-Employed,"Taylor, Patterson and Morgan LLC",3.5,10418.0,23625815.0
+Ap712121,Em712121,Self-Employed,Hamilton-Smith LLC,4.2,12260.0,67145128.0
+Ap418420,Em418420,Self-Employed,Snyder Ltd LLC,1.5,13973.0,103562461.0
+Ap381685,Em381685,Self-Employed,Wilson-Robles LLC,15.5,19834.0,38230279.0
+Ap980889,Em980889,Self-Employed,"Choi, Dorsey and Murphy LLC",17.8,10401.0,86575151.0
+Ap575526,Em575526,Salaried,"Martinez, Norman and Alvarez Corp.",22.8,28177.0,64066899.0
+Ap144813,Em144813,Salaried,Odonnell and Sons Corp.,6.2,14499.0,93625544.0
+Ap792558,Em792558,Salaried,Dean-Black Corp.,8.9,18482.0,26953623.0
+Ap764180,Em764180,Salaried,"Tucker, Conrad and Patton Corp.",2.9,21799.0,38529854.0
+Ap386214,Em386214,Salaried,Brown Group Corp.,1.9,25994.0,64388849.0
+Ap442703,Em442703,Salaried,Simpson-Moore Corp.,6.9,20726.0,50904570.0
+Ap304615,Em304615,Salaried,Soto-Johnson Corp.,2.1,3209.0,84989765.0
+Ap576657,Em576657,Salaried,Skinner Ltd Corp.,22.8,28037.0,85729966.0
+Ap666074,Em666074,Salaried,Aguirre-Lynch Corp.,10.0,7157.0,75929297.0
+Ap850294,Em850294,Salaried,Rangel LLC Corp.,18.8,29274.0,12287109.0
+Ap855164,Em855164,Salaried,"Montes, Boyd and Brooks Corp.",1.1,29675.0,44912837.0
+Ap499953,Em499953,Self-Employed,"Cooley, Turner and White LLC",17.0,5981.0,88777229.0
+Ap922494,Em922494,Salaried,Schultz-Herman Corp.,2.9,2405.0,79935805.0
+Ap938003,Em938003,Self-Employed,Collins-Mann LLC,4.9,3817.0,61288036.0
+Ap387654,Em387654,Salaried,Vang LLC Corp.,10.1,16804.0,34586082.0
+Ap381570,Em381570,Salaried,"Olson, Guzman and Munoz Corp.",23.4,11675.0,129834636.0
+Ap137265,Em137265,Hourly,"Ryan, Perez and Fisher Corp.",8.8,20795.0,91366520.0
+Ap349321,Em349321,Salaried,Alvarado PLC Corp.,13.0,10504.0,35606712.0
+Ap166150,Em166150,Salaried,"Osborne, Erickson and Parker Corp.",2.6,12277.0,13232519.0
+Ap711600,Em711600,Salaried,Rivera PLC Corp.,9.7,22331.0,87166080.0
+Ap189613,Em189613,Salaried,George-Burke Corp.,2.6,22277.0,17316114.0
+Ap437054,Em437054,Salaried,Perez-Hill Corp.,13.7,18981.0,82135265.0
+Ap938807,Em938807,Salaried,Mckay PLC Corp.,5.3,6026.0,59692566.0
+Ap221826,Em221826,Salaried,"James, Butler and Wood Corp.",2.0,5875.0,27714612.0
+Ap659723,Em659723,Hourly,Craig Inc Corp.,14.0,8801.0,77013619.0
+Ap982875,Em982875,Salaried,Hanson Inc Corp.,15.3,22822.0,56605831.0
+Ap550348,Em550348,Salaried,Myers-Morrison Corp.,28.3,8984.0,63576597.0
+Ap310017,Em310017,Salaried,Gates-Mcpherson Corp.,19.0,3660.0,128185551.0
+Ap234055,Em234055,Salaried,Stokes-Wells Corp.,26.7,7549.0,71968676.0
+Ap590457,Em590457,Salaried,Campbell-Huang Corp.,1.1,11816.0,86220927.0
+Ap776022,Em776022,Salaried,"Murray, Mccullough and Williams Corp.",22.8,9155.0,21992896.0
+Ap909942,Em909942,Salaried,Burton-Campbell Corp.,29.0,10372.0,103063643.0
+Ap833547,Em833547,Self-Employed,"Shannon, Hoover and Padilla LLC",14.9,7104.0,63774344.0
+Ap796358,Em796358,Salaried,Barker PLC Corp.,20.8,16267.0,15006206.0
+Ap550062,Em550062,Self-Employed,Lopez-Walker LLC,13.0,9569.0,89141773.0
+Ap194071,Em194071,Salaried,Goodwin and Sons Corp.,11.5,8784.0,50532696.0
+Ap893072,Em893072,Self-Employed,Soto-Banks LLC,10.3,21599.0,35753199.0
+Ap406691,Em406691,Salaried,Nichols-Charles Corp.,25.0,14549.0,120425866.0
+Ap941052,Em941052,Hourly,Fox and Sons Corp.,9.9,28089.0,10893786.0
+Ap246389,Em246389,Self-Employed,"Hayes, Garcia and Swanson LLC",18.2,24849.0,123979157.0
+Ap739896,Em739896,Salaried,Mitchell PLC Corp.,8.6,20927.0,94516021.0
+Ap369708,Em369708,Salaried,Sharp Inc Corp.,21.8,7871.0,50590230.0
+Ap782705,Em782705,Salaried,"Lawrence, Kramer and Baker Corp.",27.4,13444.0,95993834.0
+Ap738112,Em738112,Salaried,"Sims, Harper and Lawrence Corp.",28.7,20893.0,12748978.0
+Ap354444,Em354444,Salaried,Johnson Inc Corp.,15.3,25263.0,40999320.0
+Ap703561,Em703561,Hourly,Booker-Valenzuela Corp.,13.0,8629.0,13706142.0
+Ap961291,Em961291,Salaried,Ramos Group Corp.,25.3,13122.0,123110233.0
+Ap311837,Em311837,Salaried,"Ryan, Villarreal and Wright Corp.",28.2,6695.0,19636892.0
+Ap210017,Em210017,Salaried,"Reyes, Wilcox and Shelton Corp.",0.9,19908.0,129080435.0
+Ap223618,Em223618,Self-Employed,Thomas-Rogers LLC,17.6,13004.0,123587248.0
+Ap559297,Em559297,Hourly,"Gonzalez, Kelley and Pope Corp.",6.9,24134.0,24383460.0
+Ap225341,Em225341,Salaried,Jensen-Lewis Corp.,15.1,10112.0,83263220.0
+Ap915862,Em915862,Hourly,Powell-Flores Corp.,28.4,10161.0,63336753.0
+Ap830892,Em830892,Salaried,Wiggins PLC Corp.,3.8,16922.0,85266801.0
+Ap652076,Em652076,Salaried,Griffin PLC Corp.,2.8,15186.0,119205343.0
+Ap850865,Em850865,Salaried,Wilson-Robinson Corp.,19.2,14179.0,12777363.0
+Ap541759,Em541759,Salaried,Johnson Inc Corp.,13.0,3746.0,94014675.0
+Ap955778,Em955778,Self-Employed,"Ponce, Gregory and Torres LLC",8.3,15131.0,91659486.0
+Ap982554,Em982554,Salaried,Cooper Ltd Corp.,22.5,17901.0,15849874.0
+Ap664262,Em664262,Salaried,Guzman-Garcia Corp.,29.1,17069.0,108927098.0
+Ap993741,Em993741,Self-Employed,Vaughan Inc LLC,5.6,24104.0,71813307.0
+Ap640659,Em640659,Self-Employed,Johnston LLC LLC,9.0,3212.0,24625775.0
+Ap931516,Em931516,Salaried,Bailey-Jordan Corp.,13.3,11559.0,58145001.0
+Ap522845,Em522845,Self-Employed,Smith Inc LLC,10.8,3975.0,38035568.0
+Ap806544,Em806544,Salaried,"Guerra, Woods and Collins Corp.",6.9,20809.0,72289998.0
+Ap424060,Em424060,Salaried,Chang-Robertson Corp.,18.5,12237.0,25291399.0
+Ap698260,Em698260,Salaried,Andrews-Mccarthy Corp.,17.9,18385.0,106690343.0
+Ap293259,Em293259,Self-Employed,Marks-Salazar LLC,18.2,21131.0,56177767.0
+Ap375128,Em375128,Salaried,Thompson PLC Corp.,20.6,3679.0,62235224.0
+Ap919471,Em919471,Salaried,Austin-Jimenez Corp.,4.4,22394.0,42695826.0
+Ap709719,Em709719,Salaried,"West, Yates and Reed Corp.",2.7,27339.0,14922886.0
+Ap970123,Em970123,Salaried,"Baker, Parks and Edwards Corp.",4.8,14423.0,111388857.0
+Ap945038,Em945038,Salaried,"Wilson, Rogers and Maddox Corp.",10.5,7187.0,29549704.0
+Ap503832,Em503832,Salaried,Knight-Burke Corp.,23.6,10454.0,36778490.0
+Ap989097,Em989097,Salaried,Hardy LLC Corp.,29.3,26639.0,39135409.0
+Ap729661,Em729661,Self-Employed,Martinez Ltd LLC,2.8,23187.0,31306003.0
+Ap281144,Em281144,Salaried,Moore Inc Corp.,14.6,3706.0,29950487.0
+Ap911006,Em911006,Salaried,Huerta-Salinas Corp.,13.2,16356.0,33844673.0
+Ap350195,Em350195,Salaried,"Barber, Rios and Pace Corp.",19.5,2692.0,85705223.0
+Ap243748,Em243748,Salaried,Carter and Sons Corp.,26.8,29437.0,45516795.0
+Ap504032,Em504032,Salaried,"Ramirez, Love and Rojas Corp.",2.5,3116.0,122015436.0
+Ap132733,Em132733,Hourly,Logan Group Corp.,17.4,3815.0,11289933.0
+Ap841040,Em841040,Salaried,Wise Inc Corp.,19.8,8109.0,108520699.0
+Ap626338,Em626338,Self-Employed,Evans-Lopez LLC,12.8,13553.0,31842774.0
+Ap209996,Em209996,Salaried,"Carney, Combs and Saunders Corp.",27.4,13077.0,33286370.0
+Ap658221,Em658221,Salaried,Miller Ltd Corp.,10.5,28800.0,21597356.0
+Ap649239,Em649239,Salaried,Jackson-Jones Corp.,4.3,25297.0,97877055.0
+Ap656701,Em656701,Salaried,"Fisher, Green and Gray Corp.",11.1,20885.0,126031186.0
+Ap265873,Em265873,Salaried,"Horton, Lewis and Colon Corp.",7.0,5371.0,122020049.0
+Ap810979,Em810979,Salaried,Kelley-Clark Corp.,6.5,16389.0,15240651.0
+Ap999005,Em999005,Salaried,Jackson Ltd Corp.,18.0,15756.0,108039889.0
+Ap533816,Em533816,Salaried,Garner-Todd Corp.,22.8,17016.0,110203522.0
+Ap813135,Em813135,Salaried,Sanders-Rush Corp.,11.7,16009.0,71807148.0
+Ap321888,Em321888,Salaried,Pratt-Harris Corp.,10.7,16341.0,31594970.0
+Ap885332,Em885332,Self-Employed,"Palmer, Brown and Thompson LLC",9.1,6577.0,117706530.0
+Ap845453,Em845453,Hourly,Tyler PLC Corp.,13.1,22922.0,49639610.0
+Ap867950,Em867950,Self-Employed,Blair PLC LLC,9.6,3628.0,23033889.0
+Ap266472,Em266472,Salaried,Wilson LLC Corp.,23.4,29451.0,21583137.0
+Ap497710,Em497710,Salaried,Villegas PLC Corp.,14.9,20699.0,117479281.0
+Ap311760,Em311760,Salaried,Perez-Boyer Corp.,21.7,21315.0,51437761.0
+Ap222744,Em222744,Hourly,"Donovan, Garza and Carter Corp.",20.4,22626.0,114967165.0
+Ap975863,Em975863,Salaried,Matthews-Thomas Corp.,20.8,2697.0,47334399.0
+Ap830051,Em830051,Salaried,Moreno-Owen Corp.,10.4,7251.0,114544067.0
+Ap601946,Em601946,Salaried,"Clarke, Choi and Huff Corp.",21.5,28595.0,116262897.0
+Ap143001,Em143001,Salaried,"Gregory, Jacobs and Villegas Corp.",24.1,9639.0,119820391.0
+Ap691652,Em691652,Salaried,Garner and Sons Corp.,7.7,11108.0,77154523.0
+Ap931460,Em931460,Salaried,Nguyen Group Corp.,28.1,10186.0,117083981.0
+Ap338506,Em338506,Salaried,Moore Ltd Corp.,2.5,8144.0,14740709.0
+Ap853019,Em853019,Salaried,"Castro, Clark and Lozano Corp.",14.4,29747.0,70044025.0
+Ap530789,Em530789,Salaried,Santana Group Corp.,24.9,20788.0,120687125.0
+Ap756166,Em756166,Salaried,"Larsen, Howard and Farmer Corp.",18.6,11080.0,64516514.0
+Ap811998,Em811998,Salaried,Crawford PLC Corp.,8.2,3383.0,19668080.0
+Ap752589,Em752589,Self-Employed,Martin-Jackson LLC,2.5,12430.0,40802640.0
+Ap599722,Em599722,Self-Employed,Torres Ltd LLC,12.2,22024.0,43036785.0
+Ap785117,Em785117,Salaried,"Peterson, Bush and Reed Corp.",8.4,9244.0,86743161.0
+Ap658924,Em658924,Salaried,"Boyd, Hutchinson and Burch Corp.",26.0,27994.0,26611703.0
+Ap835457,Em835457,Self-Employed,Sullivan-Johnson LLC,6.4,14078.0,28568171.0
+Ap279352,Em279352,Salaried,Holmes-Pierce Corp.,22.1,15048.0,41493621.0
+Ap910694,Em910694,Salaried,"Lambert, Johnson and Woods Corp.",17.4,28258.0,61319743.0
+Ap966867,Em966867,Salaried,Aguilar PLC Corp.,10.3,16776.0,36120297.0
+Ap293283,Em293283,Self-Employed,Mcclain Inc LLC,4.1,10532.0,41862249.0
+Ap550195,Em550195,Salaried,"Simpson, Chandler and Lewis Corp.",12.5,16077.0,59910439.0
+Ap869884,Em869884,Self-Employed,Farrell-James LLC,16.4,23385.0,58538498.0
+Ap531413,Em531413,Salaried,Davis-Lam Corp.,17.7,26204.0,11162089.0
+Ap403988,Em403988,Salaried,"Brooks, Hatfield and Valentine Corp.",28.2,27825.0,104543395.0
+Ap426898,Em426898,Salaried,Morrison Ltd Corp.,16.4,6352.0,115762424.0
+Ap963561,Em963561,Salaried,Dougherty-Huang Corp.,6.0,11990.0,122951833.0
+Ap402186,Em402186,Salaried,Hart Inc Corp.,19.5,27842.0,125525211.0
+Ap161665,Em161665,Hourly,Ruiz Inc Corp.,5.7,19440.0,80551388.0
+Ap346584,Em346584,Salaried,Hall-Smith Corp.,12.3,29206.0,86757937.0
+Ap216953,Em216953,Salaried,Bradley-Duncan Corp.,17.2,21182.0,128200863.0
+Ap576072,Em576072,Salaried,Gross-Kim Corp.,22.3,18077.0,31764043.0
+Ap782736,Em782736,Self-Employed,"Porter, Richardson and Hill LLC",4.9,21116.0,44135805.0
+Ap286626,Em286626,Salaried,Lawson-Harris Corp.,2.5,24003.0,26229276.0
+Ap245271,Em245271,Salaried,"Key, Jones and Mckinney Corp.",13.4,9674.0,126616501.0
+Ap218533,Em218533,Salaried,"Barnes, Rodriguez and Rose Corp.",23.0,14014.0,63483732.0
+Ap698069,Em698069,Salaried,"Phillips, Berg and Chang Corp.",25.6,11004.0,98113624.0
+Ap565966,Em565966,Salaried,"Rodriguez, Gonzalez and Hardin Corp.",13.9,18800.0,104000540.0
+Ap166262,Em166262,Self-Employed,Camacho PLC LLC,4.9,5518.0,84035635.0
+Ap933032,Em933032,Self-Employed,Young-Gomez LLC,12.8,5268.0,106132021.0
+Ap176898,Em176898,Salaried,Lopez PLC Corp.,29.0,12596.0,48816191.0
+Ap555699,Em555699,Salaried,Nielsen-Wells Corp.,21.7,26208.0,79210627.0
+Ap249369,Em249369,Self-Employed,"Cochran, Trujillo and Torres LLC",10.5,7545.0,31630973.0
+Ap654736,Em654736,Salaried,Wagner-Douglas Corp.,25.9,25439.0,19463337.0
+Ap388316,Em388316,Self-Employed,Alvarez Inc LLC,2.6,24584.0,115520886.0
+Ap107657,Em107657,Salaried,"Perez, Hernandez and Lawrence Corp.",16.3,26137.0,87787883.0
+Ap577602,Em577602,Salaried,Weber-Smith Corp.,9.5,5386.0,101893323.0
+Ap880977,Em880977,Self-Employed,Smith Ltd LLC,15.8,9404.0,11952341.0
+Ap474999,Em474999,Salaried,Sanchez Inc Corp.,16.0,13487.0,85926345.0
+Ap784191,Em784191,Salaried,Meyers and Sons Corp.,21.7,22070.0,100817180.0
+Ap107906,Em107906,Salaried,King-Ramos Corp.,28.2,11278.0,68447359.0
+Ap423557,Em423557,Salaried,"Garcia, Matthews and Clark Corp.",25.1,3665.0,19257873.0
+Ap678316,Em678316,Self-Employed,Ford-Campbell LLC,17.1,7634.0,42336761.0
+Ap893719,Em893719,Salaried,Cooper-Jackson Corp.,23.2,25836.0,36422681.0
+Ap395804,Em395804,Hourly,Parker Inc Corp.,10.2,2390.0,58748259.0
+Ap568974,Em568974,Hourly,"Bartlett, Jennings and Black Corp.",6.1,13007.0,100623332.0
+Ap946936,Em946936,Salaried,"Wells, Myers and Stanley Corp.",5.0,3442.0,30415568.0
+Ap815080,Em815080,Hourly,Johnson-Hicks Corp.,21.6,4157.0,41361300.0
+Ap727267,Em727267,Self-Employed,Powell-Young LLC,19.7,10303.0,117274677.0
+Ap134701,Em134701,Self-Employed,Flores-Palmer LLC,8.8,22036.0,123094252.0
+Ap183300,Em183300,Hourly,"Gutierrez, Jackson and Coleman Corp.",8.2,11451.0,51563952.0
+Ap865537,Em865537,Salaried,"Pope, Jones and Russell Corp.",18.4,18534.0,79415150.0
+Ap773034,Em773034,Hourly,Russell Ltd Corp.,18.9,27804.0,122325401.0
+Ap183560,Em183560,Salaried,"Smith, Garza and Wallace Corp.",13.0,8943.0,41742657.0
+Ap342615,Em342615,Self-Employed,Smith Inc LLC,10.0,18500.0,27019906.0
+Ap143642,Em143642,Salaried,Schwartz-Price Corp.,4.4,17421.0,79229142.0
+Ap617083,Em617083,Salaried,Allen PLC Corp.,14.0,4544.0,54289039.0
+Ap591036,Em591036,Self-Employed,Cook and Sons LLC,18.6,10834.0,83995129.0
+Ap427304,Em427304,Self-Employed,Choi Ltd LLC,3.1,24403.0,76549867.0
+Ap904034,Em904034,Salaried,"Lee, Patrick and Kline Corp.",0.7,19497.0,14713561.0
+Ap465464,Em465464,Salaried,Wright-Atkins Corp.,12.7,18547.0,16487112.0
+Ap713089,Em713089,Hourly,"Vance, Mendoza and Long Corp.",15.4,28724.0,29016279.0
