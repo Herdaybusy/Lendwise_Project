@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: fact_loan_performance
+    tests:
+      - not_null:
+          column_name: application_id
+          
