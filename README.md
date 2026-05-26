@@ -1,219 +1,295 @@
-# LendWise Financials Data Pipeline 📊
-## 🏦 Project Overview
+# LendWise Financial Data Pipeline
 
-**LendWise Financials** is a comprehensive cloud-native data engineering solution designed to automate the extraction, transformation, and loading (ETL) of loan-related data. This project empowers financial institutions with data-driven insights for improved lending decisions and risk assessment.
+An end-to-end ETL system built on GCP that moves raw loan data through a cleaning, validation, and dimensional modelling layer before landing it in BigQuery for analysis.
 
-### 🎯 Mission
-Empowering individuals and businesses with tailored financial solutions through advanced data engineering and automated loan processing workflows.
-
-## 🚀 Problem Statement
-
-LendWise Financials previously lacked a streamlined, automated process for handling large volumes of loan-related data. The manual workflow resulted in:
-- ⏰ Processing delays and inefficiencies
-- ❌ Data inconsistencies and errors
-- 📊 Limited real-time insights into loan performance
-- 🔍 Inadequate risk assessment capabilities
-
-## ✨ Solution Architecture
-
-This project implements a **cloud-native data pipeline** that:
-- ✅ Automates loan data processing in real-time
-- 🧹 Maintains data quality through automated cleansing
-- 📈 Provides accurate, timely loan performance insights
-- 🔄 Enables scalable data transformation processes
-
-### 🏗️ Architecture Components
-
-1. **Data Sources** → Raw CSV files (Loan Applications, Repayments, Credit Bureau Data)
-2. **Processing Engine** → Python ETL scripts with automated data cleaning
-3. **Cloud Storage** → Google Cloud Storage for raw and processed data
-4. **Orchestration** → Google Cloud Functions with scheduled triggers
-5. **Data Warehouse** → BigQuery for analytics and reporting
-
-## 🛠️ Technology Stack
-- **Processing**: Python, Pandas, NumPy - Data transformation and cleaning
-- **Cloud Platform**: Google Cloud Platform (GCP) - Infrastructure and services
-- **Storage**: Google Cloud Storage - Raw and processed data storage
-- **Data Warehouse**: BigQuery - Analytics and reporting
-- **Orchestration**: Cloud Functions, Cloud Scheduler - Automated pipeline execution
-- **Framework**: Functions Framework, Flask - HTTP-triggered cloud functions
-
-
-## 📊 Data Transformation Process
-
-### 1. **Data Extraction**
-- Automated retrieval from Google Cloud Storage
-- Support for multiple CSV data sources
-- Error handling and data validation
-
-### 2. **Data Cleaning & Transformation**
-- **Duplicate Removal**: Eliminates redundant records
-- **Missing Value Handling**: Drops incomplete records
-- **Column Standardization**: Normalizes naming conventions
-- **Data Type Conversion**: Ensures proper datetime and numeric formats
-- **Phone Number Cleaning**: Standardizes contact information
-
-### 3. **Dimensional Modeling**
-Creates normalized table structure:
-
-- Applicant Table - Customer demographics including SSN, name, DOB, education
-- Employment Table - Employment details including type, employer, income, duration
-- Contact Info Table - Address and contact data including address, phone, email
-- Next of Kin Table - Emergency contacts including name, relationship, contact
-- Loan Application Fact Table - Core loan data including application ID, amount, type, terms
-- Loan Repayments Table - Payment tracking including payment dates, amounts, status
-- Credit Bureau Table - Credit assessment including credit scores, account history
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Google Cloud Platform account
-- Python 3.8+
-- Required Python packages (see `requirements.txt`)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/herdaybusy/lendwise_project.git
-   cd lendwise_project
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up Google Cloud credentials**
-   ```bash
-   # Set up service account and download credentials
-   export GOOGLE_APPLICATION_CREDENTIALS="****/***"
-   ```
-
-4. **Configure environment variables**
-   ```bash
-   cp .env
-   ```
-
-### Configuration
-
-Create a `.env` file with the following variables:
-```env
-GCP_PROJECT=***
-BUCKET_NAME=***
-DATASET_ID=***
-```
-
-## 🔧 Deployment
-
-### Google Cloud Function Deployment
-
-1. **Deploy the ETL function**
-   ```bash
-   gcloud functions deploy lendwise-etl-function \
-     --runtime python39 \
-     --trigger-http \
-     --allow-unauthenticated \
-     --source lendwise-etl-function/
-   ```
-
-2. **Set up Cloud Scheduler** (Optional)
-   ```bash
-   gcloud scheduler jobs create http lendwise-etl-job \
-     --schedule="0 2 * * *" \
-     --uri="https://function-url" \
-     --http-method=GET
-   ```
-
-### BigQuery Setup
-
-1. **Create dataset**
-   ```sql
-   CREATE SCHEMA `project-id.lendwise_data`
-   ```
-
-2. **Run aggregation queries**
-   ```bash
-   bq query --use_legacy_sql=false < sql/lendwise-Aggregation.sql
-   ```
-
-## 📈 Usage
-
-### Manual Trigger
-Send HTTP request to the Cloud Function endpoint:
-```bash
-curl -X GET https://function-url
-```
-
-### Scheduled Execution
-The pipeline runs automatically via Cloud Scheduler at configured intervals.
-
-### Monitoring
-- View logs in Google Cloud Console
-- Monitor function execution metrics
-- Check BigQuery for data availability
-
-## 📊 Data Pipeline Flow
-
-```
-Raw CSV Data → Cloud Storage → Cloud Function (ETL) → Cleaned Data → BigQuery → Analytics
-```
-
-1. **Raw data** uploaded to Cloud Storage buckets
-2. **Cloud Function** triggered (HTTP/Scheduler)
-3. **ETL process** cleans and transforms data
-4. **Cleaned data** stored back to Cloud Storage
-5. **Processed data** loaded to BigQuery tables
-6. **Analytics and reporting** available for stakeholders
-
-## 🔍 Data Quality Features
-
-- **Automated duplicate detection and removal**
-- **Missing value handling with configurable strategies**
-- **Data type validation and conversion**
-- **Column name standardization**
-- **Error logging and monitoring**
-- **Data lineage tracking**
-
-## 📁 Project Structure
-
-```
-lendwise-financials-data-pipeline/
-├── README.md                         # Project documentation
-├── requirements.txt                  # Python dependencies
-├── .env.example                      # Environment variables template
-├── .gitignore                        # Git ignore rules
-├── lendwise-etl-function/            # Cloud Function source code
-│   └── lendwise_etl.py               # ETL pipeline implementation
-├── Raw_Data/                         # Sample raw data files
-├── Cleaned_Data/                     # Processed data output
-├── images/                           # Architecture diagrams
-├── sql/                              # BigQuery schemas and queries
-│   └── lendwise-Aggregation.sql      # Data aggregation queries
-└── docs/                             # Additional documentation
-```
-
-## 🔒 Security & Best Practices
-
-- **Service Account Authentication**: Secure GCP resource access
-- **Environment Variables**: Sensitive data stored securely
-- **IAM Permissions**: Principle of least privilege
-- **Data Encryption**: At-rest and in-transit encryption
-- **Error Handling**: Comprehensive exception management
-- **Logging**: Detailed execution logs for monitoring
-
-
-
-## 📞 Support
-
-For questions, issues, or contributions:
-- 📧 **Email**: Herdaybusy@gmail.com.com
-
-
-## 🙏 Acknowledgments
-
-- **Google Cloud Platform** for robust cloud infrastructure
-- **Python Data Science Community** for excellent libraries
-- **LendWise Financials** for the inspiring use case
+The pipeline handles data quality issues in financial datasets — duplicate records, inconsistent column names, nullable fields that shouldn't kill a whole row, and IDs that need to be stable across runs. It runs daily on a Cloud Scheduler trigger and can also be managed through an Airflow DAG for environments that want finer orchestration control.
 
 ---
+
+## Architecture
+
+![LendWise pipeline architecture](images/Lendwise_Architecture.png)
+
+## Data model
+
+![LendWise data model](images/data_model.png)
+
+The star schema centres on `Loan_Application_Fact_Table`, which holds the
+core loan metrics and four foreign keys linking out to the dimension tables.
+Each dimension captures a distinct subject — who the applicant is, where they
+work, how to contact them, and who their next of kin is.
+
+
+**Data flow:**
+
+```
+GCS (raw CSV files)
+  └── Cloud Function (HTTP / Airflow DAG / Cloud Scheduler)
+        ├── Extract   → GCSExtractor (retry + backoff)
+        ├── Transform → Star schema: 7 tables
+        ├── Validate  → Great Expectations quality gate
+        └── Load      → BigQuery (lendwise_data) + GCS cleaned/
+              └── dbt → stg_loans, fact_loan_performance, SQL analysis
+```
+
+---
+
+## Output tables
+
+| Table | Description |
+|---|---|
+| `fact_loans` | One row per application — amounts, terms, rates, estimated monthly payment |
+| `fact_repayments` | Payment events with delinquency flags (>30 days overdue) |
+| `dim_applicants` | Demographics, deterministic applicant ID derived from SSN hash |
+| `dim_employment` | Employment type, employer, income |
+| `dim_contact_info` | Address, cleaned phone number, email |
+| `dim_next_of_kin` | Emergency contact details |
+| `dim_credit_bureau` | FICO score, credit band (Poor → Exceptional), utilisation |
+
+---
+
+## Project structure
+
+```
+Lendwise_Project/
+├── etl/
+│   ├── extract/
+│   │   └── gcs_extractor.py        # GCS downloads with retry logic
+│   ├── transform/
+│   │   ├── loan_applications.py    # Cleaning + all dim/fact builders
+│   │   ├── loan_repayments.py      # Repayment cleaning + delinquency flag
+│   │   └── credit_bureau.py        # Credit data cleaning + FICO band
+│   ├── load/
+│   │   ├── bigquery_loader.py      # BQ write with row count verification
+│   │   └── gcs_loader.py           # Cleaned CSV upload back to GCS
+│   ├── pipelines/
+│   │   └── etl_pipeline.py         # Main orchestrator
+│   └── utils/
+│       ├── config.py               # Env var config — no hardcoded values
+│       ├── logger.py               # Named loggers per module
+│       └── validators.py           # Great Expectations validation suite
+├── orchestration/
+│   └── airflow/
+│       └── lendwise_dag.py         # Airflow DAG, daily at 02:00 UTC
+├── quality/
+│   └── great_expectation.py/
+│       └── checks.py         # Airflow DAG, daily at 02:00 UTC
+├── analytics/
+│   └── dbt/
+│       ├── models/
+│       │   ├── staging/stg_loans.sql
+│       │   └── fact_loan_performance.sql
+│       └── loan_tests.yml
+├── tests/
+│   ├── unit/
+│   │   └── test_all_transforms.py  # 36 unit tests, no GCP needed
+│   └── integration/
+│       └── test_etl_pipeline.py
+├── images/
+│   ├── Lendwise_Architecture.png
+│   └── data_model.png
+├── sql/
+│   └── lendwise_aggregation.sql
+├── metrics.py
+├── main.py                         # Cloud Function entry point
+├── requirements.txt
+├── Makefile
+├── pytest.ini
+└── .env.example
+```
+
+---
+
+## Getting started
+
+### Prerequisites
+
+- Python 3.11+
+- A GCP project with Cloud Storage and BigQuery enabled
+- Service account with `Storage Object Viewer` and `BigQuery Data Editor` roles
+
+### Setup
+
+```bash
+git clone https://github.com/Herdaybusy/Lendwise_Project.git
+cd Lendwise_Project
+
+pip install -r requirements.txt
+
+cp .env.example .env
+# fill in your GCP_PROJECT, BUCKET_NAME, BQ_DATASET
+
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/service-account-key.json"
+```
+
+### Run locally (no GCP credentials needed)
+
+Set `RUN_MODE=local` in your `.env` — reads from `./data/Raw_Data/`, writes to `./data/Cleaned_Data/`.
+
+```bash
+# Dry run: transforms + validation only, nothing gets written
+python -m etl.pipelines.etl_pipeline --dry-run
+
+# Full local run
+python -m etl.pipelines.etl_pipeline --mode local
+```
+
+> Always run from the project root (`Lendwise_Project/`), not from inside any subdirectory.
+
+---
+
+## Tests
+
+```bash
+# All tests
+pytest -v
+
+# Unit tests only (fast, no GCP)
+pytest tests/unit/ -v
+
+# With coverage
+pytest tests/unit/ --cov=etl --cov-report=term-missing
+```
+
+Expected: **39 passed, 2 skipped** — the 2 skipped are Airflow tests that don't run on Windows by design.
+
+---
+
+## Deployment
+
+### Cloud Function
+
+```bash
+gcloud functions deploy lendwise-etl \
+  --runtime python311 \
+  --trigger-http \
+  --entry-point etl_pipeline \
+  --source . \
+  --region europe-west2 \
+  --set-env-vars GCP_PROJECT=your-project,BUCKET_NAME=your-bucket,BQ_DATASET=lendwise_data
+```
+
+### Cloud Scheduler (daily at 02:00 UTC)
+
+```bash
+gcloud scheduler jobs create http lendwise-daily \
+  --schedule="0 2 * * *" \
+  --uri="https://your-function-url" \
+  --http-method=POST \
+  --location=europe-west2
+```
+
+Trigger a dry run manually:
+
+```bash
+curl -X POST https://your-function-url \
+  -H "Content-Type: application/json" \
+  -d '{"dry_run": true}'
+```
+
+### BigQuery
+
+```sql
+CREATE SCHEMA `your-project.lendwise_data` OPTIONS (location = 'EU');
+```
+
+---
+
+## Environment variables
+
+| Variable | Required | Default | Description |
+|---|---|---|---|
+| `GCP_PROJECT` | ✅ | — | GCP project ID |
+| `BUCKET_NAME` | ✅ | — | GCS bucket name |
+| `BQ_DATASET` | ✅ | — | BigQuery dataset (e.g. `lendwise_data`) |
+| `RUN_MODE` | — | `cloud` | `local` or `cloud` |
+| `BQ_WRITE_DISPOSITION` | — | `WRITE_TRUNCATE` | `WRITE_TRUNCATE` or `WRITE_APPEND` |
+| `LOG_LEVEL` | — | `INFO` | `DEBUG` for local dev |
+| `MAX_RETRIES` | — | `3` | GCS download retries |
+
+If any required variable is missing the pipeline raises a clear `EnvironmentError` at startup — no silent fallback to a wrong GCP project.
+
+---
+
+## Data quality
+
+Every run goes through a validation gate before anything reaches BigQuery. Implemented with Great Expectations:
+
+- `application_id` non-null and unique in all dimension tables
+- `loan_amount_requested_usd` positive, within $100–$500k
+- FICO scores in the valid 300–850 range
+- Payment amounts non-negative
+- No future-dated repayment records
+- Referential integrity between fact and dimension tables
+
+Critical check failures abort the pipeline. Warnings are logged but don't block the load.
+
+---
+
+## Two decisions worth explaining
+
+### Deterministic applicant IDs
+
+The original code generated applicant IDs using `np.random.seed(42) + randint`. That produces a different ID for the same applicant on every pipeline run — which silently breaks any join using `applicant_id` as a foreign key.
+
+Fixed by deriving the ID from a SHA-256 hash of the SSN:
+
+```python
+applicant_id = "APP-" + hashlib.sha256(ssn.encode()).hexdigest()[:8]
+```
+
+Same SSN always produces the same ID. No database lookup needed.
+
+### Targeted null handling
+
+`df.dropna()` with no arguments drops any row with a null in *any* column — including optional fields like `bankruptcy_flag` (no record = null, not a data error). Replaced with:
+
+```python
+df = df.dropna(subset=["application_id"])
+```
+
+Everything else is handled per-column with `errors="coerce"`, turning bad values into `NaN` instead of crashing.
+
+---
+
+## SQL analytics
+
+`sql/lendwise_aggregation.sql` contains ready-to-run BigQuery queries:
+
+- Default rate by FICO credit band
+- Applications per month
+- Average income by employment type
+- Total repayments vs income
+- Geographic distribution of applicants
+- Most common next-of-kin relationships
+
+---
+
+## Stack
+
+| Layer | Technology |
+|---|---|
+| Language | Python 3.11 |
+| Data processing | Pandas, NumPy, PyArrow |
+| Cloud | Google Cloud Platform |
+| Storage | Google Cloud Storage |
+| Warehouse | BigQuery |
+| Orchestration | Cloud Functions + Cloud Scheduler / Apache Airflow |
+| Data quality | Great Expectations |
+| Analytics | dbt (BigQuery adapter) |
+| Testing | pytest, pytest-cov |
+| CI | GitHub Actions |
+
+---
+
+## CI/CD
+
+Every push to `main` or `develop` runs three GitHub Actions jobs:
+
+1. Lint — black, isort, flake8
+2. Unit tests — 80% coverage gate
+3. Integration tests — full pipeline smoke test in local mode
+
+---
+
+Ahmed Adebisi — [Herdaybusy@gmail.com](mailto:Herdaybusy@gmail.com) — [github.com/Herdaybusy](https://github.com/Herdaybusy)
