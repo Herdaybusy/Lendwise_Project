@@ -73,7 +73,7 @@ Lendwise_Project/
 │       └── lendwise_dag.py         # Airflow DAG, daily at 02:00 UTC
 ├── quality/
 │   └── great_expectation.py/
-│       └── checks.py         # Airflow DAG, daily at 02:00 UTC
+│       └── checks.py         
 ├── analytics/
 │   └── dbt/
 │       ├── models/
