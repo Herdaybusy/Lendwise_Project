@@ -1,0 +1,74 @@
+version: 2
+
+models:
+  - name: stg_loans
+    description: >
+      Staging layer for loan applications. Sourced directly from the BigQuery
+      fact_loans table written by the ETL pipeline. Only renaming and type
+      casting — no business logic.
+    columns:
+      - name: application_id
+        description: Unique identifier for each loan application.
+        tests:
+          - not_null
+          - unique
+      - name: applicant_id
+        description: Foreign key to the applicant dimension.
+        tests:
+          - not_null
+      - name: loan_amount_requested_usd
+        description: The loan amount requested by the applicant, in USD.
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "loan_amount_requested_usd > 0"
+      - name: loan_type
+        description: Category of loan (Personal, Business, Auto, Mortgage, etc.)
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Personal', 'Business', 'Auto', 'Mortgage', 'Student', 'Other']
+      - name: application_date
+        description: Date the loan application was submitted.
+        tests:
+          - not_null
+
+  - name: fact_loan_performance
+    description: >
+      Analytical mart combining loan applications, repayment history, and
+      credit bureau data into a single table for dashboards and risk analysis.
+      Grain: one row per loan application.
+    columns:
+      - name: application_id
+        description: Primary key — unique per loan application.
+        tests:
+          - not_null
+          - unique
+      - name: applicant_id
+        description: Foreign key to the applicant dimension.
+        tests:
+          - not_null
+      - name: loan_segment
+        description: Value-based loan segment (MICRO, SMALL, MEDIUM, LARGE).
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['MICRO', 'SMALL', 'MEDIUM', 'LARGE']
+      - name: outstanding_balance_usd
+        description: Remaining balance after all recorded repayments.
+        tests:
+          - dbt_utils.expression_is_true:
+              expression: "outstanding_balance_usd >= 0"
+              # A negative balance would imply overpayment — flag it
+      - name: credit_band
+        description: FICO credit band assigned from the bureau score.
+        tests:
+          - accepted_values:
+              values: ['Poor', 'Fair', 'Good', 'Very Good', 'Exceptional']
+              where: "credit_band is not null"
+      - name: is_high_risk
+        description: >
+          True if the applicant has delinquent payments or a Poor/Fair credit band.
+          Used by the risk team to prioritise outreach.
+        tests:
+          - not_null
