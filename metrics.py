@@ -18,7 +18,7 @@ Usage:
 
 import functools
 import time
-from typing import Callable, Any
+from typing import Any, Callable
 
 from etl.utils.logger import get_logger
 

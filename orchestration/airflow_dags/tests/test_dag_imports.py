@@ -1,6 +1,7 @@
-from airflow.models import DagBag
 import os
+
 import pytest
+from airflow.models import DagBag
 
 
 @pytest.mark.skipif(os.name == "nt", reason="Airflow not supported on Windows")

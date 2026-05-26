@@ -20,8 +20,8 @@ import functions_framework
 from flask import Request, jsonify
 
 from etl.pipelines.etl_pipeline import ETLPipeline
-from etl.utils.validators import ValidationError
 from etl.utils.logger import get_logger
+from etl.utils.validators import ValidationError
 
 logger = get_logger("lendwise.main")
 

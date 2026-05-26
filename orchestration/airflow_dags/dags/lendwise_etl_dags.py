@@ -1,6 +1,8 @@
+from datetime import datetime
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from datetime import datetime
+
 from etl.pipelines.etl_pipeline import ETLPipeline
 
 

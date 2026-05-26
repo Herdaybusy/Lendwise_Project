@@ -7,9 +7,10 @@ writes to ./data/Cleaned_Data/.
 
 """
 
-import pytest
-import pandas as pd
 import os
+
+import pandas as pd
+import pytest
 
 
 @pytest.mark.integration
@@ -39,7 +40,7 @@ class TestETLPipelineLocalMode:
         downstream systems (Cloud Function, Airflow) depend on.
         """
         # We mock the run to avoid needing actual CSV files in CI
-        from unittest.mock import patch, MagicMock
+        from unittest.mock import MagicMock, patch
 
         mock_result = {
             "status": "success",

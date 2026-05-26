@@ -10,19 +10,16 @@ from datetime import datetime, timezone
 from typing import Optional
 
 from etl.extract.gcs_extractor import GCSExtractor
+from etl.load.bigquery_loader import BigQueryLoader
+from etl.load.gcs_loader import GCSLoader
+from etl.transform.credit_bureau import CreditBureauTransformer
 from etl.transform.loan_applications import LoanApplicationsTransformer
 from etl.transform.loan_repayments import LoanRepaymentsTransformer
-from etl.transform.credit_bureau import CreditBureauTransformer
-from etl.load.gcs_loader import GCSLoader
-from etl.load.bigquery_loader import BigQueryLoader
-from etl.utils.validators import (
-    validate_loan_applications,
-    validate_loan_repayments,
-    validate_credit_bureau,
-    validate_fact_loans,
-    ValidationError,
-)
 from etl.utils.logger import get_logger
+from etl.utils.validators import (ValidationError, validate_credit_bureau,
+                                  validate_fact_loans,
+                                  validate_loan_applications,
+                                  validate_loan_repayments)
 from metrics import Metrics
 
 logger = get_logger("lendwise.pipeline")

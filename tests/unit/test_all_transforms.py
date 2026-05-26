@@ -9,13 +9,13 @@ Run with:
     pytest tests/unit/test_all_transforms.py -v --tb=short   # shorter tracebacks
 """
 
-import pytest
-import pandas as pd
 import numpy as np
+import pandas as pd
+import pytest
 
+from etl.transform.credit_bureau import CreditBureauTransformer
 from etl.transform.loan_applications import LoanApplicationsTransformer
 from etl.transform.loan_repayments import LoanRepaymentsTransformer
-from etl.transform.credit_bureau import CreditBureauTransformer
 
 # ── Shared fixtures ───────────────────────────────────────────────────────────
 

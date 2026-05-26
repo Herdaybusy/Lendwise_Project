@@ -7,8 +7,8 @@ Handles writing transformed DataFrames to BigQuery.
 from typing import Dict, Optional
 
 import pandas as pd
-from google.cloud import bigquery
 from google.api_core.exceptions import GoogleAPIError
+from google.cloud import bigquery
 
 from etl.utils.config import settings
 from etl.utils.logger import get_logger

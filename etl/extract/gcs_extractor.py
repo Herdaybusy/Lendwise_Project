@@ -8,10 +8,10 @@ import io
 import time
 from typing import Dict
 
-import pandas as pd
-from google.cloud import storage
-from google.api_core.exceptions import GoogleAPIError, NotFound
 import great_expectations as ge
+import pandas as pd
+from google.api_core.exceptions import GoogleAPIError, NotFound
+from google.cloud import storage
 
 from etl.utils.config import settings
 from etl.utils.logger import get_logger

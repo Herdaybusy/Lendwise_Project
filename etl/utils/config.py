@@ -3,10 +3,11 @@ Configuration
 """
 
 import os
-from dotenv import load_dotenv
 from dataclasses import dataclass, field
 from functools import lru_cache
 from typing import Optional
+
+from dotenv import load_dotenv
 
 # Variables that MUST be present — no defaults, no silent fallback
 _REQUIRED = ("GCP_PROJECT", "BUCKET_NAME", "BQ_DATASET")

@@ -12,8 +12,8 @@ import io
 from typing import Optional
 
 import pandas as pd
-from google.cloud import storage
 from google.api_core.exceptions import GoogleAPIError
+from google.cloud import storage
 
 from etl.utils.config import settings
 from etl.utils.logger import get_logger
