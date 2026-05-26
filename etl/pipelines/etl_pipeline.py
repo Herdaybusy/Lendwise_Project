@@ -7,7 +7,6 @@ at step 2 than silently load half-transformed data into BigQuery.
 
 import time
 from datetime import datetime, timezone
-from typing import Optional
 
 from etl.extract.gcs_extractor import GCSExtractor
 from etl.load.bigquery_loader import BigQueryLoader

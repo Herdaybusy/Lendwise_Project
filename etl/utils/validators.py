@@ -99,6 +99,7 @@ def validate_credit_bureau(df: pd.DataFrame):
 def validate_fact_loans(df: pd.DataFrame):
     logger.info("Validating fact loans: %d rows", len(df))
 
+    # Check for required column
     if "application_id" not in df.columns:
         raise ValidationError("Missing application_id")
 

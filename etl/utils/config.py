@@ -5,7 +5,6 @@ Configuration
 import os
 from dataclasses import dataclass, field
 from functools import lru_cache
-from typing import Optional
 
 from dotenv import load_dotenv
 
@@ -88,7 +87,6 @@ class _LazySettings:
     """Defers Settings construction until first attribute access."""
 
     def __getattr__(self, name):
-        global settings
         s = get_settings()
 
         # Cache onto the module-level name so future accesses are direct

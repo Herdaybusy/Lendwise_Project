@@ -8,8 +8,6 @@ Run with:
     pytest tests/unit/test_all_transforms.py -v
     pytest tests/unit/test_all_transforms.py -v --tb=short   # shorter tracebacks
 """
-
-import numpy as np
 import pandas as pd
 import pytest
 
@@ -112,7 +110,7 @@ def sample_credit() -> pd.DataFrame:
     )
 
 
-# ── Loan Applications: cleaning ───────────────────────────────────────────────
+#  Loan Applications: cleaning 
 
 
 class TestLoanApplicationsCleaning:

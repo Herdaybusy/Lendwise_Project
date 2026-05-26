@@ -7,10 +7,7 @@ Pulls raw CSV files from Google Cloud Storage.
 import io
 import time
 from typing import Dict
-
-import great_expectations as ge
 import pandas as pd
-from google.api_core.exceptions import GoogleAPIError, NotFound
 from google.cloud import storage
 
 from etl.utils.config import settings

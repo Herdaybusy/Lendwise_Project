@@ -9,7 +9,6 @@ writes to ./data/Cleaned_Data/.
 
 import os
 
-import pandas as pd
 import pytest
 
 
@@ -39,8 +38,6 @@ class TestETLPipelineLocalMode:
         Validates that the result dict from pipeline.run() has the keys
         downstream systems (Cloud Function, Airflow) depend on.
         """
-        # We mock the run to avoid needing actual CSV files in CI
-        from unittest.mock import MagicMock, patch
 
         mock_result = {
             "status": "success",
