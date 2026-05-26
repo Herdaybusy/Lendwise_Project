@@ -33,6 +33,7 @@ class Metrics:
         Decorator that logs how long a function took to run.
         Works on both regular functions and methods.
         """
+
         @functools.wraps(func)  # Preserves the original function's name and docstring
         def wrapper(*args: Any, **kwargs: Any) -> Any:
             start = time.monotonic()
@@ -44,7 +45,9 @@ class Metrics:
                 return result
             except Exception as exc:
                 elapsed = time.monotonic() - start
-                logger.error("%s failed after %.2fs: %s", func.__qualname__, elapsed, exc)
+                logger.error(
+                    "%s failed after %.2fs: %s", func.__qualname__, elapsed, exc
+                )
                 raise
 
         return wrapper

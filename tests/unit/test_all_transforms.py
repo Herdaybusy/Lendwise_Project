@@ -17,16 +17,18 @@ from etl.transform.loan_applications import LoanApplicationsTransformer
 from etl.transform.loan_repayments import LoanRepaymentsTransformer
 from etl.transform.credit_bureau import CreditBureauTransformer
 
-
 # ── Shared fixtures ───────────────────────────────────────────────────────────
+
 
 @pytest.fixture()
 def loan_transformer():
     return LoanApplicationsTransformer()
 
+
 @pytest.fixture()
 def repay_transformer():
     return LoanRepaymentsTransformer()
+
 
 @pytest.fixture()
 def credit_transformer():
@@ -35,46 +37,83 @@ def credit_transformer():
 
 @pytest.fixture()
 def sample_loans() -> pd.DataFrame:
-    return pd.DataFrame({
-        "application_id":           ["APP001", "APP002", "APP003", "APP001"],  # APP001 duplicated
-        "applicant_ssn":            ["111-22-3333", "444-55-6666", "777-88-9999", "111-22-3333"],
-        "Applicant Full Name":      ["Alice Smith", "Bob Jones", "Charlie Brown", "Alice Smith"],
-        "applicant_date_of_birth":  ["1985-06-15", "1990-03-22", "bad-date", "1985-06-15"],
-        "application_date":         ["2024-01-15", "2024-02-20", "2024-03-10", "2024-01-15"],
-        "loan_type":                ["Personal", "Business", "Auto", "Personal"],
-        "loan_amount_requested_usd":["10000", "25000", "not_a_number", "10000"],
-        "loan_term_months":         [36, 60, 24, 36],
-        "interest_rate":            [5.5, 7.2, 4.9, 5.5],
-        "applicant_phone_number":   ["+44 7911 123456", "(555) 123-4567", None, "+44 7911 123456"],
-        "employment_type":          ["Full-time", "Self-employed", "Part-time", "Full-time"],
-        "monthly_income_usd":       [5000, 8000, 2500, 5000],
-    })
+    return pd.DataFrame(
+        {
+            "application_id": [
+                "APP001",
+                "APP002",
+                "APP003",
+                "APP001",
+            ],  # APP001 duplicated
+            "applicant_ssn": [
+                "111-22-3333",
+                "444-55-6666",
+                "777-88-9999",
+                "111-22-3333",
+            ],
+            "Applicant Full Name": [
+                "Alice Smith",
+                "Bob Jones",
+                "Charlie Brown",
+                "Alice Smith",
+            ],
+            "applicant_date_of_birth": [
+                "1985-06-15",
+                "1990-03-22",
+                "bad-date",
+                "1985-06-15",
+            ],
+            "application_date": [
+                "2024-01-15",
+                "2024-02-20",
+                "2024-03-10",
+                "2024-01-15",
+            ],
+            "loan_type": ["Personal", "Business", "Auto", "Personal"],
+            "loan_amount_requested_usd": ["10000", "25000", "not_a_number", "10000"],
+            "loan_term_months": [36, 60, 24, 36],
+            "interest_rate": [5.5, 7.2, 4.9, 5.5],
+            "applicant_phone_number": [
+                "+44 7911 123456",
+                "(555) 123-4567",
+                None,
+                "+44 7911 123456",
+            ],
+            "employment_type": ["Full-time", "Self-employed", "Part-time", "Full-time"],
+            "monthly_income_usd": [5000, 8000, 2500, 5000],
+        }
+    )
 
 
 @pytest.fixture()
 def sample_repayments() -> pd.DataFrame:
-    return pd.DataFrame({
-        "application_id": ["APP001", "APP001", "APP002", None],
-        "repayment_date": ["2024-02-15", "2024-03-15", "2024-03-20", "2024-04-01"],
-        "amount_paid_usd": [300.0, 300.0, 450.0, 100.0],
-        "days_overdue":   [0, 0, 35, 0],       # APP002 payment is delinquent (35 days)
-        "payment_status": ["Paid", "Paid", "Late", "Paid"],
-    })
+    return pd.DataFrame(
+        {
+            "application_id": ["APP001", "APP001", "APP002", None],
+            "repayment_date": ["2024-02-15", "2024-03-15", "2024-03-20", "2024-04-01"],
+            "amount_paid_usd": [300.0, 300.0, 450.0, 100.0],
+            "days_overdue": [0, 0, 35, 0],  # APP002 payment is delinquent (35 days)
+            "payment_status": ["Paid", "Paid", "Late", "Paid"],
+        }
+    )
 
 
 @pytest.fixture()
 def sample_credit() -> pd.DataFrame:
-    return pd.DataFrame({
-        "application_id":         ["APP001", "APP002", "APP003"],
-        "credit_score":           [720, 590, 680],
-        "total_accounts":         [8, 5, 12],
-        "delinquent_accounts":    [0, 2, 1],
-        "credit_utilization_pct": [28.5, 62.1, 45.2],
-        "bureau_pull_date":       ["2024-01-10", "2024-02-18", "bad-date"],
-    })
+    return pd.DataFrame(
+        {
+            "application_id": ["APP001", "APP002", "APP003"],
+            "credit_score": [720, 590, 680],
+            "total_accounts": [8, 5, 12],
+            "delinquent_accounts": [0, 2, 1],
+            "credit_utilization_pct": [28.5, 62.1, 45.2],
+            "bureau_pull_date": ["2024-01-10", "2024-02-18", "bad-date"],
+        }
+    )
 
 
 # ── Loan Applications: cleaning ───────────────────────────────────────────────
+
 
 class TestLoanApplicationsCleaning:
 
@@ -83,10 +122,12 @@ class TestLoanApplicationsCleaning:
         assert len(cleaned) == 3  # 4 rows minus 1 duplicate
 
     def test_drops_rows_with_null_application_id(self, loan_transformer):
-        df = pd.DataFrame({
-            "application_id": ["APP001", None],
-            "loan_amount_requested_usd": [10000, 5000],
-        })
+        df = pd.DataFrame(
+            {
+                "application_id": ["APP001", None],
+                "loan_amount_requested_usd": [10000, 5000],
+            }
+        )
         cleaned = loan_transformer.clean(df)
         assert len(cleaned) == 1
 
@@ -100,7 +141,9 @@ class TestLoanApplicationsCleaning:
         cleaned = loan_transformer.clean(sample_loans)
         assert pd.api.types.is_numeric_dtype(cleaned["loan_amount_requested_usd"])
 
-    def test_bad_loan_amount_becomes_nan_not_crash(self, loan_transformer, sample_loans):
+    def test_bad_loan_amount_becomes_nan_not_crash(
+        self, loan_transformer, sample_loans
+    ):
         cleaned = loan_transformer.clean(sample_loans)
         # "not_a_number" for APP003 should be NaN, not raise an exception
         app003 = cleaned[cleaned["application_id"] == "APP003"]
@@ -132,6 +175,7 @@ class TestLoanApplicationsCleaning:
 
 
 # ── Loan Applications: dimension building ─────────────────────────────────────
+
 
 class TestApplicantDimension:
 
@@ -176,7 +220,9 @@ class TestFactTable:
         fact = loan_transformer.build_fact_table(cleaned, dim)
         assert "estimated_monthly_payment_usd" in fact.columns
 
-    def test_monthly_payment_positive_for_valid_rows(self, loan_transformer, sample_loans):
+    def test_monthly_payment_positive_for_valid_rows(
+        self, loan_transformer, sample_loans
+    ):
         cleaned = loan_transformer.clean(sample_loans)
         dim = loan_transformer.build_applicant_dim(cleaned)
         fact = loan_transformer.build_fact_table(cleaned, dim)
@@ -186,9 +232,12 @@ class TestFactTable:
 
 # ── Loan Repayments ───────────────────────────────────────────────────────────
 
+
 class TestLoanRepaymentsCleaning:
 
-    def test_drops_rows_missing_application_id(self, repay_transformer, sample_repayments):
+    def test_drops_rows_missing_application_id(
+        self, repay_transformer, sample_repayments
+    ):
         cleaned = repay_transformer.clean(sample_repayments)
         assert cleaned["application_id"].notna().all()
 
@@ -197,12 +246,14 @@ class TestLoanRepaymentsCleaning:
         A row with a null in a non-essential column (like notes)
         should NOT be dropped.
         """
-        df = pd.DataFrame({
-            "application_id": ["APP001"],
-            "repayment_date": ["2024-01-15"],
-            "amount_paid_usd": [500.0],
-            "notes": [None],  # Optional — should not trigger a row drop
-        })
+        df = pd.DataFrame(
+            {
+                "application_id": ["APP001"],
+                "repayment_date": ["2024-01-15"],
+                "amount_paid_usd": [500.0],
+                "notes": [None],  # Optional — should not trigger a row drop
+            }
+        )
         cleaned = repay_transformer.clean(df)
         assert len(cleaned) == 1
 
@@ -228,6 +279,7 @@ class TestLoanRepaymentsCleaning:
 
 
 # ── Credit Bureau ─────────────────────────────────────────────────────────────
+
 
 class TestCreditBureauCleaning:
 
@@ -265,20 +317,25 @@ class TestCreditBureauCleaning:
         The original code did dropna() which would drop this row.
         We only require application_id to be non-null.
         """
-        df = pd.DataFrame({
-            "application_id":   ["APP001"],
-            "credit_score":     [700],
-            "bankruptcy_flag":  [None],  # Optional — no bankruptcy on record
-        })
+        df = pd.DataFrame(
+            {
+                "application_id": ["APP001"],
+                "credit_score": [700],
+                "bankruptcy_flag": [None],  # Optional — no bankruptcy on record
+            }
+        )
         cleaned = credit_transformer.clean(df)
         assert len(cleaned) == 1
 
-    def test_credit_utilization_coerced_to_numeric(self, credit_transformer, sample_credit):
+    def test_credit_utilization_coerced_to_numeric(
+        self, credit_transformer, sample_credit
+    ):
         cleaned = credit_transformer.clean(sample_credit)
         assert pd.api.types.is_numeric_dtype(cleaned["credit_utilization_pct"])
 
 
 # ── Column normalisation edge cases ───────────────────────────────────────────
+
 
 class TestColumnNormalisation:
     """Tests the _normalise_columns helper via the transformer."""

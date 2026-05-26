@@ -19,7 +19,7 @@ logger = get_logger("lendwise.transform.loan_applications")
 
 
 class LoanApplicationsTransformer:
-# Transformer for loan applications data. Cleans the raw source and builds the dimension and fact tables.
+    # Transformer for loan applications data. Cleans the raw source and builds the dimension and fact tables.
     def clean(self, df: pd.DataFrame) -> pd.DataFrame:
         """
         Cleans the raw loan applications CSV.
@@ -28,18 +28,18 @@ class LoanApplicationsTransformer:
 
         # Make a copy to avoid modifying the original DataFrame
         df = df.copy()
-        
+
         # 1. Normalise column names
         df.columns = self._normalise_columns(df.columns)
-        
-        # 2. Drop duplicates 
+
+        # 2. Drop duplicates
         df = df.drop_duplicates()
 
-        # 3. Drop only rows missing the anchor key 
+        # 3. Drop only rows missing the anchor key
         before = len(df)
         df = df.dropna(subset=["application_id"])
         dropped = before - len(df)
-    
+
         if dropped:
             logger.warning("Dropped %d rows with null application_id", dropped)
 
@@ -49,7 +49,11 @@ class LoanApplicationsTransformer:
                 df[col] = pd.to_datetime(df[col], errors="coerce")
 
         # 5. Numeric columns
-        for col in ["loan_amount_requested_usd", "monthly_income_usd", "annual_income_usd"]:
+        for col in [
+            "loan_amount_requested_usd",
+            "monthly_income_usd",
+            "annual_income_usd",
+        ]:
             if col in df.columns:
                 df[col] = pd.to_numeric(df[col], errors="coerce")
 
@@ -83,11 +87,14 @@ class LoanApplicationsTransformer:
         key_col = "applicant_ssn" if "applicant_ssn" in dim.columns else None
         if key_col:
             dim["applicant_id"] = dim[key_col].apply(
-                lambda ssn: "APP-" + hashlib.sha256(str(ssn).encode()).hexdigest()[:8]
-                if pd.notna(ssn) else "APP-UNKNOWN"
+                lambda ssn: (
+                    "APP-" + hashlib.sha256(str(ssn).encode()).hexdigest()[:8]
+                    if pd.notna(ssn)
+                    else "APP-UNKNOWN"
+                )
             )
         else:
-            
+
             # Fallback to sequential IDs if no SSN column is available.
             dim["applicant_id"] = [f"APP-{str(i).zfill(6)}" for i in range(len(dim))]
             logger.warning(
@@ -167,7 +174,10 @@ class LoanApplicationsTransformer:
         fact = merged[available].copy()
 
         # Derived column: estimated monthly payment using standard amortisation formula
-        if all(c in fact.columns for c in ["loan_amount_requested_usd", "interest_rate", "loan_term_months"]):
+        if all(
+            c in fact.columns
+            for c in ["loan_amount_requested_usd", "interest_rate", "loan_term_months"]
+        ):
             fact["estimated_monthly_payment_usd"] = self._monthly_payment(
                 fact["loan_amount_requested_usd"],
                 fact["interest_rate"],
@@ -214,7 +224,8 @@ class LoanApplicationsTransformer:
         mask = monthly_rate > 0
         payment = pd.Series(np.nan, index=principal.index)
         payment[mask] = principal[mask] * (
-            monthly_rate[mask] * (1 + monthly_rate[mask]) ** n[mask]
+            monthly_rate[mask]
+            * (1 + monthly_rate[mask]) ** n[mask]
             / ((1 + monthly_rate[mask]) ** n[mask] - 1)
         )
         payment[~mask] = principal[~mask] / n[~mask]

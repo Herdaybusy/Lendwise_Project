@@ -40,10 +40,13 @@ class GCSLoader:
             self._bucket = self._client.bucket(settings.bucket_name)
             logger.info(
                 "GCSLoader initialised | bucket=%s | prefix=%s",
-                settings.bucket_name, settings.cleaned_prefix,
+                settings.bucket_name,
+                settings.cleaned_prefix,
             )
         else:
-            logger.info("GCSLoader initialised (local mode — saves to ./data/Cleaned_Data/)")
+            logger.info(
+                "GCSLoader initialised (local mode — saves to ./data/Cleaned_Data/)"
+            )
 
     def upload(self, df: pd.DataFrame, filename: str) -> str:
         """
@@ -52,7 +55,9 @@ class GCSLoader:
         if self.mode == "local":
             local_path = f"data/Cleaned_Data/{filename}"
             df.to_csv(local_path, index=False)
-            logger.info("[LOCAL MODE] Saved %s (%d rows) → %s", filename, len(df), local_path)
+            logger.info(
+                "[LOCAL MODE] Saved %s (%d rows) → %s", filename, len(df), local_path
+            )
             return local_path
 
         # In cloud mode, upload to GCS with retry logic.
@@ -73,6 +78,10 @@ class GCSLoader:
             return gcs_uri
 
         except GoogleAPIError as exc:
-            raise GCSUploadError(f"GCS API error uploading '{gcs_path}': {exc}") from exc
+            raise GCSUploadError(
+                f"GCS API error uploading '{gcs_path}': {exc}"
+            ) from exc
         except Exception as exc:
-            raise GCSUploadError(f"Unexpected error uploading '{gcs_path}': {exc}") from exc
+            raise GCSUploadError(
+                f"Unexpected error uploading '{gcs_path}': {exc}"
+            ) from exc

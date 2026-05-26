@@ -16,12 +16,12 @@ import os
 class TestETLPipelineLocalMode:
 
     def test_pipeline_runs_in_dry_run_mode(self, tmp_path, monkeypatch):
-       
-    # This test validates that the pipeline can run end-to-end in local mode without
-    # needing GCP credentials or actual CSV files. We mock the data loading steps to avoid
-    # needing real CSVs in CI, but we still validate that the pipeline's run() method
-    # executes and returns a result with the expected structure.
-    
+
+        # This test validates that the pipeline can run end-to-end in local mode without
+        # needing GCP credentials or actual CSV files. We mock the data loading steps to avoid
+        # needing real CSVs in CI, but we still validate that the pipeline's run() method
+        # executes and returns a result with the expected structure.
+
         # Point local data paths at our test fixtures
         monkeypatch.setenv("RUN_MODE", "local")
 
@@ -42,15 +42,16 @@ class TestETLPipelineLocalMode:
         from unittest.mock import patch, MagicMock
 
         mock_result = {
-            "status":          "success",
-            "run_id":          "lendwise-20240115-103000",
-            "mode":            "local",
-            "dry_run":         True,
+            "status": "success",
+            "run_id": "lendwise-20240115-103000",
+            "mode": "local",
+            "dry_run": True,
             "elapsed_seconds": 1.23,
-            "tables_loaded":   {"fact_loans": 100, "dim_applicants": 50},
+            "tables_loaded": {"fact_loans": 100, "dim_applicants": 50},
         }
 
         from etl.pipelines.etl_pipeline import ETLPipeline
+
         pipeline = ETLPipeline(mode="local")
 
         with patch.object(pipeline, "run", return_value=mock_result):
@@ -63,6 +64,7 @@ class TestETLPipelineLocalMode:
 
     def test_pipeline_mode_is_set_correctly(self):
         from etl.pipelines.etl_pipeline import ETLPipeline
+
         pipeline = ETLPipeline(mode="local")
         assert pipeline.mode == "local"
 
@@ -70,10 +72,7 @@ class TestETLPipelineLocalMode:
 @pytest.mark.integration
 class TestDAGLoading:
 
-    @pytest.mark.skipif(
-        os.name == "nt",
-        reason="Airflow is not supported on Windows"
-    )
+    @pytest.mark.skipif(os.name == "nt", reason="Airflow is not supported on Windows")
     def test_dag_loads_without_import_errors(self):
         """
         Validates that the Airflow DAG file can be imported cleanly.
@@ -81,21 +80,20 @@ class TestDAGLoading:
         """
         try:
             from airflow.models import DagBag
+
             dagbag = DagBag(dag_folder="orchestration/airflow/", include_examples=False)
-            assert len(dagbag.import_errors) == 0, (
-                f"DAG import errors found: {dagbag.import_errors}"
-            )
+            assert (
+                len(dagbag.import_errors) == 0
+            ), f"DAG import errors found: {dagbag.import_errors}"
         except ImportError:
             pytest.skip("Airflow not installed — skipping DAG import test")
 
-    @pytest.mark.skipif(
-        os.name == "nt",
-        reason="Airflow is not supported on Windows"
-    )
+    @pytest.mark.skipif(os.name == "nt", reason="Airflow is not supported on Windows")
     def test_dag_has_correct_schedule(self):
         """The pipeline should run daily — verify the schedule interval."""
         try:
             from airflow.models import DagBag
+
             dagbag = DagBag(dag_folder="orchestration/airflow/", include_examples=False)
             dag = dagbag.get_dag("lendwise_etl_pipeline")
             if dag:

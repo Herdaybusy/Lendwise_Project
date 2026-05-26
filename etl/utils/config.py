@@ -8,11 +8,11 @@ from dataclasses import dataclass, field
 from functools import lru_cache
 from typing import Optional
 
-
 # Variables that MUST be present — no defaults, no silent fallback
 _REQUIRED = ("GCP_PROJECT", "BUCKET_NAME", "BQ_DATASET")
 
 load_dotenv()  # Load .env file in local dev; in cloud
+
 
 @dataclass(frozen=True)
 class Settings:
@@ -27,8 +27,7 @@ class Settings:
     raw_prefix: str = "Raw_Data/"
     cleaned_prefix: str = "Cleaned_Data/"
 
-
-    # BigQuery load settings    
+    # BigQuery load settings
     bq_write_disposition: str = "WRITE_TRUNCATE"
 
     # Retry settings for GCS reads
@@ -36,11 +35,13 @@ class Settings:
     retry_delay_seconds: float = 2.0
 
     # Source file names — override via env if your filenames differ
-    source_files: dict = field(default_factory=lambda: {
-        "loan_applications": "loan_applications.csv",
-        "loan_repayments":   "loan_repayments.csv",
-        "credit_bureau":     "credit_bureau_data.csv",
-    })
+    source_files: dict = field(
+        default_factory=lambda: {
+            "loan_applications": "loan_applications.csv",
+            "loan_repayments": "loan_repayments.csv",
+            "credit_bureau": "credit_bureau_data.csv",
+        }
+    )
 
     # Run mode: "local" skips GCS/BQ and uses local CSV files
     run_mode: str = "cloud"
@@ -61,7 +62,6 @@ def get_settings() -> Settings:
             "Copy .env.example to .env and fill in your GCP project details."
         )
 
-    
     return Settings(
         project_id=os.environ["GCP_PROJECT"],
         bucket_name=os.environ["BUCKET_NAME"],
@@ -82,16 +82,20 @@ def _get_settings_lazy() -> Settings:
 
 settings: Settings = None  # type: ignore  # populated on first access via __getattr__ trick
 
+
 class _LazySettings:
     """Defers Settings construction until first attribute access."""
+
     def __getattr__(self, name):
         global settings
         s = get_settings()
-        
+
         # Cache onto the module-level name so future accesses are direct
         import sys
+
         sys.modules[__name__].settings = s
         return getattr(s, name)
+
 
 # Initialize the lazy settings proxy.
 settings = _LazySettings()  # type: ignore

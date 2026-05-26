@@ -35,7 +35,11 @@ def etl_pipeline(request: Request):
     body = request.get_json(silent=True) or {}
     dry_run: bool = body.get("dry_run", False)
 
-    logger.info("Cloud Function triggered | dry_run=%s | source=%s", dry_run, request.remote_addr)
+    logger.info(
+        "Cloud Function triggered | dry_run=%s | source=%s",
+        dry_run,
+        request.remote_addr,
+    )
 
     try:
         pipeline = ETLPipeline(mode="cloud")
@@ -44,14 +48,24 @@ def etl_pipeline(request: Request):
 
     except ValidationError as exc:
         logger.error("Pipeline aborted — validation gate failed")
-        return jsonify({
-            "status": "validation_failure",
-            "error":  str(exc),
-        }), 422
+        return (
+            jsonify(
+                {
+                    "status": "validation_failure",
+                    "error": str(exc),
+                }
+            ),
+            422,
+        )
 
     except Exception as exc:
         logger.exception("Pipeline failed with unexpected error")
-        return jsonify({
-            "status": "error",
-            "error":  str(exc),
-        }), 500
+        return (
+            jsonify(
+                {
+                    "status": "error",
+                    "error": str(exc),
+                }
+            ),
+            500,
+        )

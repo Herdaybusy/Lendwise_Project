@@ -14,21 +14,21 @@ from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.utils.dates import days_ago
 
-
 # Default task args
 
 default_args = {
-    "owner":            "lendwise-data-team",
-    "depends_on_past":  False,
+    "owner": "lendwise-data-team",
+    "depends_on_past": False,
     "email_on_failure": True,
-    "email_on_retry":   False,
-    "retries":          3,
-    "retry_delay":      timedelta(minutes=5),
+    "email_on_retry": False,
+    "retries": 3,
+    "retry_delay": timedelta(minutes=5),
     "execution_timeout": timedelta(hours=2),
 }
 
 
 # Task functions
+
 
 def run_etl_pipeline(**context) -> dict:
 
@@ -53,9 +53,9 @@ def on_failure_callback(context):
     Add alerting here (Slack, PagerDuty, email) as needed.
     """
     task_id = context.get("task_instance").task_id
-    dag_id  = context.get("dag").dag_id
-    run_id  = context.get("run_id")
-    error   = context.get("exception")
+    dag_id = context.get("dag").dag_id
+    run_id = context.get("run_id")
+    error = context.get("exception")
 
     print(
         f"[ALERT] Task failed: {dag_id}.{task_id} | run_id={run_id} | error={error}\n"
@@ -72,7 +72,7 @@ with DAG(
     start_date=datetime(2025, 1, 1),
     schedule_interval="0 2 * * *",  # 02:00 UTC daily
     catchup=False,
-    max_active_runs=1,              # Prevent overlapping runs
+    max_active_runs=1,  # Prevent overlapping runs
     tags=["lendwise", "etl", "finance", "gcp"],
 ) as dag:
 

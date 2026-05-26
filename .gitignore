@@ -2,6 +2,6 @@
 *.json
 __pycache__/
 .pytest_cache/
-Cleaned_Data/
+Cleaned_Data
 data/
 *.pyc

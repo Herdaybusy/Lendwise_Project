@@ -92,7 +92,12 @@ class GCSExtractor:
 
                 raw_bytes = blob.download_as_bytes()
                 df = pd.read_csv(io.BytesIO(raw_bytes), low_memory=False)
-                logger.debug("Downloaded gs://%s/%s (%d bytes)", settings.bucket_name, gcs_path, len(raw_bytes))
+                logger.debug(
+                    "Downloaded gs://%s/%s (%d bytes)",
+                    settings.bucket_name,
+                    gcs_path,
+                    len(raw_bytes),
+                )
                 return df
 
             except ExtractionError:
@@ -101,12 +106,18 @@ class GCSExtractor:
 
             except (GoogleAPIError, Exception) as exc:
                 last_error = exc
-                wait = settings.retry_delay_seconds * (2 ** (attempt - 1))  # Exponential backoff
+                wait = settings.retry_delay_seconds * (
+                    2 ** (attempt - 1)
+                )  # Exponential backoff
                 logger.warning(
                     "Attempt %d/%d failed for %s: %s. Retrying in %.1fs...",
-                    attempt, settings.max_retries, gcs_path, exc, wait,
+                    attempt,
+                    settings.max_retries,
+                    gcs_path,
+                    exc,
+                    wait,
                 )
-                # Only sleep if we're going to retry again. 
+                # Only sleep if we're going to retry again.
                 if attempt < settings.max_retries:
                     time.sleep(wait)
 

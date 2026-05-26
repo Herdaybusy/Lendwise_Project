@@ -4,19 +4,17 @@ from etl.utils.logger import get_logger
 logger = get_logger("lendwise.transform.credit_bureau")
 
 
-class CreditBureauTransformer: # Transformer for credit bureau data. Cleans and standardises the credit bureau DataFrame
+class CreditBureauTransformer:  # Transformer for credit bureau data. Cleans and standardises the credit bureau DataFrame
 
-    
     def clean(self, df: pd.DataFrame) -> pd.DataFrame:
-        
+
         logger.info("Cleaning credit bureau data: %d rows", len(df))
         # Make a copy to avoid modifying the original DataFrame
         df = df.copy()
 
         # 1. Normalise column names
         df.columns = (
-            df.columns
-            .str.strip()
+            df.columns.str.strip()
             .str.lower()
             .str.replace(r"[\s\-\(\)]+", "_", regex=True)
             .str.strip("_")
@@ -55,8 +53,7 @@ class CreditBureauTransformer: # Transformer for credit bureau data. Cleans and 
         # 5. Date parsing
         if "bureau_pull_date" in df.columns:
             df["bureau_pull_date"] = pd.to_datetime(
-                df["bureau_pull_date"],
-                errors="coerce"
+                df["bureau_pull_date"], errors="coerce"
             )
 
         # 6. Credit band
@@ -69,7 +66,7 @@ class CreditBureauTransformer: # Transformer for credit bureau data. Cleans and 
 
             logger.info(
                 "Credit band distribution: %s",
-                df["credit_band"].value_counts(dropna=True).to_dict()
+                df["credit_band"].value_counts(dropna=True).to_dict(),
             )
 
         logger.info("Finished cleaning credit bureau data: %d rows", len(df))

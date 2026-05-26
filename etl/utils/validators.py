@@ -2,7 +2,7 @@
 Validators
 ----------
 
-Reliable data quality checks 
+Reliable data quality checks
 """
 
 import pandas as pd
@@ -11,11 +11,12 @@ from etl.utils.logger import get_logger
 logger = get_logger("lendwise.validators")
 
 
-
 # Loan Applications
+
 
 class ValidationError(Exception):
     pass
+
 
 # Each validation function checks a specific table's DataFrame for expected columns and value ranges.
 def validate_loan_applications(df: pd.DataFrame) -> dict:
@@ -28,25 +29,24 @@ def validate_loan_applications(df: pd.DataFrame) -> dict:
 
     # Convert safely
     df["loan_amount_requested_usd"] = pd.to_numeric(
-        df["loan_amount_requested_usd"],
-        errors="coerce"
+        df["loan_amount_requested_usd"], errors="coerce"
     )
 
     # Detect invalids
     invalid_mask = (
-        (df["loan_amount_requested_usd"] <= 0) |
-        (df["loan_amount_requested_usd"] > 500_000) |
-        (df["loan_amount_requested_usd"].isna())
+        (df["loan_amount_requested_usd"] <= 0)
+        | (df["loan_amount_requested_usd"] > 500_000)
+        | (df["loan_amount_requested_usd"].isna())
     )
 
     invalid_count = invalid_mask.sum()
 
-    # Log summary of invalids 
+    # Log summary of invalids
     if invalid_count > 0:
         logger.warning(
             "Invalid loan amounts detected: %d rows (%.2f%%)",
             invalid_count,
-            invalid_count / len(df) * 100
+            invalid_count / len(df) * 100,
         )
 
     # Optional: decide policy instead of crashing
@@ -58,8 +58,8 @@ def validate_loan_applications(df: pd.DataFrame) -> dict:
     return {"invalid_rows": int(invalid_count)}
 
 
-
 # Loan Repayments
+
 
 def validate_loan_repayments(df: pd.DataFrame):
     logger.info("Validating loan repayments: %d rows", len(df))
@@ -77,6 +77,7 @@ def validate_loan_repayments(df: pd.DataFrame):
 
 # Credit Bureau
 
+
 def validate_credit_bureau(df: pd.DataFrame):
     logger.info("Validating credit bureau: %d rows", len(df))
 
@@ -84,10 +85,7 @@ def validate_credit_bureau(df: pd.DataFrame):
         raise ValidationError("Missing applicant_ssn")
 
     if "credit_score" in df.columns:
-        invalid = df[
-            (df["credit_score"] < 300) |
-            (df["credit_score"] > 850)
-        ]
+        invalid = df[(df["credit_score"] < 300) | (df["credit_score"] > 850)]
         if len(invalid) > 0:
             raise ValidationError("Invalid credit scores found")
 
@@ -95,6 +93,7 @@ def validate_credit_bureau(df: pd.DataFrame):
 
 
 # Fact Table
+
 
 def validate_fact_loans(df: pd.DataFrame):
     logger.info("Validating fact loans: %d rows", len(df))

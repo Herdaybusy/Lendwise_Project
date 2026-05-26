@@ -29,10 +29,9 @@ class BigQueryLoader:
               and just logs — used for local testing without GCP credentials.
     """
 
-    
     def __init__(self, mode: str = "cloud"):
         # Store mode and initialise BigQuery client only if in cloud mode.
-        
+
         self.mode = mode
         self._client: Optional[bigquery.Client] = None
 
@@ -40,7 +39,8 @@ class BigQueryLoader:
             self._client = bigquery.Client(project=settings.project_id)
             logger.info(
                 "BigQueryLoader initialised | project=%s | dataset=%s",
-                settings.project_id, settings.dataset_id,
+                settings.project_id,
+                settings.dataset_id,
             )
         else:
             logger.info("BigQueryLoader initialised (local mode — loads skipped)")
@@ -48,9 +48,13 @@ class BigQueryLoader:
     def load(self, df: pd.DataFrame, table_name: str) -> int:
 
         # Loads a DataFrame into a BigQuery table.
-        
+
         if self.mode == "local":
-            logger.info("[LOCAL MODE] Skipping BigQuery load for: %s (%d rows)", table_name, len(df))
+            logger.info(
+                "[LOCAL MODE] Skipping BigQuery load for: %s (%d rows)",
+                table_name,
+                len(df),
+            )
             return 0
 
         table_id = f"{settings.project_id}.{settings.dataset_id}.{table_name}"
@@ -64,7 +68,9 @@ class BigQueryLoader:
 
         # Implementing retry logic for transient errors.
         try:
-            job = self._client.load_table_from_dataframe(df, table_id, job_config=job_config)
+            job = self._client.load_table_from_dataframe(
+                df, table_id, job_config=job_config
+            )
             job.result()  # Block until the job completes
 
             # Verify by reading the row count back from BQ
@@ -74,7 +80,9 @@ class BigQueryLoader:
             return rows_written
 
         except GoogleAPIError as exc:
-            raise LoadError(f"BigQuery API error loading '{table_name}': {exc}") from exc
+            raise LoadError(
+                f"BigQuery API error loading '{table_name}': {exc}"
+            ) from exc
         except Exception as exc:
             raise LoadError(f"Unexpected error loading '{table_name}': {exc}") from exc
 
@@ -83,7 +91,7 @@ class BigQueryLoader:
         Loads multiple tables. Continues on failure and reports all errors
         at the end, rather than stopping at the first one.
         """
-        
+
         row_counts: Dict[str, int] = {}
         errors: list = []
 
